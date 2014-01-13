@@ -64,6 +64,8 @@ Underscore      | http://documentcloud.github.com/underscore/
 Zepto           | http://zeptojs.com/
 
 ## Web Fonts
+Name          | Url
+----          | ---
 Font Awesome  | https://github.com/FortAwesome/Font-Awesome
 Font JS       | http://pomax.nihongoresources.com/pages/Font.js/
 Font Detector | http://www.lalit.org/lab/javascript-css-font-detect/
