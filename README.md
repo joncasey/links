@@ -2,12 +2,13 @@ Links
 =====
 
 ## Audio
-Name    | Url
----     | ---
-eac3to  | http://forum.doom9.org/showthread.php?t=125966 [gui](http://code.google.com/p/hdbrstreamextractor/)
-mp3tag  | http://www.mp3tag.de/en/download.html
-lame    | http://lame.sourceforge.net/download.php
-opus    | http://www.opus-codec.org/downloads/
+Name       | Url                                                          | Version
+---        | ---                                                          | ---
+eac3to     | http://forum.doom9.org/showthread.php?t=125966               | 3.2.7
+eac3to-gui | https://code.google.com/p/hdbrstreamextractor/downloads/list | 0.8
+mp3tag     | http://www.mp3tag.de/en/download.html                        | 2.66
+lame       | http://lame.sourceforge.net/download.php                     | 3.99
+opus       | http://www.opus-codec.org/downloads/                         | 0.1.9
 
 ## Developer
 Name         | Url
