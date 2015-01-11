@@ -55,16 +55,21 @@ Synchronicity | http://synchronicity.sourceforge.net/
 WinMerge      | http://winmerge.org/downloads/
 
 ## Video
-Name          | Url
-----          | ---
-atomicparsley | http://sourceforge.net/projects/atomicparsley/files/atomicparsley/
-ffmpeg        | http://www.ffmpeg.org/download.html [windows](http://ffmpeg.zeranoe.com/builds/)
-handbrake     | http://handbrake.fr/downloads.php
-mediainfo     | http://mediaarea.net/us/MediaInfo/Download/Windows
-mkvtoolnix    | http://www.bunkus.org/videotools/mkvtoolnix/downloads.html [windows](http://www.fosshub.com/MKVToolNix.html)
-mp4box        | http://gpac.wp.mines-telecom.fr/mp4box/
-vp8/webm      | http://www.webmproject.org/tools/
-x264          | http://www.videolan.org/developers/x264.html [win32](http://download.videolan.org/pub/videolan/x264/binaries/win32/) [win64](http://download.videolan.org/pub/videolan/x264/binaries/win64/)
+Name           | Url                                                                | Version
+----           | ---                                                                | ---
+atomicparsley  | http://sourceforge.net/projects/atomicparsley/files/atomicparsley/ | 0.9.0
+ffmpeg         | http://www.ffmpeg.org/download.html                                | 2.5.3
+ffmpeg-win     | http://ffmpeg.zeranoe.com/builds/                                  | 
+handbrake      | http://handbrake.fr/downloads.php                                  | 0.10.0
+mediainfo      | http://mediaarea.net/us/MediaInfo/Download/Windows                 | 0.7.72
+mkvtoolnix     | http://www.bunkus.org/videotools/mkvtoolnix/downloads.html         | 7.5.0
+mkvtoolnix-win | http://www.fosshub.com/MKVToolNix.html                             | 7.5.0
+mp4box         | http://gpac.wp.mines-telecom.fr/mp4box/                            | 0.5.1
+subtitle-edit  | https://github.com/SubtitleEdit/subtitleedit/releases              | 3.4.5
+webm           | http://www.webmproject.org/tools/                                  | 
+x264           | http://www.videolan.org/developers/x264.html                       | 
+x264-win32     | http://download.videolan.org/pub/videolan/x264/binaries/win32/     | 
+x264-win64     | http://download.videolan.org/pub/videolan/x264/binaries/win64/     | 
 
 ## Web Fonts
 Name          | Url
