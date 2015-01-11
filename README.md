@@ -11,18 +11,19 @@ lame       | http://lame.sourceforge.net/download.php                     | 3.99
 opus       | http://www.opus-codec.org/downloads/                         | 0.1.9
 
 ## Developer
-Name         | Url
-----         | ---
-flex-adobe   | http://www.adobe.com/devnet/flex/flex-sdk-download.html
-flex-apache  | http://flex.apache.org/download-binaries.html
-gimp         | http://www.gimp.org/downloads/ [portable](http://portableapps.com/apps/graphics_pictures/gimp_portable)
-git          | http://code.google.com/p/msysgit/downloads/list?can=2&q=&colspec=Filename+Summary+Uploaded+ReleaseDate+Size+DownloadCount
-java         | http://www.oracle.com/technetwork/java/javase/downloads/jre7-downloads-1880261.html
-nodejs       | http://nodejs.org/download/
-notepad++    | http://notepad-plus-plus.org/download/
-paint.net    | http://www.getpaint.net/download.html
-phantomjs    | http://phantomjs.org/
-sqlite       | http://www.sqlite.org/download.html
+Name          | Url                                                                | Version
+----          | ---                                                                | ---
+flex-adobe    | http://www.adobe.com/devnet/flex/flex-sdk-download.html            | 4.6 * EOL
+flex-apache   | http://flex.apache.org/download-binaries.html                      | 4.13.0
+gimp          | http://www.gimp.org/downloads/                                     | 2.8.14
+gimp-portable | http://portableapps.com/apps/graphics_pictures/gimp_portable       | 2.8.14
+git           | https://github.com/msysgit/msysgit/releases                        | 1.9.5
+java          | http://www.oracle.com/technetwork/java/javase/downloads/index.html | 7u## / 8u##
+nodejs        | http://nodejs.org/download/                                        | 0.10.35
+notepad++     | http://notepad-plus-plus.org/download/                             | 6.7.4
+paint.net     | http://www.getpaint.net/download.html                              | 4.0.5
+phantomjs     | http://phantomjs.org/download.html                                 | 1.9.8
+sqlite        | http://www.sqlite.org/download.html                                | 3.8.7.4
 
 ## HTML
 Name        | Url
