@@ -39,6 +39,7 @@ sqlite       | http://www.sqlite.org/download.html
 Name          | Url
 ----          | ---
 7zip          | http://www.7-zip.org/download.html
+ImgBurn       | http://www.imgburn.com/index.php?act=download
 Synchronicity | http://synchronicity.sourceforge.net/
 WinMerge      | http://winmerge.org/downloads/
 
