@@ -20,6 +20,7 @@ gimp-portable | http://portableapps.com/apps/graphics_pictures/gimp_portable    
 git           | https://github.com/msysgit/msysgit/releases                        | 1.9.5
 java          | http://www.oracle.com/technetwork/java/javase/downloads/index.html | 7u## / 8u##
 nodejs        | http://nodejs.org/download/                                        | 0.10.35
+nwjs          | http://nwjs.io/                                                    | 0.12.0-alpha1
 notepad++     | http://notepad-plus-plus.org/download/                             | 6.7.4
 paint.net     | http://www.getpaint.net/download.html                              | 4.0.5
 phantomjs     | http://phantomjs.org/download.html                                 | 1.9.8
