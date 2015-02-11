@@ -18,6 +18,7 @@ flex-apache   | http://flex.apache.org/download-binaries.html                   
 gimp          | http://www.gimp.org/downloads/                                     | 2.8.14
 gimp-portable | http://portableapps.com/apps/graphics_pictures/gimp_portable       | 2.8.14
 git           | https://github.com/msysgit/msysgit/releases                        | 1.9.5
+iojs          | https://iojs.org/dist/latest/                                      | 1.2.0
 java          | http://www.oracle.com/technetwork/java/javase/downloads/index.html | 7u## / 8u##
 nodejs        | http://nodejs.org/download/                                        | 0.10.35
 nwjs          | http://nwjs.io/                                                    | 0.12.0-alpha1
