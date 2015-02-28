@@ -1,15 +1,6 @@
 Links
 =====
 
-## Audio
-Name       | Url                                                          | Version
----        | ---                                                          | ---
-eac3to     | http://forum.doom9.org/showthread.php?t=125966               | 3.2.7
-eac3to-gui | https://code.google.com/p/hdbrstreamextractor/downloads/list | 0.8
-mp3tag     | http://www.mp3tag.de/en/download.html                        | 2.66
-lame       | http://lame.sourceforge.net/download.php                     | 3.99
-opus       | http://www.opus-codec.org/downloads/                         | 0.1.9
-
 ## Developer
 Name          | Url                                                                | Version
 ----          | ---                                                                | ---
@@ -72,6 +63,15 @@ webm           | http://www.webmproject.org/tools/                              
 x264           | http://www.videolan.org/developers/x264.html                       | 
 x264-win32     | http://download.videolan.org/pub/videolan/x264/binaries/win32/     | 
 x264-win64     | http://download.videolan.org/pub/videolan/x264/binaries/win64/     | 
+
+## Audio
+Name       | Url                                                          | Version
+---        | ---                                                          | ---
+eac3to     | http://forum.doom9.org/showthread.php?t=125966               | 3.2.7
+eac3to-gui | https://code.google.com/p/hdbrstreamextractor/downloads/list | 0.8
+mp3tag     | http://www.mp3tag.de/en/download.html                        | 2.66
+lame       | http://lame.sourceforge.net/download.php                     | 3.99
+opus       | http://www.opus-codec.org/downloads/                         | 0.1.9
 
 ## Web Fonts
 Name          | Url
