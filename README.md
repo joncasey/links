@@ -7,13 +7,13 @@ Name          | Url                                                             
 flex-adobe    | http://www.adobe.com/devnet/flex/flex-sdk-download.html            | 4.6 * EOL
 flex-apache   | http://flex.apache.org/download-binaries.html                      | 4.14.0
 git           | https://github.com/msysgit/msysgit/releases                        | 1.9.5
-iojs          | https://iojs.org/dist/latest/                                      | 1.2.0
+iojs          | https://iojs.org/dist/latest/                                      | 1.4.1
 java          | http://www.oracle.com/technetwork/java/javase/downloads/index.html | 7u## / 8u##
 nodejs        | http://nodejs.org/download/                                        | 0.12.0
-nwjs          | http://nwjs.io/                                                    | 0.12.0-alpha2
+nwjs          | http://nwjs.io/                                                    | 0.12.0-rc1
 notepad++     | http://notepad-plus-plus.org/download/                             | 6.7.4
 phantomjs     | http://phantomjs.org/download.html                                 | 2.0.0
-sqlite        | http://www.sqlite.org/download.html                                | 3.8.8.2
+sqlite        | http://www.sqlite.org/download.html                                | 3.8.8.3
 
 ## HTML
 Name        | Url
@@ -48,7 +48,7 @@ WinMerge      | http://winmerge.org/downloads/
 Name           | Url                                                                | Version
 ----           | ---                                                                | ---
 atomicparsley  | http://sourceforge.net/projects/atomicparsley/files/atomicparsley/ | 0.9.0
-ffmpeg         | http://www.ffmpeg.org/download.html                                | 2.5.3
+ffmpeg         | http://www.ffmpeg.org/download.html                                | 2.5.4
 ffmpeg-win     | http://ffmpeg.zeranoe.com/builds/                                  | 
 handbrake      | http://handbrake.fr/downloads.php                                  | 0.10.0
 mediainfo      | http://mediaarea.net/us/MediaInfo/Download/Windows                 | 0.7.72
