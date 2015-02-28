@@ -6,15 +6,12 @@ Name          | Url                                                             
 ----          | ---                                                                | ---
 flex-adobe    | http://www.adobe.com/devnet/flex/flex-sdk-download.html            | 4.6 * EOL
 flex-apache   | http://flex.apache.org/download-binaries.html                      | 4.14.0
-gimp          | http://www.gimp.org/downloads/                                     | 2.8.14
-gimp-portable | http://portableapps.com/apps/graphics_pictures/gimp_portable       | 2.8.14
 git           | https://github.com/msysgit/msysgit/releases                        | 1.9.5
 iojs          | https://iojs.org/dist/latest/                                      | 1.2.0
 java          | http://www.oracle.com/technetwork/java/javase/downloads/index.html | 7u## / 8u##
 nodejs        | http://nodejs.org/download/                                        | 0.12.0
 nwjs          | http://nwjs.io/                                                    | 0.12.0-alpha2
 notepad++     | http://notepad-plus-plus.org/download/                             | 6.7.4
-paint.net     | http://www.getpaint.net/download.html                              | 4.0.5
 phantomjs     | http://phantomjs.org/download.html                                 | 2.0.0
 sqlite        | http://www.sqlite.org/download.html                                | 3.8.8.2
 
@@ -63,6 +60,13 @@ webm           | http://www.webmproject.org/tools/                              
 x264           | http://www.videolan.org/developers/x264.html                       | 
 x264-win32     | http://download.videolan.org/pub/videolan/x264/binaries/win32/     | 
 x264-win64     | http://download.videolan.org/pub/videolan/x264/binaries/win64/     | 
+
+## Image
+Name          | Url                                                                | Version
+----          | ---                                                                | ---
+gimp          | http://www.gimp.org/downloads/                                     | 2.8.14
+gimp-portable | http://portableapps.com/apps/graphics_pictures/gimp_portable       | 2.8.14
+paint.net     | http://www.getpaint.net/download.html                              | 4.0.5
 
 ## Audio
 Name       | Url                                                          | Version
