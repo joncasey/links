@@ -5,10 +5,10 @@ Name          | Url                                                             
 flex-adobe    | http://www.adobe.com/devnet/flex/flex-sdk-download.html            | 4.6 * EOL
 flex-apache   | http://flex.apache.org/download-binaries.html                      | 4.14.0
 git           | https://github.com/msysgit/msysgit/releases                        | 1.9.5
-iojs          | https://iojs.org/dist/latest/                                      | 1.4.1
+iojs          | https://iojs.org/dist/latest/                                      | 1.4.3
 java          | http://www.oracle.com/technetwork/java/javase/downloads/index.html | 7u## / 8u##
 nodejs        | http://nodejs.org/download/                                        | 0.12.0
-nwjs          | http://nwjs.io/                                                    | 0.12.0-rc1
+nwjs          | http://nwjs.io/                                                    | 0.12.0
 notepad++     | http://notepad-plus-plus.org/download/                             | 6.7.4
 phantomjs     | http://phantomjs.org/download.html                                 | 2.0.0
 sqlite        | http://www.sqlite.org/download.html                                | 3.8.8.3
@@ -50,8 +50,8 @@ ffmpeg         | http://www.ffmpeg.org/download.html                            
 ffmpeg-win     | http://ffmpeg.zeranoe.com/builds/                                  | 
 handbrake      | http://handbrake.fr/downloads.php                                  | 0.10.0
 mediainfo      | http://mediaarea.net/us/MediaInfo/Download/Windows                 | 0.7.72
-mkvtoolnix     | http://www.bunkus.org/videotools/mkvtoolnix/downloads.html         | 7.6.0
-mkvtoolnix-win | http://www.fosshub.com/MKVToolNix.html                             | 7.6.0
+mkvtoolnix     | http://www.bunkus.org/videotools/mkvtoolnix/downloads.html         | 7.7.0
+mkvtoolnix-win | http://www.fosshub.com/MKVToolNix.html                             | 7.7.0
 mp4box         | http://gpac.wp.mines-telecom.fr/mp4box/                            | 0.5.2
 subtitle-edit  | https://github.com/SubtitleEdit/subtitleedit/releases              | 3.4.5
 webm           | http://www.webmproject.org/tools/                                  | 
@@ -71,7 +71,7 @@ Name       | Url                                                          | Vers
 ---        | ---                                                          | ---
 eac3to     | http://forum.doom9.org/showthread.php?t=125966               | 3.2.7
 eac3to-gui | https://code.google.com/p/hdbrstreamextractor/downloads/list | 0.8
-mp3tag     | http://www.mp3tag.de/en/download.html                        | 2.66
+mp3tag     | http://www.mp3tag.de/en/download.html                        | 2.68
 lame       | http://lame.sourceforge.net/download.php                     | 3.99
 opus       | http://www.opus-codec.org/downloads/                         | 0.1.9
 
