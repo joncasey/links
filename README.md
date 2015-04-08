@@ -11,35 +11,6 @@ notepad++     | http://notepad-plus-plus.org/download/                          
 phantomjs     | http://phantomjs.org/download.html                                 | 2.0.0
 sqlite        | http://www.sqlite.org/download.html                                | 3.8.8.3
 
-## HTML
-Name        | Url
-----        | ---
-Boilerplate | [html5](http://html5boilerplate.com) [mobile](http://html5boilerplate.com/mobile)
-
-## JavaScript
-Name             | Url
-----             | ---
-Backbone.js      | http://documentcloud.github.com/backbone/
-Closure Compiler | https://github.com/google/closure-compiler/releases
-Crypto JS        | http://code.google.com/p/crypto-js/
-jQuery           | http://jquery.com/ [ui](http://jqueryui.com/) [mobile](http://jquerymobile.com/)
-json:select()    | https://github.com/lloyd/JSONSelect
-Modernizr        | http://modernizr.com/
-Mootools         | http://mootools.net/download
-Popcorn JS       | http://popcornjs.org
-Sizzle           | http://sizzlejs.com/
-Store-JS         | https://github.com/marcuswestin/store.js
-Underscore       | http://documentcloud.github.com/underscore/
-Zepto            | http://zeptojs.com/
-
-## Utility
-Name          | Url
-----          | ---
-7zip          | http://www.7-zip.org/download.html
-ImgBurn       | http://www.imgburn.com/index.php?act=download
-Synchronicity | http://synchronicity.sourceforge.net/
-WinMerge      | http://winmerge.org/downloads/
-
 ## Video
 Name           | Url                                                                | Version
 ----           | ---                                                                | ---
@@ -72,6 +43,35 @@ eac3to-gui | https://code.google.com/p/hdbrstreamextractor/downloads/list | 0.8
 mp3tag     | http://www.mp3tag.de/en/download.html                        | 2.69
 lame       | http://lame.sourceforge.net/download.php                     | 3.99
 opus       | http://www.opus-codec.org/downloads/                         | 0.1.9
+
+## HTML
+Name        | Url
+----        | ---
+Boilerplate | [html5](http://html5boilerplate.com) [mobile](http://html5boilerplate.com/mobile)
+
+## JavaScript
+Name             | Url
+----             | ---
+Backbone.js      | http://documentcloud.github.com/backbone/
+Closure Compiler | https://github.com/google/closure-compiler/releases
+Crypto JS        | http://code.google.com/p/crypto-js/
+jQuery           | http://jquery.com/ [ui](http://jqueryui.com/) [mobile](http://jquerymobile.com/)
+json:select()    | https://github.com/lloyd/JSONSelect
+Modernizr        | http://modernizr.com/
+Mootools         | http://mootools.net/download
+Popcorn JS       | http://popcornjs.org
+Sizzle           | http://sizzlejs.com/
+Store-JS         | https://github.com/marcuswestin/store.js
+Underscore       | http://documentcloud.github.com/underscore/
+Zepto            | http://zeptojs.com/
+
+## Utility
+Name          | Url
+----          | ---
+7zip          | http://www.7-zip.org/download.html
+ImgBurn       | http://www.imgburn.com/index.php?act=download
+Synchronicity | http://synchronicity.sourceforge.net/
+WinMerge      | http://winmerge.org/downloads/
 
 ## Web Fonts
 Name          | Url
