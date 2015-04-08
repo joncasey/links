@@ -2,8 +2,6 @@
 ## Developer
 Name          | Url                                                                | Version
 ----          | ---                                                                | ---
-flex-adobe    | http://www.adobe.com/devnet/flex/flex-sdk-download.html            | 4.6 * EOL
-flex-apache   | http://flex.apache.org/download-binaries.html                      | 4.14.0
 git           | https://github.com/msysgit/msysgit/releases                        | 1.9.5
 iojs          | https://iojs.org/dist/latest/                                      | 1.6.2
 java          | http://www.oracle.com/technetwork/java/javase/downloads/index.html | 7u## / 8u##
