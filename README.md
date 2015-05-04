@@ -53,7 +53,7 @@ Boilerplate | [html5](http://html5boilerplate.com) [mobile](http://html5boilerpl
 Name             | Url
 ----             | ---
 Backbone.js      | http://documentcloud.github.com/backbone/
-Closure Compiler | https://github.com/google/closure-compiler/releases
+Closure Compiler | https://github.com/google/closure-compiler/releases [latest](http://dl.google.com/closure-compiler/compiler-latest.zip)
 Crypto JS        | http://code.google.com/p/crypto-js/
 jQuery           | http://jquery.com/ [ui](http://jqueryui.com/) [mobile](http://jquerymobile.com/)
 json:select()    | https://github.com/lloyd/JSONSelect
