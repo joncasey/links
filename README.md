@@ -3,11 +3,11 @@
 Name          | Url                                                                | Version
 ----          | ---                                                                | ---
 git           | https://github.com/msysgit/msysgit/releases                        | 1.9.5
-iojs          | https://iojs.org/dist/latest/                                      | 2.0.1
+iojs          | https://iojs.org/dist/latest/                                      | 2.1.0
 java          | http://www.oracle.com/technetwork/java/javase/downloads/index.html | 8u45
-nodejs        | http://nodejs.org/download/                                        | 0.12.3
-nwjs          | http://nwjs.io/                                                    | 0.12.1
-notepad++     | http://notepad-plus-plus.org/download/                             | 6.7.7
+nodejs        | http://nodejs.org/download/                                        | 0.12.4
+nwjs          | http://nwjs.io/                                                    | 0.12.2
+notepad++     | http://notepad-plus-plus.org/download/                             | 6.7.8.2
 phantomjs     | http://phantomjs.org/download.html                                 | 2.0.0
 sqlite        | http://www.sqlite.org/download.html                                | 3.8.10
 
@@ -15,10 +15,10 @@ sqlite        | http://www.sqlite.org/download.html                             
 Name           | Url                                                                | Version
 ----           | ---                                                                | ---
 atomicparsley  | http://sourceforge.net/projects/atomicparsley/files/atomicparsley/ | 0.9.0
-ffmpeg         | http://www.ffmpeg.org/download.html                                | 2.6.2
+ffmpeg         | http://www.ffmpeg.org/download.html                                | 2.6.3
 ffmpeg-win     | http://ffmpeg.zeranoe.com/builds/                                  | 
 handbrake      | http://handbrake.fr/downloads.php                                  | 0.10.1
-mediainfo      | http://mediaarea.net/us/MediaInfo/Download/Windows                 | 0.7.73
+mediainfo      | http://mediaarea.net/us/MediaInfo/Download/Windows                 | 0.7.74
 mkvtoolnix     | http://www.bunkus.org/videotools/mkvtoolnix/downloads.html         | 7.9.0
 mkvtoolnix-win | http://www.fosshub.com/MKVToolNix.html                             | 7.9.0
 mp4box         | http://gpac.wp.mines-telecom.fr/mp4box/                            | 0.5.2
