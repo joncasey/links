@@ -3,13 +3,13 @@
 Name          | Url                                                                | Version
 ----          | ---                                                                | ---
 git           | https://github.com/msysgit/msysgit/releases                        | 1.9.5
-iojs          | https://iojs.org/dist/latest/                                      | 2.4.0
+iojs          | https://iojs.org/dist/latest/                                      | 2.5.0
 java          | http://www.oracle.com/technetwork/java/javase/downloads/index.html | 8u51
 nodejs        | http://nodejs.org/download/                                        | 0.12.7
 nwjs          | http://nwjs.io/                                                    | 0.12.2
 notepad++     | http://notepad-plus-plus.org/download/                             | 6.8
 phantomjs     | http://phantomjs.org/download.html                                 | 2.0.0
-sqlite        | http://www.sqlite.org/download.html                                | 3.8.10
+sqlite        | http://www.sqlite.org/download.html                                | 3.8.11
 vscode        | https://code.visualstudio.com/Updates                              | 0.5.0
 
 ## Video
