@@ -4,13 +4,13 @@ Name          | Url                                                             
 ----          | ---                                                                | ---
 git           | https://github.com/msysgit/msysgit/releases                        | 1.9.5
 iojs          | https://iojs.org/dist/latest/                                      | 3.0.0
-java          | http://www.oracle.com/technetwork/java/javase/downloads/index.html | 8u51
+java          | http://www.oracle.com/technetwork/java/javase/downloads/index.html | 8u60
 nodejs        | http://nodejs.org/download/                                        | 0.12.7
 nwjs          | http://nwjs.io/                                                    | 0.12.3
 notepad++     | http://notepad-plus-plus.org/download/                             | 6.8.1
 phantomjs     | http://phantomjs.org/download.html                                 | 2.0.0
 sqlite        | http://www.sqlite.org/download.html                                | 3.8.11
-vscode        | https://code.visualstudio.com/Updates                              | 0.7.0
+vscode        | https://code.visualstudio.com/Updates                              | 0.7.10
 
 ## Video
 Name           | Url                                                                | Version
@@ -20,8 +20,8 @@ ffmpeg         | http://www.ffmpeg.org/download.html                            
 ffmpeg-win     | http://ffmpeg.zeranoe.com/builds/                                  | 
 handbrake      | http://handbrake.fr/downloads.php                                  | 0.10.2
 mediainfo      | http://mediaarea.net/us/MediaInfo/Download/Windows                 | 0.7.76
-mkvtoolnix     | http://www.bunkus.org/videotools/mkvtoolnix/downloads.html         | 8.2.0
-mkvtoolnix-win | http://www.fosshub.com/MKVToolNix.html                             | 8.2.0
+mkvtoolnix     | http://www.bunkus.org/videotools/mkvtoolnix/downloads.html         | 8.3.0
+mkvtoolnix-win | http://www.fosshub.com/MKVToolNix.html                             | 8.3.0
 mp4box         | http://gpac.wp.mines-telecom.fr/mp4box/                            | 0.5.2
 subtitle-edit  | https://github.com/SubtitleEdit/subtitleedit/releases              | 3.4.8
 webm           | http://www.webmproject.org/tools/                                  | 
