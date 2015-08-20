@@ -10,6 +10,7 @@ nwjs          | http://nwjs.io/                                                 
 notepad++     | http://notepad-plus-plus.org/download/                             | 6.8.1
 phantomjs     | http://phantomjs.org/download.html                                 | 2.0.0
 sqlite        | http://www.sqlite.org/download.html                                | 3.8.11
+sqlitespy     | http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index       | 1.9.10
 vscode        | https://code.visualstudio.com/Updates                              | 0.7.10
 
 ## Video
