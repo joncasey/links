@@ -3,9 +3,8 @@
 Name          | Url                                                                | Version
 ----          | ---                                                                | ---
 git           | https://github.com/msysgit/msysgit/releases                        | 1.9.5
-iojs          | https://iojs.org/dist/latest/                                      | 3.3.0
 java          | http://www.oracle.com/technetwork/java/javase/downloads/index.html | 8u60
-nodejs        | http://nodejs.org/download/release/latest/x64/                     | 0.12.7
+nodejs        | https://nodejs.org/en/download/                                    | 4.0.0
 nwjs          | http://nwjs.io/                                                    | 0.12.3
 notepad++     | http://notepad-plus-plus.org/download/                             | 6.8.3
 phantomjs     | http://phantomjs.org/download.html                                 | 2.0.0
