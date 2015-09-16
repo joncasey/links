@@ -2,7 +2,7 @@
 ## Developer
 Name          | Url                                                                | Version
 ----          | ---                                                                | ---
-git           | https://github.com/msysgit/msysgit/releases                        | 1.9.5
+git           | https://github.com/git-for-windows/git/releases                    | 2.5.2
 java          | http://www.oracle.com/technetwork/java/javase/downloads/index.html | 8u60
 nodejs        | https://nodejs.org/en/download/                                    | 4.0.0
 nwjs          | http://nwjs.io/                                                    | 0.12.3
