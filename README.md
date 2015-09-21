@@ -2,9 +2,9 @@
 ## Developer
 Name          | Url                                                                | Version
 ----          | ---                                                                | ---
-git           | https://github.com/git-for-windows/git/releases                    | 2.5.2
+git           | https://github.com/git-for-windows/git/releases                    | 2.5.3
 java          | http://www.oracle.com/technetwork/java/javase/downloads/index.html | 8u60
-nodejs        | https://nodejs.org/en/download/                                    | 4.0.0
+nodejs        | https://nodejs.org/en/download/                                    | 4.1.0
 nwjs          | http://nwjs.io/                                                    | 0.12.3
 notepad++     | http://notepad-plus-plus.org/download/                             | 6.8.3
 phantomjs     | http://phantomjs.org/download.html                                 | 2.0.0
@@ -20,8 +20,8 @@ ffmpeg         | http://www.ffmpeg.org/download.html                            
 ffmpeg-win     | http://ffmpeg.zeranoe.com/builds/                                  | 
 handbrake      | http://handbrake.fr/downloads.php                                  | 0.10.2
 mediainfo      | http://mediaarea.net/us/MediaInfo/Download/Windows                 | 0.7.77
-mkvtoolnix     | http://www.bunkus.org/videotools/mkvtoolnix/downloads.html         | 8.3.0
-mkvtoolnix-win | http://www.fosshub.com/MKVToolNix.html                             | 8.3.0
+mkvtoolnix     | http://www.bunkus.org/videotools/mkvtoolnix/downloads.html         | 8.4.0
+mkvtoolnix-win | http://www.fosshub.com/MKVToolNix.html                             | 8.4.0
 mp4box         | http://gpac.wp.mines-telecom.fr/mp4box/                            | 0.5.2
 subtitle-edit  | https://github.com/SubtitleEdit/subtitleedit/releases              | 3.4.8
 webm           | http://www.webmproject.org/tools/                                  | 
