@@ -2,9 +2,9 @@
 ## Developer
 Name          | Url                                                                | Version
 ----          | ---                                                                | ---
-git           | https://github.com/git-for-windows/git/releases                    | 2.6.0
+git           | https://github.com/git-for-windows/git/releases                    | 2.6.1
 java          | http://www.oracle.com/technetwork/java/javase/downloads/index.html | 8u60
-nodejs        | https://nodejs.org/en/download/                                    | 4.1.1
+nodejs        | https://nodejs.org/en/download/                                    | 4.1.2
 nwjs          | http://nwjs.io/                                                    | 0.12.3
 notepad++     | http://notepad-plus-plus.org/download/                             | 6.8.3
 phantomjs     | http://phantomjs.org/download.html                                 | 2.0.0
@@ -23,7 +23,7 @@ mediainfo      | http://mediaarea.net/us/MediaInfo/Download/Windows             
 mkvtoolnix     | http://www.bunkus.org/videotools/mkvtoolnix/downloads.html         | 8.4.0
 mkvtoolnix-win | http://www.fosshub.com/MKVToolNix.html                             | 8.4.0
 mp4box         | http://gpac.wp.mines-telecom.fr/mp4box/                            | 0.5.2
-subtitle-edit  | https://github.com/SubtitleEdit/subtitleedit/releases              | 3.4.8
+subtitle-edit  | https://github.com/SubtitleEdit/subtitleedit/releases              | 3.4.10
 webm           | http://www.webmproject.org/tools/                                  | 
 x264           | http://www.videolan.org/developers/x264.html                       | 
 x264-win32     | http://download.videolan.org/pub/videolan/x264/binaries/win32/     | 
