@@ -32,7 +32,7 @@ x264-win64     | http://download.videolan.org/pub/videolan/x264/binaries/win64/ 
 ## Image
 Name          | Url                                                                | Version
 ----          | ---                                                                | ---
-exiftool      | http://www.sno.phy.queensu.ca/~phil/exiftool/                      | 10.01
+exiftool      | http://www.sno.phy.queensu.ca/~phil/exiftool/                      | 10.02
 gimp          | http://www.gimp.org/downloads/                                     | 2.8.14
 gimp-portable | http://portableapps.com/apps/graphics_pictures/gimp_portable       | 2.8.14
 paint.net     | http://www.getpaint.net/download.html                              | 4.0.6
@@ -42,7 +42,7 @@ Name       | Url                                                          | Vers
 ---        | ---                                                          | ---
 eac3to     | http://forum.doom9.org/showthread.php?t=125966               | 3.2.9
 eac3to-gui | https://code.google.com/p/hdbrstreamextractor/downloads/list | 0.8
-mp3tag     | http://www.mp3tag.de/en/download.html                        | 2.71
+mp3tag     | http://www.mp3tag.de/en/download.html                        | 2.72
 lame       | http://lame.sourceforge.net/download.php                     | 3.99
 opus       | http://www.opus-codec.org/downloads/                         | 0.1.9
 
