@@ -4,19 +4,19 @@ Name          | Url                                                             
 ----          | ---                                                                | ---
 git           | https://github.com/git-for-windows/git/releases                    | 2.6.1
 java          | http://www.oracle.com/technetwork/java/javase/downloads/index.html | 8u60
-nodejs        | https://nodejs.org/en/download/                                    | 4.1.2
+nodejs        | https://nodejs.org/en/download/                                    | 4.2.1
 nwjs          | http://nwjs.io/                                                    | 0.12.3
 notepad++     | http://notepad-plus-plus.org/download/                             | 6.8.3
 phantomjs     | http://phantomjs.org/download.html                                 | 2.0.0
-sqlite        | http://www.sqlite.org/download.html                                | 3.8.11
+sqlite        | http://www.sqlite.org/download.html                                | 3.9.0
 sqlitespy     | http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index       | 1.9.10
-vscode        | https://code.visualstudio.com/updates                              | 0.8.0
+vscode        | https://code.visualstudio.com/updates                              | 0.9.1
 
 ## Video
 Name           | Url                                                                | Version
 ----           | ---                                                                | ---
 atomicparsley  | http://sourceforge.net/projects/atomicparsley/files/atomicparsley/ | 0.9.0
-ffmpeg         | http://www.ffmpeg.org/download.html                                | 2.8
+ffmpeg         | http://www.ffmpeg.org/download.html                                | 2.8.1
 ffmpeg-win     | http://ffmpeg.zeranoe.com/builds/                                  | 
 handbrake      | http://handbrake.fr/downloads.php                                  | 0.10.2
 mediainfo      | http://mediaarea.net/us/MediaInfo/Download/Windows                 | 0.7.78
