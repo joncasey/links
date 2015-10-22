@@ -46,11 +46,6 @@ mp3tag     | http://www.mp3tag.de/en/download.html                        | 2.72
 lame       | http://lame.sourceforge.net/download.php                     | 3.99
 opus       | http://www.opus-codec.org/downloads/                         | 0.1.9
 
-## HTML
-Name        | Url
-----        | ---
-Boilerplate | [html5](http://html5boilerplate.com) [mobile](http://html5boilerplate.com/mobile)
-
 ## Utility
 Name          | Url
 ----          | ---
@@ -59,11 +54,9 @@ ImgBurn       | http://www.imgburn.com/index.php?act=download
 Synchronicity | http://synchronicity.sourceforge.net/
 WinMerge      | http://winmerge.org/downloads/
 
-## Web Fonts
-Name          | Url
-----          | ---
-Font Awesome  | https://github.com/FortAwesome/Font-Awesome
-Font JS       | http://pomax.nihongoresources.com/pages/Font.js/
-Font Detector | http://www.lalit.org/lab/javascript-css-font-detect/
-Icon Font App | http://icomoon.io/app/#library
-
+## Web Apps
+Name             | Url
+----             | ---
+Boilerplate      | [html5](http://html5boilerplate.com) [mobile](http://html5boilerplate.com/mobile)
+Closure Compiler | https://github.com/google/closure-compiler/releases [latest](http://dl.google.com/closure-compiler/compiler-latest.zip)
+Font Awesome     | https://github.com/FortAwesome/Font-Awesome
