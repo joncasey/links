@@ -51,22 +51,6 @@ Name        | Url
 ----        | ---
 Boilerplate | [html5](http://html5boilerplate.com) [mobile](http://html5boilerplate.com/mobile)
 
-## JavaScript
-Name             | Url
-----             | ---
-Backbone.js      | http://documentcloud.github.com/backbone/
-Closure Compiler | https://github.com/google/closure-compiler/releases [latest](http://dl.google.com/closure-compiler/compiler-latest.zip)
-Crypto JS        | http://code.google.com/p/crypto-js/
-jQuery           | http://jquery.com/ [ui](http://jqueryui.com/) [mobile](http://jquerymobile.com/)
-json:select()    | https://github.com/lloyd/JSONSelect
-Modernizr        | http://modernizr.com/
-Mootools         | http://mootools.net/download
-Popcorn JS       | http://popcornjs.org
-Sizzle           | http://sizzlejs.com/
-Store-JS         | https://github.com/marcuswestin/store.js
-Underscore       | http://documentcloud.github.com/underscore/
-Zepto            | http://zeptojs.com/
-
 ## Utility
 Name          | Url
 ----          | ---
