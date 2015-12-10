@@ -4,9 +4,9 @@ Name          | Url                                                             
 ----          | ---                                                                | ---
 git           | https://github.com/git-for-windows/git/releases                    | 2.6.3
 java          | http://www.oracle.com/technetwork/java/javase/downloads/index.html | 8u66
-nodejs        | https://nodejs.org/en/download/stable/                             | 5.1.1
+nodejs        | https://nodejs.org/en/download/stable/                             | 5.2.0
 nwjs          | http://nwjs.io/                                                    | 0.12.3
-notepad++     | http://notepad-plus-plus.org/download/                             | 6.8.7
+notepad++     | http://notepad-plus-plus.org/download/                             | 6.8.8
 phantomjs     | http://phantomjs.org/download.html                                 | 2.0.0
 sqlite        | http://www.sqlite.org/download.html                                | 3.9.2
 sqlitespy     | http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index       | 1.9.10
@@ -33,9 +33,9 @@ x264-win64     | http://download.videolan.org/pub/videolan/x264/binaries/win64/ 
 ## Image
 Name          | Url                                                                | Version
 ----          | ---                                                                | ---
-exiftool      | http://www.sno.phy.queensu.ca/~phil/exiftool/                      | 10.05
-gimp          | http://www.gimp.org/downloads/                                     | 2.8.14
-gimp-portable | http://portableapps.com/apps/graphics_pictures/gimp_portable       | 2.8.14
+exiftool      | http://www.sno.phy.queensu.ca/~phil/exiftool/                      | 10.07
+gimp          | http://www.gimp.org/downloads/                                     | 2.8.16
+gimp-portable | http://portableapps.com/apps/graphics_pictures/gimp_portable       | 2.8.16
 paint.net     | http://www.getpaint.net/download.html                              | 4.0.6
 
 ## Audio
