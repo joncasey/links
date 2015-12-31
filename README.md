@@ -4,13 +4,13 @@ Name          | Url                                                             
 ----          | ---                                                                | ---
 git           | https://github.com/git-for-windows/git/releases                    | 2.6.4
 java          | http://www.oracle.com/technetwork/java/javase/downloads/index.html | 8u66
-nodejs        | https://nodejs.org/en/download/stable/                             | 5.2.0
+nodejs        | https://nodejs.org/en/download/stable/                             | 5.3.0
 nwjs          | http://nwjs.io/                                                    | 0.12.3
 notepad++     | http://notepad-plus-plus.org/download/                             | 6.8.8
 phantomjs     | http://phantomjs.org/download.html                                 | 2.0.0
 sqlite        | http://www.sqlite.org/download.html                                | 3.9.2
 sqlitespy     | http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index       | 1.9.10
-vscode        | https://code.visualstudio.com/updates                              | 0.10.3
+vscode        | https://code.visualstudio.com/updates                              | 0.10.6
 
 ## Video
 Name           | Url                                                                | Version
@@ -43,7 +43,7 @@ Name       | Url                                                          | Vers
 ---        | ---                                                          | ---
 eac3to     | http://forum.doom9.org/showthread.php?t=125966               | 3.30
 eac3to-gui | https://code.google.com/p/hdbrstreamextractor/downloads/list | 0.8
-mp3tag     | http://www.mp3tag.de/en/download.html                        | 2.72
+mp3tag     | http://www.mp3tag.de/en/download.html                        | 2.73
 lame       | http://lame.sourceforge.net/download.php                     | 3.99
 opus       | http://www.opus-codec.org/downloads/                         | 0.1.9
 
