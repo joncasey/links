@@ -2,7 +2,7 @@
 ## Developer
 Name          | Url                                                                | Version
 ----          | ---                                                                | ---
-git           | https://github.com/git-for-windows/git/releases                    | 2.6.4
+git           | http://git-scm.com/download/win                                    | 2.7.0
 java          | http://www.oracle.com/technetwork/java/javase/downloads/index.html | 8u66
 nodejs        | https://nodejs.org/en/download/stable/                             | 5.3.0
 nwjs          | http://nwjs.io/                                                    | 0.12.3
@@ -17,12 +17,12 @@ Name           | Url                                                            
 ----           | ---                                                                | ---
 atomicparsley  | http://sourceforge.net/projects/atomicparsley/files/atomicparsley/ | 0.9.0
 atomicparsley  | https://bitbucket.org/jonhedgerows/atomicparsley/downloads         | 0.9.6
-ffmpeg         | http://www.ffmpeg.org/download.html                                | 2.8.3
+ffmpeg         | http://www.ffmpeg.org/download.html                                | 2.8.4
 ffmpeg-win     | http://ffmpeg.zeranoe.com/builds/                                  | 
 handbrake      | http://handbrake.fr/downloads.php                                  | 0.10.2
-mediainfo      | http://mediaarea.net/us/MediaInfo/Download/Windows                 | 0.7.80
-mkvtoolnix     | http://www.bunkus.org/videotools/mkvtoolnix/downloads.html         | 8.6.1
-mkvtoolnix-win | http://www.fosshub.com/MKVToolNix.html                             | 8.6.1
+mediainfo      | http://mediaarea.net/us/MediaInfo/Download/Windows                 | 0.7.81
+mkvtoolnix     | http://www.bunkus.org/videotools/mkvtoolnix/downloads.html         | 8.7.0
+mkvtoolnix-win | http://www.fosshub.com/MKVToolNix.html                             | 8.7.0
 mp4box         | http://gpac.wp.mines-telecom.fr/mp4box/                            | 0.5.2
 subtitle-edit  | https://github.com/SubtitleEdit/subtitleedit/releases              | 3.4.10
 webm           | http://www.webmproject.org/tools/                                  | 
@@ -33,15 +33,15 @@ x264-win64     | http://download.videolan.org/pub/videolan/x264/binaries/win64/ 
 ## Image
 Name          | Url                                                                | Version
 ----          | ---                                                                | ---
-exiftool      | http://www.sno.phy.queensu.ca/~phil/exiftool/                      | 10.07
+exiftool      | http://www.sno.phy.queensu.ca/~phil/exiftool/                      | 10.09
 gimp          | http://www.gimp.org/downloads/                                     | 2.8.16
 gimp-portable | http://portableapps.com/apps/graphics_pictures/gimp_portable       | 2.8.16
-paint.net     | http://www.getpaint.net/download.html                              | 4.0.6
+paint.net     | http://www.getpaint.net/download.html                              | 4.0.9
 
 ## Audio
 Name       | Url                                                          | Version
 ---        | ---                                                          | ---
-eac3to     | http://forum.doom9.org/showthread.php?t=125966               | 3.30
+eac3to     | http://forum.doom9.org/showthread.php?t=125966               | 3.31
 eac3to-gui | https://code.google.com/p/hdbrstreamextractor/downloads/list | 0.8
 mp3tag     | http://www.mp3tag.de/en/download.html                        | 2.73
 lame       | http://lame.sourceforge.net/download.php                     | 3.99
