@@ -7,7 +7,7 @@ java          | http://www.oracle.com/technetwork/java/javase/downloads/index.ht
 nodejs        | https://nodejs.org/en/download/stable/                             | 5.5.0
 nwjs          | http://nwjs.io/                                                    | 0.12.3
 notepad++     | http://notepad-plus-plus.org/download/                             | 6.8.8
-phantomjs     | http://phantomjs.org/download.html                                 | 2.0.0
+phantomjs     | http://phantomjs.org/download.html                                 | 2.1.1
 sqlite        | http://www.sqlite.org/download.html                                | 3.10.2
 sqlitespy     | http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index       | 1.9.10
 vscode        | https://code.visualstudio.com/updates                              | 0.10.6
