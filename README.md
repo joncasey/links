@@ -50,6 +50,7 @@ lame       | http://lame.sourceforge.net/download.php                     | 3.99
 Name          | Url
 ----          | ---
 7zip          | http://www.7-zip.org/download.html
+FileZilla     | https://filezilla-project.org/download.php?show_all=1
 ImgBurn       | http://www.imgburn.com/index.php?act=download
 Synchronicity | http://synchronicity.sourceforge.net/
 WinMerge      | http://winmerge.org/downloads/
