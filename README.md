@@ -2,8 +2,8 @@
 ## Developer
 Name          | Url                                                                | Version
 ----          | ---                                                                | ---
-git           | https://github.com/git-for-windows/git/releases                    | 2.7.0
-java          | http://www.oracle.com/technetwork/java/javase/downloads/index.html | 8u72
+git           | https://github.com/git-for-windows/git/releases                    | 2.7.0(2)
+java          | http://www.oracle.com/technetwork/java/javase/downloads/index.html | 8u74
 nodejs        | https://nodejs.org/en/download/stable/                             | 5.5.0
 nwjs          | http://nwjs.io/                                                    | 0.12.3
 notepad++     | http://notepad-plus-plus.org/download/                             | 6.8.8
@@ -17,10 +17,10 @@ Name           | Url                                                            
 ----           | ---                                                                | ---
 atomicparsley  | http://sourceforge.net/projects/atomicparsley/files/atomicparsley/ | 0.9.0
 atomicparsley  | https://bitbucket.org/jonhedgerows/atomicparsley/downloads         | 0.9.6
-ffmpeg         | http://www.ffmpeg.org/download.html                                | 2.8.5
+ffmpeg         | http://www.ffmpeg.org/download.html                                | 2.8.6
 ffmpeg-win     | http://ffmpeg.zeranoe.com/builds/                                  | 
 handbrake      | http://handbrake.fr/downloads.php                                  | 0.10.3
-mediainfo      | http://mediaarea.net/us/MediaInfo/Download/Windows                 | 0.7.81
+mediainfo      | http://mediaarea.net/us/MediaInfo/Download/Windows                 | 0.7.82
 mkvtoolnix     | http://www.bunkus.org/videotools/mkvtoolnix/downloads.html         | 8.8.0
 mkvtoolnix-win | http://www.fosshub.com/MKVToolNix.html                             | 8.8.0
 mp4box         | http://gpac.wp.mines-telecom.fr/mp4box/                            | 0.5.2
