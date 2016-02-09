@@ -2,7 +2,7 @@
 ## Developer
 Name          | Url                                                                | Version
 ----          | ---                                                                | ---
-git           | https://github.com/git-for-windows/git/releases                    | 2.7.0(2)
+git           | https://github.com/git-for-windows/git/releases                    | 2.7.1
 java          | http://www.oracle.com/technetwork/java/javase/downloads/index.html | 8u74
 nodejs        | https://nodejs.org/en/download/stable/                             | 5.5.0
 nwjs          | http://nwjs.io/                                                    | 0.12.3
