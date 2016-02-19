@@ -8,18 +8,18 @@ nodejs        | https://nodejs.org/en/download/stable/                          
 nwjs          | http://nwjs.io/                                                    | 0.12.3
 notepad++     | http://notepad-plus-plus.org/download/                             | 6.8.8
 phantomjs     | http://phantomjs.org/download.html                                 | 2.1.1
-sqlite        | http://www.sqlite.org/download.html                                | 3.10.2
+sqlite        | http://www.sqlite.org/download.html                                | 3.11.0
 sqlitespy     | http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index       | 1.9.10
-vscode        | https://code.visualstudio.com/updates                              | 0.10.8
+vscode        | https://code.visualstudio.com/updates                              | 0.10.9
 
 ## Video
 Name           | Url                                                                | Version
 ----           | ---                                                                | ---
 atomicparsley  | http://sourceforge.net/projects/atomicparsley/files/atomicparsley/ | 0.9.0
 atomicparsley  | https://bitbucket.org/jonhedgerows/atomicparsley/downloads         | 0.9.6
-ffmpeg         | http://www.ffmpeg.org/download.html                                | 2.8.6
+ffmpeg         | http://www.ffmpeg.org/download.html                                | 3.0
 ffmpeg-win     | http://ffmpeg.zeranoe.com/builds/                                  | 
-handbrake      | http://handbrake.fr/downloads.php                                  | 0.10.3
+handbrake      | http://handbrake.fr/downloads.php                                  | 0.10.5
 mediainfo      | http://mediaarea.net/us/MediaInfo/Download/Windows                 | 0.7.82
 mkvtoolnix     | http://www.bunkus.org/videotools/mkvtoolnix/downloads.html         | 8.8.0
 mkvtoolnix-win | http://www.fosshub.com/MKVToolNix.html                             | 8.8.0
@@ -33,7 +33,7 @@ x264-win64     | http://download.videolan.org/pub/videolan/x264/binaries/win64/ 
 ## Image
 Name          | Url                                                                | Version
 ----          | ---                                                                | ---
-exiftool      | http://www.sno.phy.queensu.ca/~phil/exiftool/                      | 10.10
+exiftool      | http://www.sno.phy.queensu.ca/~phil/exiftool/                      | 10.11
 gimp          | http://www.gimp.org/downloads/                                     | 2.8.16
 gimp-portable | http://portableapps.com/apps/graphics_pictures/gimp_portable       | 2.8.16
 paint.net     | http://www.getpaint.net/download.html                              | 4.0.9
@@ -43,17 +43,17 @@ Name       | Url                                                          | Vers
 ---        | ---                                                          | ---
 eac3to     | http://forum.doom9.org/showthread.php?t=125966               | 3.31
 eac3to-gui | https://code.google.com/p/hdbrstreamextractor/downloads/list | 0.8
-mp3tag     | http://www.mp3tag.de/en/download.html                        | 2.73
+mp3tag     | http://www.mp3tag.de/en/download.html                        | 2.74a
 lame       | http://lame.sourceforge.net/download.php                     | 3.99
 
 ## Utility
 Name          | Url
 ----          | ---
-7zip          | http://www.7-zip.org/download.html
-FileZilla     | https://filezilla-project.org/download.php?show_all=1
-ImgBurn       | http://www.imgburn.com/index.php?act=download
-Synchronicity | http://synchronicity.sourceforge.net/
-WinMerge      | http://winmerge.org/downloads/
+7zip          | http://www.7-zip.org/download.html                     | 15.14
+FileZilla     | https://filezilla-project.org/download.php?show_all=1  | 3.15.0.2
+ImgBurn       | http://www.imgburn.com/index.php?act=download          | 2.5.8.0
+Synchronicity | http://synchronicity.sourceforge.net/                  | 6.0
+WinMerge      | http://winmerge.org/downloads/                         | 2.14.0
 
 ## Gaming
 Name              | Url
