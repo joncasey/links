@@ -4,11 +4,11 @@ Name          | Url                                                             
 ----          | ---                                                                | ---
 git           | https://github.com/git-for-windows/git/releases                    | 2.7.1
 java          | http://www.oracle.com/technetwork/java/javase/downloads/index.html | 8u74
-nodejs        | https://nodejs.org/en/download/stable/                             | 5.6.0
+nodejs        | https://nodejs.org/en/download/stable/                             | 5.7.1
 nwjs          | http://nwjs.io/                                                    | 0.12.3
 notepad++     | http://notepad-plus-plus.org/download/                             | 6.9
 phantomjs     | http://phantomjs.org/download.html                                 | 2.1.1
-sqlite        | http://www.sqlite.org/download.html                                | 3.11.0
+sqlite        | http://www.sqlite.org/download.html                                | 3.11.1
 sqlitespy     | http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index       | 1.9.10
 vscode        | https://code.visualstudio.com/updates                              | 0.10.9
 
