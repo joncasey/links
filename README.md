@@ -4,7 +4,7 @@ Name          | Url                                                             
 ----          | ---                                                                | ---
 git           | https://github.com/git-for-windows/git/releases                    | 2.7.3
 java          | http://www.oracle.com/technetwork/java/javase/downloads/index.html | 8u74
-nodejs        | https://nodejs.org/en/download/stable/                             | 5.8.0
+nodejs        | https://nodejs.org/en/download/stable/                             | 5.9.0
 nwjs          | http://nwjs.io/                                                    | 0.12.3
 notepad++     | http://notepad-plus-plus.org/download/                             | 6.9
 phantomjs     | http://phantomjs.org/download.html                                 | 2.1.1
@@ -33,7 +33,7 @@ x264-win64     | http://download.videolan.org/pub/videolan/x264/binaries/win64/ 
 ## Image
 Name          | Url                                                                | Version
 ----          | ---                                                                | ---
-exiftool      | http://www.sno.phy.queensu.ca/~phil/exiftool/                      | 10.12
+exiftool      | http://www.sno.phy.queensu.ca/~phil/exiftool/                      | 10.13
 gimp          | http://www.gimp.org/downloads/                                     | 2.8.16
 gimp-portable | http://portableapps.com/apps/graphics_pictures/gimp_portable       | 2.8.16
 paint.net     | http://www.getpaint.net/download.html                              | 4.0.9
