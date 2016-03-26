@@ -5,7 +5,7 @@ Name          | Url                                                             
 git           | https://github.com/git-for-windows/git/releases                    | 2.7.4
 java          | http://www.oracle.com/technetwork/java/javase/downloads/index.html | 8u77
 nodejs        | https://nodejs.org/en/download/stable/                             | 5.9.1
-nwjs          | http://nwjs.io/                                                    | 0.13.0
+nwjs          | http://nwjs.io/                                                    | 0.13.1
 notepad++     | http://notepad-plus-plus.org/download/                             | 6.9
 phantomjs     | http://phantomjs.org/download.html                                 | 2.1.1
 sqlite        | http://www.sqlite.org/download.html                                | 3.11.1
@@ -21,8 +21,8 @@ ffmpeg         | http://www.ffmpeg.org/download.html                            
 ffmpeg-win     | http://ffmpeg.zeranoe.com/builds/                                  | 
 handbrake      | http://handbrake.fr/downloads.php                                  | 0.10.5
 mediainfo      | http://mediaarea.net/us/MediaInfo/Download/Windows                 | 0.7.82
-mkvtoolnix     | http://www.bunkus.org/videotools/mkvtoolnix/downloads.html         | 8.9.0
-mkvtoolnix-win | http://www.fosshub.com/MKVToolNix.html                             | 8.9.0
+mkvtoolnix     | http://www.bunkus.org/videotools/mkvtoolnix/downloads.html         | 9.0.0
+mkvtoolnix-win | http://www.fosshub.com/MKVToolNix.html                             | 9.0.0
 mp4box         | http://gpac.wp.mines-telecom.fr/mp4box/                            | 0.5.2
 subtitle-edit  | https://github.com/SubtitleEdit/subtitleedit/releases              | 3.4.12
 webm           | http://www.webmproject.org/tools/                                  | 
