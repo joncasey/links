@@ -4,7 +4,7 @@ Name          | Url                                                             
 ----          | ---                                                                | ---
 git           | https://github.com/git-for-windows/git/releases                    | 2.8.0
 java          | http://www.oracle.com/technetwork/java/javase/downloads/index.html | 8u77
-nodejs        | https://nodejs.org/en/download/stable/                             | 5.9.1
+nodejs        | https://nodejs.org/en/download/stable/                             | 5.10.0
 nwjs          | http://nwjs.io/                                                    | 0.13.2
 notepad++     | http://notepad-plus-plus.org/download/                             | 6.9.1
 phantomjs     | http://phantomjs.org/download.html                                 | 2.1.1
@@ -20,7 +20,7 @@ atomicparsley  | https://bitbucket.org/jonhedgerows/atomicparsley/downloads     
 ffmpeg         | http://www.ffmpeg.org/download.html                                | 3.0
 ffmpeg-win     | http://ffmpeg.zeranoe.com/builds/                                  | 
 handbrake      | http://handbrake.fr/downloads.php                                  | 0.10.5
-mediainfo      | http://mediaarea.net/us/MediaInfo/Download/Windows                 | 0.7.82
+mediainfo      | http://mediaarea.net/us/MediaInfo/Download/Windows                 | 0.7.84
 mkvtoolnix     | http://www.bunkus.org/videotools/mkvtoolnix/downloads.html         | 9.0.1
 mkvtoolnix-win | http://www.fosshub.com/MKVToolNix.html                             | 9.0.1
 mp4box         | http://gpac.wp.mines-telecom.fr/mp4box/                            | 0.5.2
