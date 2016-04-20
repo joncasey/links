@@ -3,12 +3,12 @@
 Name          | Url                                                                | Version
 ----          | ---                                                                | ---
 git           | https://github.com/git-for-windows/git/releases                    | 2.8.1
-java          | http://www.oracle.com/technetwork/java/javase/downloads/index.html | 8u77
+java          | http://www.oracle.com/technetwork/java/javase/downloads/index.html | 8u91
 nodejs        | https://nodejs.org/en/download/stable/                             | 5.10.1
 nwjs          | http://nwjs.io/                                                    | 0.13.3
 notepad++     | http://notepad-plus-plus.org/download/                             | 6.9.1
 phantomjs     | http://phantomjs.org/download.html                                 | 2.1.1
-sqlite        | http://www.sqlite.org/download.html                                | 3.12.1
+sqlite        | http://www.sqlite.org/download.html                                | 3.12.2
 sqlitespy     | http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index       | 1.9.10
 vscode        | https://code.visualstudio.com/updates                              | 1.0.0
 
@@ -33,7 +33,7 @@ x264-win64     | http://download.videolan.org/pub/videolan/x264/binaries/win64/ 
 ## Image
 Name          | Url                                                                | Version
 ----          | ---                                                                | ---
-exiftool      | http://www.sno.phy.queensu.ca/~phil/exiftool/                      | 10.14
+exiftool      | http://www.sno.phy.queensu.ca/~phil/exiftool/                      | 10.15
 gimp          | http://www.gimp.org/downloads/                                     | 2.8.16
 gimp-portable | http://portableapps.com/apps/graphics_pictures/gimp_portable       | 2.8.16
 paint.net     | http://www.getpaint.net/download.html                              | 4.0.9
@@ -43,7 +43,7 @@ Name       | Url                                                          | Vers
 ---        | ---                                                          | ---
 eac3to     | http://forum.doom9.org/showthread.php?t=125966               | 3.31
 eac3to-gui | https://code.google.com/p/hdbrstreamextractor/downloads/list | 0.8
-mp3tag     | http://www.mp3tag.de/en/download.html                        | 2.75
+mp3tag     | http://www.mp3tag.de/en/download.html                        | 2.76
 lame       | http://lame.sourceforge.net/download.php                     | 3.99
 
 ## Utility
