@@ -4,7 +4,7 @@ Name          | Url                                                             
 ----          | ---                                                                | ---
 git           | https://github.com/git-for-windows/git/releases                    | 2.8.1
 java          | http://www.oracle.com/technetwork/java/javase/downloads/index.html | 8u91
-nodejs        | https://nodejs.org/en/download/stable/                             | 5.10.1
+nodejs        | https://nodejs.org/en/download/stable/                             | 5.11.0
 nwjs          | http://nwjs.io/                                                    | 0.13.3
 notepad++     | http://notepad-plus-plus.org/download/                             | 6.9.1
 phantomjs     | http://phantomjs.org/download.html                                 | 2.1.1
