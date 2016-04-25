@@ -21,8 +21,8 @@ ffmpeg         | http://www.ffmpeg.org/download.html                            
 ffmpeg-win     | http://ffmpeg.zeranoe.com/builds/                                  | 
 handbrake      | http://handbrake.fr/downloads.php                                  | 0.10.5
 mediainfo      | http://mediaarea.net/us/MediaInfo/Download/Windows                 | 0.7.84
-mkvtoolnix     | http://www.bunkus.org/videotools/mkvtoolnix/downloads.html         | 9.0.1
-mkvtoolnix-win | http://www.fosshub.com/MKVToolNix.html                             | 9.0.1
+mkvtoolnix     | http://www.bunkus.org/videotools/mkvtoolnix/downloads.html         | 9.1.0
+mkvtoolnix-win | http://www.fosshub.com/MKVToolNix.html                             | 9.1.0
 mp4box         | http://gpac.wp.mines-telecom.fr/mp4box/                            | 0.5.2
 subtitle-edit  | https://github.com/SubtitleEdit/subtitleedit/releases              | 3.4.12
 webm           | http://www.webmproject.org/tools/                                  | 
@@ -43,7 +43,7 @@ Name       | Url                                                          | Vers
 ---        | ---                                                          | ---
 eac3to     | http://forum.doom9.org/showthread.php?t=125966               | 3.31
 eac3to-gui | https://code.google.com/p/hdbrstreamextractor/downloads/list | 0.8
-mp3tag     | http://www.mp3tag.de/en/download.html                        | 2.76
+mp3tag     | http://www.mp3tag.de/en/download.html                        | 2.77
 lame       | http://lame.sourceforge.net/download.php                     | 3.99
 
 ## Utility
