@@ -2,7 +2,7 @@
 ## Developer
 Name          | Url                                                                | Version
 ----          | ---                                                                | ---
-git           | https://github.com/git-for-windows/git/releases                    | 2.8.1
+git           | https://github.com/git-for-windows/git/releases                    | 2.8.2
 java          | http://www.oracle.com/technetwork/java/javase/downloads/index.html | 8u91
 nodejs        | https://nodejs.org/en/download/current/                            | 6.0.0
 nwjs          | http://nwjs.io/                                                    | 0.13.3
@@ -17,10 +17,10 @@ Name           | Url                                                            
 ----           | ---                                                                | ---
 atomicparsley  | http://sourceforge.net/projects/atomicparsley/files/atomicparsley/ | 0.9.0
 atomicparsley  | https://bitbucket.org/jonhedgerows/atomicparsley/downloads         | 0.9.6
-ffmpeg         | http://www.ffmpeg.org/download.html                                | 3.0
+ffmpeg         | http://www.ffmpeg.org/download.html                                | 3.0.2
 ffmpeg-win     | http://ffmpeg.zeranoe.com/builds/                                  | 
 handbrake      | http://handbrake.fr/downloads.php                                  | 0.10.5
-mediainfo      | http://mediaarea.net/us/MediaInfo/Download/Windows                 | 0.7.84
+mediainfo      | http://mediaarea.net/us/MediaInfo/Download/Windows                 | 0.7.85
 mkvtoolnix     | http://www.bunkus.org/videotools/mkvtoolnix/downloads.html         | 9.1.0
 mkvtoolnix-win | http://www.fosshub.com/MKVToolNix.html                             | 9.1.0
 mp4box         | http://gpac.wp.mines-telecom.fr/mp4box/                            | 0.5.2
@@ -33,7 +33,7 @@ x264-win64     | http://download.videolan.org/pub/videolan/x264/binaries/win64/ 
 ## Image
 Name          | Url                                                                | Version
 ----          | ---                                                                | ---
-exiftool      | http://www.sno.phy.queensu.ca/~phil/exiftool/                      | 10.15
+exiftool      | http://www.sno.phy.queensu.ca/~phil/exiftool/                      | 10.16
 gimp          | http://www.gimp.org/downloads/                                     | 2.8.16
 gimp-portable | http://portableapps.com/apps/graphics_pictures/gimp_portable       | 2.8.16
 paint.net     | http://www.getpaint.net/download.html                              | 4.0.9
