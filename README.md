@@ -10,7 +10,7 @@ notepad++     | http://notepad-plus-plus.org/download/                          
 phantomjs     | http://phantomjs.org/download.html                                 | 2.1.1
 sqlite        | http://www.sqlite.org/download.html                                | 3.12.2
 sqlitespy     | http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index       | 1.9.10
-vscode        | https://code.visualstudio.com/updates                              | 1.0.0
+vscode        | https://code.visualstudio.com/updates                              | 1.1.0
 
 ## Video
 Name           | Url                                                                | Version
@@ -49,8 +49,8 @@ lame       | http://lame.sourceforge.net/download.php                     | 3.99
 ## Utility
 Name          | Url
 ----          | ---
-7zip          | http://www.7-zip.org/download.html                     | 15.14
-FileZilla     | https://filezilla-project.org/download.php?show_all=1  | 3.15.0.2
+7zip          | http://www.7-zip.org/download.html                     | 16.00
+FileZilla     | https://filezilla-project.org/download.php?show_all=1  | 3.17.0.1
 ImgBurn       | http://www.imgburn.com/index.php?act=download          | 2.5.8.0
 Synchronicity | http://synchronicity.sourceforge.net/                  | 6.0
 WinMerge      | http://winmerge.org/downloads/                         | 2.14.0
