@@ -2,15 +2,15 @@
 ## Developer
 Name          | Url                                                                | Version
 ----          | ---                                                                | ---
-git           | https://github.com/git-for-windows/git/releases                    | 2.8.4
+git           | https://github.com/git-for-windows/git/releases                    | 2.9.0
 java          | http://www.oracle.com/technetwork/java/javase/downloads/index.html | 8u91
 nodejs        | https://nodejs.org/en/download/current/                            | 6.2.1
 nwjs          | http://nwjs.io/                                                    | 0.13.3
 notepad++     | http://notepad-plus-plus.org/download/                             | 6.9.1
 phantomjs     | http://phantomjs.org/download.html                                 | 2.1.1
 sqlite        | http://www.sqlite.org/download.html                                | 3.13.0
-sqlitespy     | http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index       | 1.9.10
-vscode        | https://code.visualstudio.com/updates                              | 1.2.0
+sqlitespy     | http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index       | 1.9.11
+vscode        | https://code.visualstudio.com/updates                              | 1.2.1
 
 ## Video
 Name           | Url                                                                | Version
@@ -24,7 +24,7 @@ mediainfo      | http://mediaarea.net/us/MediaInfo/Download/Windows             
 mkvtoolnix     | http://www.bunkus.org/videotools/mkvtoolnix/downloads.html         | 9.2.0
 mkvtoolnix-win | http://www.fosshub.com/MKVToolNix.html                             | 9.2.0
 mp4box         | http://gpac.wp.mines-telecom.fr/mp4box/                            | 0.5.2
-subtitle-edit  | https://github.com/SubtitleEdit/subtitleedit/releases              | 3.4.12
+subtitle-edit  | https://github.com/SubtitleEdit/subtitleedit/releases              | 3.4.13
 webm           | http://www.webmproject.org/tools/                                  | 
 x264           | http://www.videolan.org/developers/x264.html                       | 
 x264-win32     | http://download.videolan.org/pub/videolan/x264/binaries/win32/     | 
@@ -33,7 +33,7 @@ x264-win64     | http://download.videolan.org/pub/videolan/x264/binaries/win64/ 
 ## Image
 Name          | Url                                                                | Version
 ----          | ---                                                                | ---
-exiftool      | http://www.sno.phy.queensu.ca/~phil/exiftool/                      | 10.19
+exiftool      | http://www.sno.phy.queensu.ca/~phil/exiftool/                      | 10.20
 gimp          | http://www.gimp.org/downloads/                                     | 2.8.16
 gimp-portable | http://portableapps.com/apps/graphics_pictures/gimp_portable       | 2.8.16
 paint.net     | http://www.getpaint.net/download.html                              | 4.0.9
