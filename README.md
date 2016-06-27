@@ -17,7 +17,7 @@ Name           | Url                                                            
 ----           | ---                                                                | ---
 atomicparsley  | http://sourceforge.net/projects/atomicparsley/files/atomicparsley/ | 0.9.0
 atomicparsley  | https://bitbucket.org/jonhedgerows/atomicparsley/downloads         | 0.9.6
-ffmpeg         | http://www.ffmpeg.org/download.html                                | 3.0.2
+ffmpeg         | http://www.ffmpeg.org/download.html                                | 3.1
 ffmpeg-win     | http://ffmpeg.zeranoe.com/builds/                                  | 
 handbrake      | http://handbrake.fr/downloads.php                                  | 0.10.5
 mediainfo      | http://mediaarea.net/us/MediaInfo/Download/Windows                 | 0.7.86
@@ -43,14 +43,14 @@ Name       | Url                                                          | Vers
 ---        | ---                                                          | ---
 eac3to     | http://forum.doom9.org/showthread.php?t=125966               | 3.31
 eac3to-gui | https://code.google.com/p/hdbrstreamextractor/downloads/list | 0.8
-mp3tag     | http://www.mp3tag.de/en/download.html                        | 2.77
+mp3tag     | http://www.mp3tag.de/en/download.html                        | 2.78
 lame       | http://lame.sourceforge.net/download.php                     | 3.99
 
 ## Utility
 Name          | Url
 ----          | ---
 7zip          | http://www.7-zip.org/download.html                     | 16.02
-FileZilla     | https://filezilla-project.org/download.php?show_all=1  | 3.18.0
+FileZilla     | https://filezilla-project.org/download.php?show_all=1  | 3.19.0
 ImgBurn       | http://www.imgburn.com/index.php?act=download          | 2.5.8.0
 Synchronicity | http://synchronicity.sourceforge.net/                  | 6.0
 WinMerge      | http://winmerge.org/downloads/                         | 2.14.0
