@@ -2,13 +2,13 @@
 ## Developer
 Name          | Url                                                                | Version
 ----          | ---                                                                | ---
-git           | https://github.com/git-for-windows/git/releases                    | 2.9.2
+git           | https://github.com/git-for-windows/git/releases                    | 2.9.3
 java          | http://www.oracle.com/technetwork/java/javase/downloads/index.html | 8u101
 nodejs        | https://nodejs.org/en/download/current/                            | 6.3.1
 nwjs          | http://nwjs.io/                                                    | 0.13.3
 notepad++     | http://notepad-plus-plus.org/download/                             | 6.9.1
 phantomjs     | http://phantomjs.org/download.html                                 | 2.1.1
-sqlite        | http://www.sqlite.org/download.html                                | 3.13.0
+sqlite        | http://www.sqlite.org/download.html                                | 3.14.1
 sqlitespy     | http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index       | 1.9.11
 vscode        | https://code.visualstudio.com/updates                              | 1.4.0
 
@@ -17,7 +17,7 @@ Name           | Url                                                            
 ----           | ---                                                                | ---
 atomicparsley  | http://sourceforge.net/projects/atomicparsley/files/atomicparsley/ | 0.9.0
 atomicparsley  | https://bitbucket.org/jonhedgerows/atomicparsley/downloads         | 0.9.6
-ffmpeg         | http://www.ffmpeg.org/download.html                                | 3.1.1
+ffmpeg         | http://www.ffmpeg.org/download.html                                | 3.1.2
 ffmpeg-win     | http://ffmpeg.zeranoe.com/builds/                                  | 
 handbrake      | http://handbrake.fr/downloads.php                                  | 0.10.5
 mediainfo      | http://mediaarea.net/us/MediaInfo/Download/Windows                 | 0.7.87
