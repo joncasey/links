@@ -10,7 +10,7 @@ notepad++     | http://notepad-plus-plus.org/download/                          
 phantomjs     | http://phantomjs.org/download.html                                 | 2.1.1
 sqlite        | http://www.sqlite.org/download.html                                | 3.14.1
 sqlitespy     | http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index       | 1.9.11
-vscode        | https://code.visualstudio.com/updates                              | 1.4.0
+vscode        | https://code.visualstudio.com/updates                              | 1.5.0
 
 ## Video
 Name           | Url                                                                | Version
