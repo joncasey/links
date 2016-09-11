@@ -21,8 +21,8 @@ ffmpeg         | http://www.ffmpeg.org/download.html                            
 ffmpeg-win     | http://ffmpeg.zeranoe.com/builds/                                  | 
 handbrake      | http://handbrake.fr/downloads.php                                  | 0.10.5
 mediainfo      | http://mediaarea.net/us/MediaInfo/Download/Windows                 | 0.7.87
-mkvtoolnix     | http://www.bunkus.org/videotools/mkvtoolnix/downloads.html         | 9.4.0
-mkvtoolnix-win | http://www.fosshub.com/MKVToolNix.html                             | 9.4.0
+mkvtoolnix     | http://www.bunkus.org/videotools/mkvtoolnix/downloads.html         | 9.4.2
+mkvtoolnix-win | http://www.fosshub.com/MKVToolNix.html                             | 9.4.2
 mp4box         | http://gpac.wp.mines-telecom.fr/mp4box/                            | 0.5.2
 subtitle-edit  | https://github.com/SubtitleEdit/subtitleedit/releases              | 3.4.13
 webm           | http://www.webmproject.org/tools/                                  | 
@@ -36,7 +36,7 @@ Name          | Url                                                             
 exiftool      | http://www.sno.phy.queensu.ca/~phil/exiftool/                      | 10.24
 gimp          | http://www.gimp.org/downloads/                                     | 2.8.18
 gimp-portable | http://portableapps.com/apps/graphics_pictures/gimp_portable       | 2.8.18
-paint.net     | http://www.getpaint.net/download.html                              | 4.0.10
+paint.net     | http://www.getpaint.net/download.html                              | 4.0.11
 
 ## Audio
 Name       | Url                                                          | Version
