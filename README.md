@@ -8,7 +8,7 @@ nodejs        | https://nodejs.org/en/download/current/                         
 nwjs          | http://nwjs.io/                                                    | 0.13.3
 notepad++     | http://notepad-plus-plus.org/download/                             | 6.9.1
 phantomjs     | http://phantomjs.org/download.html                                 | 2.1.1
-sqlite        | http://www.sqlite.org/download.html                                | 3.14.1
+sqlite        | http://www.sqlite.org/download.html                                | 3.14.2
 sqlitespy     | http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index       | 1.9.11
 vscode        | https://code.visualstudio.com/updates                              | 1.5.0
 
@@ -36,7 +36,7 @@ Name          | Url                                                             
 exiftool      | http://www.sno.phy.queensu.ca/~phil/exiftool/                      | 10.24
 gimp          | http://www.gimp.org/downloads/                                     | 2.8.18
 gimp-portable | http://portableapps.com/apps/graphics_pictures/gimp_portable       | 2.8.18
-paint.net     | http://www.getpaint.net/download.html                              | 4.0.11
+paint.net     | http://www.getpaint.net/download.html                              | 4.0.12
 
 ## Audio
 Name       | Url                                                          | Version
