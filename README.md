@@ -17,10 +17,10 @@ Name           | Url                                                            
 ----           | ---                                                                | ---
 atomicparsley  | http://sourceforge.net/projects/atomicparsley/files/atomicparsley/ | 0.9.0
 atomicparsley  | https://bitbucket.org/jonhedgerows/atomicparsley/downloads         | 0.9.6
-ffmpeg         | http://www.ffmpeg.org/download.html                                | 3.1.3
+ffmpeg         | http://www.ffmpeg.org/download.html                                | 3.1.4
 ffmpeg-win     | http://ffmpeg.zeranoe.com/builds/                                  | 
 handbrake      | http://handbrake.fr/downloads.php                                  | 0.10.5
-mediainfo      | http://mediaarea.net/us/MediaInfo/Download/Windows                 | 0.7.87
+mediainfo      | http://mediaarea.net/us/MediaInfo/Download/Windows                 | 0.7.89
 mkvtoolnix     | http://www.bunkus.org/videotools/mkvtoolnix/downloads.html         | 9.4.2
 mkvtoolnix-win | http://www.fosshub.com/MKVToolNix.html                             | 9.4.2
 mp4box         | http://gpac.wp.mines-telecom.fr/mp4box/                            | 0.5.2
@@ -50,7 +50,7 @@ lame       | http://lame.sourceforge.net/download.php                     | 3.99
 Name          | Url
 ----          | ---
 7zip          | http://www.7-zip.org/download.html                     | 16.03
-FileZilla     | https://filezilla-project.org/download.php?show_all=1  | 3.21.0
+FileZilla     | https://filezilla-project.org/download.php?show_all=1  | 3.22.0
 ImgBurn       | http://www.imgburn.com/index.php?act=download          | 2.5.8.0
 Synchronicity | http://synchronicity.sourceforge.net/                  | 6.0
 WinMerge      | http://winmerge.org/downloads/                         | 2.14.0
