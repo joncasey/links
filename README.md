@@ -2,7 +2,7 @@
 ## Developer
 Name          | Url                                                                | Version
 ----          | ---                                                                | ---
-git           | https://github.com/git-for-windows/git/releases                    | 2.10.0
+git           | https://github.com/git-for-windows/git/releases                    | 2.10.1
 java          | http://www.oracle.com/technetwork/java/javase/downloads/index.html | 8u101
 nodejs        | https://nodejs.org/en/download/current/                            | 6.7.0
 nwjs          | http://nwjs.io/                                                    | 0.13.3
@@ -49,8 +49,8 @@ lame       | http://lame.sourceforge.net/download.php                     | 3.99
 ## Utility
 Name          | Url
 ----          | ---
-7zip          | http://www.7-zip.org/download.html                     | 16.03
-FileZilla     | https://filezilla-project.org/download.php?show_all=1  | 3.22.0
+7zip          | http://www.7-zip.org/download.html                     | 16.04
+FileZilla     | https://filezilla-project.org/download.php?show_all=1  | 3.22.1
 ImgBurn       | http://www.imgburn.com/index.php?act=download          | 2.5.8.0
 Synchronicity | http://synchronicity.sourceforge.net/                  | 6.0
 WinMerge      | http://winmerge.org/downloads/                         | 2.14.0
