@@ -4,13 +4,13 @@ Name          | Url                                                             
 ----          | ---                                                                | ---
 git           | https://github.com/git-for-windows/git/releases                    | 2.10.1
 java          | http://www.oracle.com/technetwork/java/javase/downloads/index.html | 8u101
-nodejs        | https://nodejs.org/en/download/current/                            | 6.7.0
+nodejs        | https://nodejs.org/en/download/current/                            | 6.8.0
 nwjs          | http://nwjs.io/                                                    | 0.13.3
 notepad++     | http://notepad-plus-plus.org/download/                             | 6.9.1
 phantomjs     | http://phantomjs.org/download.html                                 | 2.1.1
 sqlite        | http://www.sqlite.org/download.html                                | 3.14.2
 sqlitespy     | http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index       | 1.9.11
-vscode        | https://code.visualstudio.com/updates                              | 1.5.0
+vscode        | https://code.visualstudio.com/updates                              | 1.6.0
 
 ## Video
 Name           | Url                                                                | Version
