@@ -10,7 +10,7 @@ notepad++     | http://notepad-plus-plus.org/download/                          
 phantomjs     | http://phantomjs.org/download.html                                 | 2.1.1
 sqlite        | http://www.sqlite.org/download.html                                | 3.14.2
 sqlitespy     | http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index       | 1.9.11
-vscode        | https://code.visualstudio.com/updates                              | 1.6.0
+vscode        | https://code.visualstudio.com/updates                              | 1.6.1
 
 ## Video
 Name           | Url                                                                | Version
@@ -33,7 +33,7 @@ x264-win64     | http://download.videolan.org/pub/videolan/x264/binaries/win64/ 
 ## Image
 Name          | Url                                                                | Version
 ----          | ---                                                                | ---
-exiftool      | http://www.sno.phy.queensu.ca/~phil/exiftool/                      | 10.28
+exiftool      | http://www.sno.phy.queensu.ca/~phil/exiftool/                      | 10.30
 gimp          | http://www.gimp.org/downloads/                                     | 2.8.18
 gimp-portable | http://portableapps.com/apps/graphics_pictures/gimp_portable       | 2.8.18
 paint.net     | http://www.getpaint.net/download.html                              | 4.0.12
