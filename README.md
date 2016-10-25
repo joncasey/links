@@ -3,8 +3,8 @@
 Name          | Url                                                                | Version
 ----          | ---                                                                | ---
 git           | https://github.com/git-for-windows/git/releases                    | 2.10.1
-java          | http://www.oracle.com/technetwork/java/javase/downloads/index.html | 8u101
-nodejs        | https://nodejs.org/en/download/current/                            | 6.8.1
+java          | http://www.oracle.com/technetwork/java/javase/downloads/index.html | 8u111
+nodejs        | https://nodejs.org/en/download/current/                            | 7.0.0
 nwjs          | http://nwjs.io/                                                    | 0.13.3
 notepad++     | http://notepad-plus-plus.org/download/                             | 6.9.1
 phantomjs     | http://phantomjs.org/download.html                                 | 2.1.1
@@ -17,7 +17,7 @@ Name           | Url                                                            
 ----           | ---                                                                | ---
 atomicparsley  | http://sourceforge.net/projects/atomicparsley/files/atomicparsley/ | 0.9.0
 atomicparsley  | https://bitbucket.org/jonhedgerows/atomicparsley/downloads         | 0.9.6
-ffmpeg         | http://www.ffmpeg.org/download.html                                | 3.1.4
+ffmpeg         | http://www.ffmpeg.org/download.html                                | 3.1.5
 ffmpeg-win     | http://ffmpeg.zeranoe.com/builds/                                  | 
 handbrake      | http://handbrake.fr/downloads.php                                  | 0.10.5
 mediainfo      | http://mediaarea.net/us/MediaInfo/Download/Windows                 | 0.7.89
@@ -33,7 +33,7 @@ x264-win64     | http://download.videolan.org/pub/videolan/x264/binaries/win64/ 
 ## Image
 Name          | Url                                                                | Version
 ----          | ---                                                                | ---
-exiftool      | http://www.sno.phy.queensu.ca/~phil/exiftool/                      | 10.30
+exiftool      | http://www.sno.phy.queensu.ca/~phil/exiftool/                      | 10.31
 gimp          | http://www.gimp.org/downloads/                                     | 2.8.18
 gimp-portable | http://portableapps.com/apps/graphics_pictures/gimp_portable       | 2.8.18
 paint.net     | http://www.getpaint.net/download.html                              | 4.0.12
