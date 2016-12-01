@@ -21,8 +21,8 @@ ffmpeg         | http://www.ffmpeg.org/download.html                            
 ffmpeg-win     | http://ffmpeg.zeranoe.com/builds/                                  | 
 handbrake      | http://handbrake.fr/downloads.php                                  | 0.10.5
 mediainfo      | http://mediaarea.net/us/MediaInfo/Download/Windows                 | 0.7.90
-mkvtoolnix     | http://www.bunkus.org/videotools/mkvtoolnix/downloads.html         | 9.5.0
-mkvtoolnix-win | http://www.fosshub.com/MKVToolNix.html                             | 9.5.0
+mkvtoolnix     | http://www.bunkus.org/videotools/mkvtoolnix/downloads.html         | 9.6.0
+mkvtoolnix-win | http://www.fosshub.com/MKVToolNix.html                             | 9.6.0
 mp4box         | http://gpac.wp.mines-telecom.fr/mp4box/                            | 0.5.2
 subtitle-edit  | https://github.com/SubtitleEdit/subtitleedit/releases              | 3.5.0
 webm           | http://www.webmproject.org/tools/                                  | 
