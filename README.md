@@ -2,7 +2,7 @@
 ## Developer
 Name          | Url                                                                | Version
 ----          | ---                                                                | ---
-git           | https://github.com/git-for-windows/git/releases                    | 2.10.2
+git           | https://github.com/git-for-windows/git/releases                    | 2.11.0
 java          | http://www.oracle.com/technetwork/java/javase/downloads/index.html | 8u111
 nodejs        | https://nodejs.org/en/download/current/                            | 7.2.0
 nwjs          | http://nwjs.io/                                                    | 0.13.3
@@ -20,7 +20,7 @@ atomicparsley  | https://bitbucket.org/jonhedgerows/atomicparsley/downloads     
 ffmpeg         | http://www.ffmpeg.org/download.html                                | 3.2.1
 ffmpeg-win     | http://ffmpeg.zeranoe.com/builds/                                  | 
 handbrake      | http://handbrake.fr/downloads.php                                  | 0.10.5
-mediainfo      | http://mediaarea.net/us/MediaInfo/Download/Windows                 | 0.7.90
+mediainfo      | http://mediaarea.net/us/MediaInfo/Download/Windows                 | 0.7.91
 mkvtoolnix     | http://www.bunkus.org/videotools/mkvtoolnix/downloads.html         | 9.6.0
 mkvtoolnix-win | http://www.fosshub.com/MKVToolNix.html                             | 9.6.0
 mp4box         | http://gpac.wp.mines-telecom.fr/mp4box/                            | 0.5.2
