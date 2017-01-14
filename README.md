@@ -2,7 +2,7 @@
 ## Developer
 Name          | Url                                                                | Version
 ----          | ---                                                                | ---
-git           | https://github.com/git-for-windows/git/releases                    | 2.11.0
+git           | https://github.com/git-for-windows/git/releases                    | 2.11.0.3
 java          | http://www.oracle.com/technetwork/java/javase/downloads/index.html | 8u111
 nodejs        | https://nodejs.org/en/download/current/                            | 7.4.0
 nwjs          | http://nwjs.io/                                                    | 0.13.3
@@ -33,7 +33,7 @@ x264-win64     | http://download.videolan.org/pub/videolan/x264/binaries/win64/ 
 ## Image
 Name          | Url                                                                | Version
 ----          | ---                                                                | ---
-exiftool      | http://www.sno.phy.queensu.ca/~phil/exiftool/                      | 10.38
+exiftool      | http://www.sno.phy.queensu.ca/~phil/exiftool/                      | 10.39
 gimp          | http://www.gimp.org/downloads/                                     | 2.8.18
 gimp-portable | http://portableapps.com/apps/graphics_pictures/gimp_portable       | 2.8.18
 paint.net     | http://www.getpaint.net/download.html                              | 4.0.13
@@ -50,7 +50,7 @@ lame       | http://lame.sourceforge.net/download.php                     | 3.99
 Name          | Url
 ----          | ---
 7zip          | http://www.7-zip.org/download.html                     | 16.04
-FileZilla     | https://filezilla-project.org/download.php?show_all=1  | 3.23.0.2
+FileZilla     | https://filezilla-project.org/download.php?show_all=1  | 3.24.0
 ImgBurn       | http://www.imgburn.com/index.php?act=download          | 2.5.8.0
 Synchronicity | http://synchronicity.sourceforge.net/                  | 6.0
 WinMerge      | http://winmerge.org/downloads/                         | 2.14.0
