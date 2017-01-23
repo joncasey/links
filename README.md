@@ -19,7 +19,7 @@ atomicparsley  | http://sourceforge.net/projects/atomicparsley/files/atomicparsl
 atomicparsley  | https://bitbucket.org/jonhedgerows/atomicparsley/downloads         | 0.9.6
 ffmpeg         | http://www.ffmpeg.org/download.html                                | 3.2.2
 ffmpeg-win     | http://ffmpeg.zeranoe.com/builds/                                  | 
-handbrake      | http://handbrake.fr/downloads.php                                  | 1.0.1
+handbrake      | http://handbrake.fr/downloads.php                                  | 1.0.2
 mediainfo      | http://mediaarea.net/us/MediaInfo/Download/Windows                 | 0.7.91
 mkvtoolnix     | http://www.bunkus.org/videotools/mkvtoolnix/downloads.html         | 9.8.0
 mkvtoolnix-win | http://www.fosshub.com/MKVToolNix.html                             | 9.8.0
