@@ -17,7 +17,7 @@ Name           | Url                                                            
 ----           | ---                                                                | ---
 atomicparsley  | http://sourceforge.net/projects/atomicparsley/files/atomicparsley/ | 0.9.0
 atomicparsley  | https://bitbucket.org/jonhedgerows/atomicparsley/downloads         | 0.9.6
-ffmpeg         | http://www.ffmpeg.org/download.html                                | 3.2.3
+ffmpeg         | http://www.ffmpeg.org/download.html                                | 3.2.4
 ffmpeg-win     | http://ffmpeg.zeranoe.com/builds/                                  | 
 handbrake      | http://handbrake.fr/downloads.php                                  | 1.0.2
 mediainfo      | http://mediaarea.net/us/MediaInfo/Download/Windows                 | 0.7.92.1
@@ -33,7 +33,7 @@ x264-win64     | http://download.videolan.org/pub/videolan/x264/binaries/win64/ 
 ## Image
 Name          | Url                                                                | Version
 ----          | ---                                                                | ---
-exiftool      | http://www.sno.phy.queensu.ca/~phil/exiftool/                      | 10.41
+exiftool      | http://www.sno.phy.queensu.ca/~phil/exiftool/                      | 10.42
 gimp          | http://www.gimp.org/downloads/                                     | 2.8.20
 gimp-portable | http://portableapps.com/apps/graphics_pictures/gimp_portable       | 2.8.20
 paint.net     | http://www.getpaint.net/download.html                              | 4.0.13
