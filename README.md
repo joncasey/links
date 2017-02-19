@@ -21,8 +21,8 @@ ffmpeg         | http://www.ffmpeg.org/download.html                            
 ffmpeg-win     | http://ffmpeg.zeranoe.com/builds/                                  | 
 handbrake      | http://handbrake.fr/downloads.php                                  | 1.0.2
 mediainfo      | http://mediaarea.net/us/MediaInfo/Download/Windows                 | 0.7.92.1
-mkvtoolnix     | http://www.bunkus.org/videotools/mkvtoolnix/downloads.html         | 9.8.0
-mkvtoolnix-win | http://www.fosshub.com/MKVToolNix.html                             | 9.8.0
+mkvtoolnix     | http://www.bunkus.org/videotools/mkvtoolnix/downloads.html         | 9.9.0
+mkvtoolnix-win | http://www.fosshub.com/MKVToolNix.html                             | 9.9.0
 mp4box         | http://gpac.wp.mines-telecom.fr/mp4box/                            | 0.5.2
 subtitle-edit  | https://github.com/SubtitleEdit/subtitleedit/releases              | 3.5.1
 webm           | http://www.webmproject.org/tools/                                  | 
@@ -33,7 +33,7 @@ x264-win64     | http://download.videolan.org/pub/videolan/x264/binaries/win64/ 
 ## Image
 Name          | Url                                                                | Version
 ----          | ---                                                                | ---
-exiftool      | http://www.sno.phy.queensu.ca/~phil/exiftool/                      | 10.42
+exiftool      | http://www.sno.phy.queensu.ca/~phil/exiftool/                      | 10.43
 gimp          | http://www.gimp.org/downloads/                                     | 2.8.20
 gimp-portable | http://portableapps.com/apps/graphics_pictures/gimp_portable       | 2.8.20
 paint.net     | http://www.getpaint.net/download.html                              | 4.0.13
@@ -43,7 +43,7 @@ Name       | Url                                                          | Vers
 ---        | ---                                                          | ---
 eac3to     | http://forum.doom9.org/showthread.php?t=125966               | 3.31
 eac3to-gui | https://code.google.com/p/hdbrstreamextractor/downloads/list | 0.8
-mp3tag     | http://www.mp3tag.de/en/download.html                        | 2.80
+mp3tag     | http://www.mp3tag.de/en/download.html                        | 2.81
 lame       | http://lame.sourceforge.net/download.php                     | 3.99
 
 ## Utility
