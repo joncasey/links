@@ -21,8 +21,8 @@ handbrake      | http://handbrake.fr/downloads.php                              
 mediainfo      | http://mediaarea.net/us/MediaInfo/Download/Windows                 | 0.7.93
 mkvtoolnix     | http://www.bunkus.org/videotools/mkvtoolnix/downloads.html         | 9.9.0
 mkvtoolnix-win | http://www.fosshub.com/MKVToolNix.html                             | 9.9.0
-mp4box         | http://gpac.wp.mines-telecom.fr/mp4box/                            | 0.5.2
-subtitle-edit  | https://github.com/SubtitleEdit/subtitleedit/releases              | 3.5.1
+mp4box         | http://gpac.wp.mines-telecom.fr/mp4box/                            | 0.6.2
+subtitle-edit  | https://github.com/SubtitleEdit/subtitleedit/releases              | 3.5.2
 webm           | http://www.webmproject.org/tools/                                  | 
 x264           | http://www.videolan.org/developers/x264.html                       | 
 x264-win32     | http://download.videolan.org/pub/videolan/x264/binaries/win32/     | 
