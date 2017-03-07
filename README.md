@@ -5,8 +5,6 @@ Name          | Url                                                             
 git           | https://github.com/git-for-windows/git/releases                    | 2.12.0
 java          | http://www.oracle.com/technetwork/java/javase/downloads/index.html | 8u121
 nodejs        | https://nodejs.org/en/download/current/                            | 7.7.1
-nwjs          | http://nwjs.io/                                                    | 0.13.3
-notepad++     | http://notepad-plus-plus.org/download/                             | 6.9.1
 phantomjs     | http://phantomjs.org/download.html                                 | 2.1.1
 sqlite        | http://www.sqlite.org/download.html                                | 3.17.0
 sqlitespy     | http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index       | 1.9.11
