@@ -4,11 +4,11 @@ Name          | Url                                                             
 ----          | ---                                                                | ---
 git           | https://github.com/git-for-windows/git/releases                    | 2.12.0
 java          | http://www.oracle.com/technetwork/java/javase/downloads/index.html | 8u121
-nodejs        | https://nodejs.org/en/download/current/                            | 7.7.2
+nodejs        | https://nodejs.org/en/download/current/                            | 7.7.3
 phantomjs     | http://phantomjs.org/download.html                                 | 2.1.1
 sqlite        | http://www.sqlite.org/download.html                                | 3.17.0
 sqlitespy     | http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index       | 1.9.11
-vscode        | https://code.visualstudio.com/updates                              | 1.10.1
+vscode        | https://code.visualstudio.com/updates                              | 1.10.2
 
 ## Video
 Name           | Url                                                                | Version
@@ -31,7 +31,7 @@ x264-win64     | http://download.videolan.org/pub/videolan/x264/binaries/win64/ 
 ## Image
 Name          | Url                                                                | Version
 ----          | ---                                                                | ---
-exiftool      | http://www.sno.phy.queensu.ca/~phil/exiftool/                      | 10.46
+exiftool      | http://www.sno.phy.queensu.ca/~phil/exiftool/                      | 10.47
 gimp          | http://www.gimp.org/downloads/                                     | 2.8.20
 gimp-portable | http://portableapps.com/apps/graphics_pictures/gimp_portable       | 2.8.20
 paint.net     | http://www.getpaint.net/download.html                              | 4.0.13
@@ -48,7 +48,7 @@ lame       | http://lame.sourceforge.net/download.php                     | 3.99
 Name          | Url
 ----          | ---
 7zip          | http://www.7-zip.org/download.html                     | 16.04
-FileZilla     | https://filezilla-project.org/download.php?show_all=1  | 3.24.1
+FileZilla     | https://filezilla-project.org/download.php?show_all=1  | 3.25.1
 ImgBurn       | http://www.imgburn.com/index.php?act=download          | 2.5.8.0
 Synchronicity | http://synchronicity.sourceforge.net/                  | 6.0
 WinMerge      | http://winmerge.org/downloads/                         | 2.14.0
