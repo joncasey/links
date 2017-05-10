@@ -2,13 +2,13 @@
 ## Developer
 Name          | Url                                                                | Version
 ----          | ---                                                                | ---
-git           | https://github.com/git-for-windows/git/releases                    | 2.12.2
+git           | https://github.com/git-for-windows/git/releases                    | 2.13.0
 java          | http://www.oracle.com/technetwork/java/javase/downloads/index.html | 8u121
 nodejs        | https://nodejs.org/en/download/current/                            | 7.10.0
 phantomjs     | http://phantomjs.org/download.html                                 | 2.1.1
 sqlite        | http://www.sqlite.org/download.html                                | 3.18.0
 sqlitespy     | http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index       | 1.9.11
-vscode        | https://code.visualstudio.com/updates                              | 1.12.0
+vscode        | https://code.visualstudio.com/updates                              | 1.12.1
 
 ## Video
 Name           | Url                                                                | Version
@@ -47,8 +47,8 @@ lame       | http://lame.sourceforge.net/download.php                     | 3.99
 ## Utility
 Name          | Url
 ----          | ---
-7zip          | http://www.7-zip.org/download.html                     | 16.04
-FileZilla     | https://filezilla-project.org/download.php?show_all=1  | 3.25.1
+7zip          | http://www.7-zip.org/download.html                     | 17.00
+FileZilla     | https://filezilla-project.org/download.php?show_all=1  | 3.25.2
 ImgBurn       | http://www.imgburn.com/index.php?act=download          | 2.5.8.0
 Synchronicity | http://synchronicity.sourceforge.net/                  | 6.0
 WinMerge      | http://winmerge.org/downloads/                         | 2.14.0
