@@ -22,7 +22,7 @@ mediainfo      | http://mediaarea.net/us/MediaInfo/Download/Windows             
 mkvtoolnix     | http://www.bunkus.org/videotools/mkvtoolnix/downloads.html         | 11.0.0
 mkvtoolnix-win | http://www.fosshub.com/MKVToolNix.html                             | 11.0.0
 mp4box         | http://gpac.wp.mines-telecom.fr/mp4box/                            | 0.6.2
-subtitle-edit  | https://github.com/SubtitleEdit/subtitleedit/releases              | 3.5.2
+subtitle-edit  | https://github.com/SubtitleEdit/subtitleedit/releases              | 3.5.3
 webm           | http://www.webmproject.org/tools/                                  | 
 x264           | http://www.videolan.org/developers/x264.html                       | 
 x264-win32     | http://download.videolan.org/pub/videolan/x264/binaries/win32/     | 
@@ -31,9 +31,9 @@ x264-win64     | http://download.videolan.org/pub/videolan/x264/binaries/win64/ 
 ## Image
 Name          | Url                                                                | Version
 ----          | ---                                                                | ---
-exiftool      | http://www.sno.phy.queensu.ca/~phil/exiftool/                      | 10.51
-gimp          | http://www.gimp.org/downloads/                                     | 2.8.20
-gimp-portable | http://portableapps.com/apps/graphics_pictures/gimp_portable       | 2.8.20
+exiftool      | http://www.sno.phy.queensu.ca/~phil/exiftool/                      | 10.52
+gimp          | http://www.gimp.org/downloads/                                     | 2.8.22
+gimp-portable | http://portableapps.com/apps/graphics_pictures/gimp_portable       | 2.8.22
 paint.net     | http://www.getpaint.net/download.html                              | 4.0.16
 
 ## Audio
