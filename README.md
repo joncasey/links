@@ -31,7 +31,7 @@ x264-win64     | http://download.videolan.org/pub/videolan/x264/binaries/win64/ 
 ## Image
 Name          | Url                                                                | Version
 ----          | ---                                                                | ---
-exiftool      | http://www.sno.phy.queensu.ca/~phil/exiftool/                      | 10.54
+exiftool      | http://www.sno.phy.queensu.ca/~phil/exiftool/                      | 10.55
 gimp          | http://www.gimp.org/downloads/                                     | 2.8.22
 gimp-portable | http://portableapps.com/apps/graphics_pictures/gimp_portable       | 2.8.22
 paint.net     | http://www.getpaint.net/download.html                              | 4.0.16
@@ -48,7 +48,7 @@ lame       | http://lame.sourceforge.net/download.php                     | 3.99
 Name          | Url
 ----          | ---
 7zip          | http://www.7-zip.org/download.html                     | 17.00
-FileZilla     | https://filezilla-project.org/download.php?show_all=1  | 3.26.0
+FileZilla     | https://filezilla-project.org/download.php?show_all=1  | 3.26.1
 ImgBurn       | http://www.imgburn.com/index.php?act=download          | 2.5.8.0
 Synchronicity | http://synchronicity.sourceforge.net/                  | 6.0
 WinMerge      | http://winmerge.org/downloads/                         | 2.14.0
