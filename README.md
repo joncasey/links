@@ -2,13 +2,13 @@
 ## Developer
 Name          | Url                                                                | Version
 ----          | ---                                                                | ---
-git           | https://github.com/git-for-windows/git/releases                    | 2.13.0
+git           | https://github.com/git-for-windows/git/releases                    | 2.13.1
 java          | http://www.oracle.com/technetwork/java/javase/downloads/index.html | 8u121
-nodejs        | https://nodejs.org/en/download/current/                            | 8.0.0
+nodejs        | https://nodejs.org/en/download/current/                            | 8.1.1
 phantomjs     | http://phantomjs.org/download.html                                 | 2.1.1
-sqlite        | http://www.sqlite.org/download.html                                | 3.19.2
+sqlite        | http://www.sqlite.org/download.html                                | 3.19.3
 sqlitespy     | http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index       | 1.9.11
-vscode        | https://code.visualstudio.com/updates                              | 1.12.2
+vscode        | https://code.visualstudio.com/updates                              | 1.13.0
 
 ## Video
 Name           | Url                                                                | Version
@@ -31,7 +31,7 @@ x264-win64     | http://download.videolan.org/pub/videolan/x264/binaries/win64/ 
 ## Image
 Name          | Url                                                                | Version
 ----          | ---                                                                | ---
-exiftool      | http://www.sno.phy.queensu.ca/~phil/exiftool/                      | 10.55
+exiftool      | http://www.sno.phy.queensu.ca/~phil/exiftool/                      | 10.56
 gimp          | http://www.gimp.org/downloads/                                     | 2.8.22
 gimp-portable | http://portableapps.com/apps/graphics_pictures/gimp_portable       | 2.8.22
 paint.net     | http://www.getpaint.net/download.html                              | 4.0.16
