@@ -2,7 +2,7 @@
 ## Developer
 Name          | Url                                                                | Version
 ----          | ---                                                                | ---
-git           | https://github.com/git-for-windows/git/releases                    | 2.13.1
+git           | https://github.com/git-for-windows/git/releases                    | 2.13.2
 java          | http://www.oracle.com/technetwork/java/javase/downloads/index.html | 8u121
 nodejs        | https://nodejs.org/en/download/current/                            | 8.1.2
 phantomjs     | http://phantomjs.org/download.html                                 | 2.1.1
@@ -19,8 +19,8 @@ ffmpeg         | http://www.ffmpeg.org/download.html                            
 ffmpeg-win     | http://ffmpeg.zeranoe.com/builds/                                  | 
 handbrake      | http://handbrake.fr/downloads.php                                  | 1.0.7
 mediainfo      | http://mediaarea.net/us/MediaInfo/Download/Windows                 | 0.7.96
-mkvtoolnix     | http://www.bunkus.org/videotools/mkvtoolnix/downloads.html         | 12.0.0
-mkvtoolnix-win | http://www.fosshub.com/MKVToolNix.html                             | 12.0.0
+mkvtoolnix     | http://www.bunkus.org/videotools/mkvtoolnix/downloads.html         | 13.0.0
+mkvtoolnix-win | http://www.fosshub.com/MKVToolNix.html                             | 13.0.0
 mp4box         | http://gpac.wp.mines-telecom.fr/mp4box/                            | 0.6.2
 subtitle-edit  | https://github.com/SubtitleEdit/subtitleedit/releases              | 3.5.3
 webm           | http://www.webmproject.org/tools/                                  | 
@@ -41,7 +41,7 @@ Name       | Url                                                          | Vers
 ---        | ---                                                          | ---
 eac3to     | http://forum.doom9.org/showthread.php?t=125966               | 3.31
 eac3to-gui | https://code.google.com/p/hdbrstreamextractor/downloads/list | 0.8
-mp3tag     | http://www.mp3tag.de/en/download.html                        | 2.82
+mp3tag     | http://www.mp3tag.de/en/download.html                        | 2.83
 lame       | http://lame.sourceforge.net/download.php                     | 3.99
 
 ## Utility
