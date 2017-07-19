@@ -4,7 +4,7 @@ Name          | Url                                                             
 ----          | ---                                                                | ---
 git           | https://github.com/git-for-windows/git/releases                    | 2.13.3
 java          | http://www.oracle.com/technetwork/java/javase/downloads/index.html | 8u121
-nodejs        | https://nodejs.org/en/download/current/                            | 8.1.4
+nodejs        | https://nodejs.org/en/download/current/                            | 8.2.0
 phantomjs     | http://phantomjs.org/download.html                                 | 2.1.1
 sqlite        | http://www.sqlite.org/download.html                                | 3.19.3
 sqlitespy     | http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index       | 1.9.11
@@ -48,7 +48,7 @@ lame       | http://lame.sourceforge.net/download.php                     | 3.99
 Name          | Url
 ----          | ---
 7zip          | http://www.7-zip.org/download.html                     | 17.00
-FileZilla     | https://filezilla-project.org/download.php?show_all=1  | 3.26.1
+FileZilla     | https://filezilla-project.org/download.php?show_all=1  | 3.27.0.1
 ImgBurn       | http://www.imgburn.com/index.php?act=download          | 2.5.8.0
 Synchronicity | http://synchronicity.sourceforge.net/                  | 6.0
 WinMerge      | http://winmerge.org/downloads/                         | 2.14.0
