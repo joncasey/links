@@ -31,10 +31,10 @@ x264-win64     | http://download.videolan.org/pub/videolan/x264/binaries/win64/ 
 ## Image
 Name          | Url                                                                | Version
 ----          | ---                                                                | ---
-exiftool      | http://www.sno.phy.queensu.ca/~phil/exiftool/                      | 10.59
+exiftool      | http://www.sno.phy.queensu.ca/~phil/exiftool/                      | 10.60
 gimp          | http://www.gimp.org/downloads/                                     | 2.8.22
 gimp-portable | http://portableapps.com/apps/graphics_pictures/gimp_portable       | 2.8.22
-paint.net     | http://www.getpaint.net/download.html                              | 4.0.16
+paint.net     | http://www.getpaint.net/download.html                              | 4.0.17
 
 ## Audio
 Name       | Url                                                          | Version
