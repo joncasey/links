@@ -4,11 +4,11 @@ Name          | Url                                                             
 ----          | ---                                                                | ---
 git           | https://github.com/git-for-windows/git/releases                    | 2.13.3
 java          | http://www.oracle.com/technetwork/java/javase/downloads/index.html | 8u121
-nodejs        | https://nodejs.org/en/download/current/                            | 8.2.0
+nodejs        | https://nodejs.org/en/download/current/                            | 8.2.1
 phantomjs     | http://phantomjs.org/download.html                                 | 2.1.1
 sqlite        | http://www.sqlite.org/download.html                                | 3.19.3
 sqlitespy     | http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index       | 1.9.11
-vscode        | https://code.visualstudio.com/updates                              | 1.14.1
+vscode        | https://code.visualstudio.com/updates                              | 1.14.2
 
 ## Video
 Name           | Url                                                                | Version
