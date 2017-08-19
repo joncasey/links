@@ -19,8 +19,8 @@ ffmpeg         | http://www.ffmpeg.org/download.html                            
 ffmpeg-win     | http://ffmpeg.zeranoe.com/builds/                                  | 
 handbrake      | http://handbrake.fr/downloads.php                                  | 1.0.7
 mediainfo      | http://mediaarea.net/us/MediaInfo/Download/Windows                 | 0.7.98
-mkvtoolnix     | http://www.bunkus.org/videotools/mkvtoolnix/downloads.html         | 14.0.0
-mkvtoolnix-win | http://www.fosshub.com/MKVToolNix.html                             | 14.0.0
+mkvtoolnix     | http://www.bunkus.org/videotools/mkvtoolnix/downloads.html         | 15.0.0
+mkvtoolnix-win | http://www.fosshub.com/MKVToolNix.html                             | 15.0.0
 mp4box         | http://gpac.wp.mines-telecom.fr/mp4box/                            | 0.6.2
 subtitle-edit  | https://github.com/SubtitleEdit/subtitleedit/releases              | 3.5.3
 webm           | http://www.webmproject.org/tools/                                  | 
@@ -31,7 +31,7 @@ x264-win64     | http://download.videolan.org/pub/videolan/x264/binaries/win64/ 
 ## Image
 Name          | Url                                                                | Version
 ----          | ---                                                                | ---
-exiftool      | http://www.sno.phy.queensu.ca/~phil/exiftool/                      | 10.60
+exiftool      | http://www.sno.phy.queensu.ca/~phil/exiftool/                      | 10.61
 gimp          | http://www.gimp.org/downloads/                                     | 2.8.22
 gimp-portable | http://portableapps.com/apps/graphics_pictures/gimp_portable       | 2.8.22
 paint.net     | http://www.getpaint.net/download.html                              | 4.0.17
