@@ -6,9 +6,9 @@ git           | https://github.com/git-for-windows/git/releases                 
 java          | http://www.oracle.com/technetwork/java/javase/downloads/index.html | 8u144
 nodejs        | https://nodejs.org/en/download/current/                            | 8.4.0
 phantomjs     | http://phantomjs.org/download.html                                 | 2.1.1
-sqlite        | http://www.sqlite.org/download.html                                | 3.20.0
+sqlite        | http://www.sqlite.org/download.html                                | 3.20.1
 sqlitespy     | http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index       | 1.9.11
-vscode        | https://code.visualstudio.com/updates                              | 1.15.1
+vscode        | https://code.visualstudio.com/updates                              | 1.16.0
 
 ## Video
 Name           | Url                                                                | Version
@@ -41,13 +41,13 @@ Name       | Url                                                          | Vers
 ---        | ---                                                          | ---
 eac3to     | http://forum.doom9.org/showthread.php?t=125966               | 3.31
 eac3to-gui | https://code.google.com/p/hdbrstreamextractor/downloads/list | 0.8
-mp3tag     | http://www.mp3tag.de/en/download.html                        | 2.83
+mp3tag     | http://www.mp3tag.de/en/download.html                        | 2.84a
 lame       | http://lame.sourceforge.net/download.php                     | 3.99
 
 ## Utility
 Name          | Url
 ----          | ---
-7zip          | http://www.7-zip.org/download.html                     | 17.00
+7zip          | http://www.7-zip.org/download.html                     | 17.01
 FileZilla     | https://filezilla-project.org/download.php?show_all=1  | 3.27.1
 ImgBurn       | http://www.imgburn.com/index.php?act=download          | 2.5.8.0
 Synchronicity | http://synchronicity.sourceforge.net/                  | 6.0
