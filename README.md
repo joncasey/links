@@ -4,7 +4,7 @@ Name          | Url                                                             
 ----          | ---                                                                | ---
 git           | https://github.com/git-for-windows/git/releases                    | 2.14.1
 java          | http://www.oracle.com/technetwork/java/javase/downloads/index.html | 8u144
-nodejs        | https://nodejs.org/en/download/current/                            | 8.4.0
+nodejs        | https://nodejs.org/en/download/current/                            | 8.5.0
 phantomjs     | http://phantomjs.org/download.html                                 | 2.1.1
 sqlite        | http://www.sqlite.org/download.html                                | 3.20.1
 sqlitespy     | http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index       | 1.9.11
@@ -15,10 +15,10 @@ Name           | Url                                                            
 ----           | ---                                                                | ---
 atomicparsley  | http://sourceforge.net/projects/atomicparsley/files/atomicparsley/ | 0.9.0
 atomicparsley  | https://bitbucket.org/jonhedgerows/atomicparsley/downloads         | 0.9.6
-ffmpeg         | http://www.ffmpeg.org/download.html                                | 3.3.3
+ffmpeg         | http://www.ffmpeg.org/download.html                                | 3.3.4
 ffmpeg-win     | http://ffmpeg.zeranoe.com/builds/                                  | 
 handbrake      | http://handbrake.fr/downloads.php                                  | 1.0.7
-mediainfo      | http://mediaarea.net/us/MediaInfo/Download/Windows                 | 0.7.98
+mediainfo      | http://mediaarea.net/us/MediaInfo/Download/Windows                 | 0.7.99
 mkvtoolnix     | http://www.bunkus.org/videotools/mkvtoolnix/downloads.html         | 15.0.0
 mkvtoolnix-win | http://www.fosshub.com/MKVToolNix.html                             | 15.0.0
 mp4box         | http://gpac.wp.mines-telecom.fr/mp4box/                            | 0.6.2
