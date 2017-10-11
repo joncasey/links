@@ -4,10 +4,10 @@ Name          | Url                                                             
 ----          | ---                                                                | ---
 git           | https://github.com/git-for-windows/git/releases                    | 2.14.2
 java          | http://www.oracle.com/technetwork/java/javase/downloads/index.html | 9
-nodejs        | https://nodejs.org/en/download/current/                            | 8.6.0
+nodejs        | https://nodejs.org/en/download/current/                            | 8.7.0
 sqlite        | http://www.sqlite.org/download.html                                | 3.20.1
 sqlitespy     | http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index       | 1.9.11
-vscode        | https://code.visualstudio.com/updates                              | 1.16.1
+vscode        | https://code.visualstudio.com/updates                              | 1.17.1
 
 ## Video
 Name           | Url                                                                | Version
