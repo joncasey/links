@@ -2,9 +2,9 @@
 ## Developer
 Name          | Url                                                                | Version
 ----          | ---                                                                | ---
-git           | https://github.com/git-for-windows/git/releases                    | 2.14.3
+git           | https://github.com/git-for-windows/git/releases                    | 2.15.0
 java          | http://www.oracle.com/technetwork/java/javase/downloads/index.html | 9
-nodejs        | https://nodejs.org/en/download/current/                            | 8.8.0
+nodejs        | https://nodejs.org/en/download/current/                            | 8.8.1
 sqlite        | http://www.sqlite.org/download.html                                | 3.21.0
 sqlitespy     | http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index       | 1.9.11
 vscode        | https://code.visualstudio.com/updates                              | 1.17.2
@@ -40,7 +40,7 @@ Name       | Url                                                          | Vers
 ---        | ---                                                          | ---
 eac3to     | http://forum.doom9.org/showthread.php?t=125966               | 3.31
 eac3to-gui | https://code.google.com/p/hdbrstreamextractor/downloads/list | 0.8
-mp3tag     | http://www.mp3tag.de/en/download.html                        | 2.84a
+mp3tag     | http://www.mp3tag.de/en/download.html                        | 2.85
 lame       | http://lame.sourceforge.net/download.php                     | 3.99
 
 ## Utility
