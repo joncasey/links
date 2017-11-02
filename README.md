@@ -17,7 +17,7 @@ atomicparsley  | https://bitbucket.org/jonhedgerows/atomicparsley/downloads     
 ffmpeg         | http://www.ffmpeg.org/download.html                                | 3.4
 ffmpeg-win     | http://ffmpeg.zeranoe.com/builds/                                  | 
 handbrake      | http://handbrake.fr/downloads.php                                  | 1.0.7
-mediainfo      | http://mediaarea.net/us/MediaInfo/Download/Windows                 | 0.7.99
+mediainfo      | http://mediaarea.net/us/MediaInfo/Download/Windows                 | 17.10
 mkvtoolnix     | http://www.bunkus.org/videotools/mkvtoolnix/downloads.html         | 17.0.0
 mkvtoolnix-win | http://www.fosshub.com/MKVToolNix.html                             | 17.0.0
 mp4box         | http://gpac.wp.mines-telecom.fr/mp4box/                            | 0.6.2
