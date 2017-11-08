@@ -52,11 +52,6 @@ ImgBurn       | http://www.imgburn.com/index.php?act=download          | 2.5.8.0
 Synchronicity | http://synchronicity.sourceforge.net/                  | 6.0
 WinMerge      | http://winmerge.org/downloads/                         | 2.14.0
 
-## Gaming
-Name              | Url
-----              | ---
-Amazon Lumberyard | https://aws.amazon.com/lumberyard/downloads/
-
 ## Web Apps
 Name             | Url
 ----             | ---
