@@ -7,7 +7,7 @@ java          | http://www.oracle.com/technetwork/java/javase/downloads/index.ht
 nodejs        | https://nodejs.org/en/download/current/                            | 9.4.0
 sqlite        | http://www.sqlite.org/download.html                                | 3.21.0
 sqlitespy     | http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index       | 1.9.12
-vscode        | https://code.visualstudio.com/updates                              | 1.19.1
+vscode        | https://code.visualstudio.com/updates                              | 1.19.2
 
 ## Video
 Name           | Url                                                                | Version
@@ -18,8 +18,8 @@ ffmpeg         | http://www.ffmpeg.org/download.html                            
 ffmpeg-win     | http://ffmpeg.zeranoe.com/builds/                                  | 
 handbrake      | http://handbrake.fr/downloads.php                                  | 1.0.7
 mediainfo      | http://mediaarea.net/us/MediaInfo/Download/Windows                 | 17.12
-mkvtoolnix     | http://www.bunkus.org/videotools/mkvtoolnix/downloads.html         | 19.0.0
-mkvtoolnix-win | http://www.fosshub.com/MKVToolNix.html                             | 19.0.0
+mkvtoolnix     | http://www.bunkus.org/videotools/mkvtoolnix/downloads.html         | 20.0.0
+mkvtoolnix-win | http://www.fosshub.com/MKVToolNix.html                             | 20.0.0
 mp4box         | http://gpac.wp.mines-telecom.fr/mp4box/                            | 0.6.2
 subtitle-edit  | https://github.com/SubtitleEdit/subtitleedit/releases              | 3.5.4
 webm           | http://www.webmproject.org/tools/                                  | 
@@ -30,10 +30,10 @@ x264-win64     | http://download.videolan.org/pub/videolan/x264/binaries/win64/ 
 ## Image
 Name          | Url                                                                | Version
 ----          | ---                                                                | ---
-exiftool      | http://www.sno.phy.queensu.ca/~phil/exiftool/                      | 10.74
+exiftool      | http://www.sno.phy.queensu.ca/~phil/exiftool/                      | 10.75
 gimp          | http://www.gimp.org/downloads/                                     | 2.8.22
 gimp-portable | http://portableapps.com/apps/graphics_pictures/gimp_portable       | 2.8.22
-paint.net     | http://www.getpaint.net/download.html                              | 4.0.20
+paint.net     | http://www.getpaint.net/download.html                              | 4.0.21
 
 ## Audio
 Name       | Url                                                          | Version
