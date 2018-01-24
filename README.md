@@ -40,7 +40,7 @@ Name       | Url                                                          | Vers
 ---        | ---                                                          | ---
 eac3to     | http://forum.doom9.org/showthread.php?t=125966               | 3.31
 eac3to-gui | https://code.google.com/p/hdbrstreamextractor/downloads/list | 0.8
-mp3tag     | http://www.mp3tag.de/en/download.html                        | 2.85
+mp3tag     | http://www.mp3tag.de/en/download.html                        | 2.86
 lame       | http://lame.sourceforge.net/download.php                     | 3.99
 
 ## Utility
