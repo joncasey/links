@@ -7,7 +7,7 @@ java          | http://www.oracle.com/technetwork/java/javase/downloads/index.ht
 nodejs        | https://nodejs.org/en/download/current/                            | 9.5.0
 sqlite        | http://www.sqlite.org/download.html                                | 3.22.0
 sqlitespy     | http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index       | 1.9.12
-vscode        | https://code.visualstudio.com/updates                              | 1.19.2
+vscode        | https://code.visualstudio.com/updates                              | 1.20.0
 
 ## Video
 Name           | Url                                                                | Version
