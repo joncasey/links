@@ -7,14 +7,14 @@ java          | http://www.oracle.com/technetwork/java/javase/downloads/index.ht
 nodejs        | https://nodejs.org/en/download/current/                            | 9.5.0
 sqlite        | http://www.sqlite.org/download.html                                | 3.22.0
 sqlitespy     | http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index       | 1.9.12
-vscode        | https://code.visualstudio.com/updates                              | 1.20.0
+vscode        | https://code.visualstudio.com/updates                              | 1.20.1
 
 ## Video
 Name           | Url                                                                | Version
 ----           | ---                                                                | ---
 atomicparsley  | http://sourceforge.net/projects/atomicparsley/files/atomicparsley/ | 0.9.0
 atomicparsley  | https://bitbucket.org/jonhedgerows/atomicparsley/downloads         | 0.9.6
-ffmpeg         | http://www.ffmpeg.org/download.html                                | 3.4.1
+ffmpeg         | http://www.ffmpeg.org/download.html                                | 3.4.2
 ffmpeg-win     | http://ffmpeg.zeranoe.com/builds/                                  | 
 handbrake      | http://handbrake.fr/downloads.php                                  | 1.0.7
 mediainfo      | http://mediaarea.net/us/MediaInfo/Download/Windows                 | 17.12
@@ -30,7 +30,7 @@ x264-win64     | http://download.videolan.org/pub/videolan/x264/binaries/win64/ 
 ## Image
 Name          | Url                                                                | Version
 ----          | ---                                                                | ---
-exiftool      | http://www.sno.phy.queensu.ca/~phil/exiftool/                      | 10.78
+exiftool      | http://www.sno.phy.queensu.ca/~phil/exiftool/                      | 10.79
 gimp          | http://www.gimp.org/downloads/                                     | 2.8.22
 gimp-portable | http://portableapps.com/apps/graphics_pictures/gimp_portable       | 2.8.22
 paint.net     | http://www.getpaint.net/download.html                              | 4.0.21
