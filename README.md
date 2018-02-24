@@ -1,5 +1,5 @@
 
-## Developer
+### Developer
 Name                                                                                | Version
 ----                                                                                | -------
 [git](https://github.com/git-for-windows/git/releases)                              | 2.16.2
@@ -9,7 +9,7 @@ Name                                                                            
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)           | 1.9.12
 [vscode](https://code.visualstudio.com/updates)                                     | 1.20.1
 
-## Video
+### Video
 Name                                                                                | Version
 ----                                                                                | -------
 [atomicparsley](http://sourceforge.net/projects/atomicparsley/files/atomicparsley/) | 0.9.0
@@ -27,18 +27,18 @@ Name                                                                            
 [x264-win32](http://download.videolan.org/pub/videolan/x264/binaries/win32/)        | 
 [x264-win64](http://download.videolan.org/pub/videolan/x264/binaries/win64/)        | 
 
-## Image
+### Image
 Name                                                                                | Version
 ----                                                                                | -------
 [exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 10.80
 [paint.net](http://www.getpaint.net/download.html)                                  | 4.0.21
 
-## Audio
+### Audio
 Name                                                                                | Version
 ----                                                                                | -------
 [mp3tag](http://www.mp3tag.de/en/download.html)                                     | 2.86
 
-## Utility
+### Utility
 Name                                                                                | Version
 ----                                                                                | -------
 [7zip](http://www.7-zip.org/download.html)                                          | 18.01
