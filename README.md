@@ -15,7 +15,7 @@ Name                                                                            
 [atomicparsley](http://sourceforge.net/projects/atomicparsley/files/atomicparsley/) | 0.9.0
 [atomicparsley](https://bitbucket.org/jonhedgerows/atomicparsley/downloads)         | 0.9.6
 [ffmpeg](http://www.ffmpeg.org/download.html)                                       | 3.4.2
-[ffmpeg-win](http://ffmpeg.zeranoe.com/builds/)                                     | 
+[ffmpeg-win](http://ffmpeg.zeranoe.com/builds/)                                     | 3.4.2
 [handbrake](http://handbrake.fr/downloads.php)                                      | 1.0.7
 [mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)                     | 17.12
 [mkvtoolnix](http://www.bunkus.org/videotools/mkvtoolnix/downloads.html)            | 21.0.0
