@@ -31,8 +31,6 @@ Name                                                                            
 Name                                                                                | Version
 ----                                                                                | -------
 [exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 10.80
-[gimp](http://www.gimp.org/downloads/)                                              | 2.8.22
-[gimp-portabl](http://portableapps.com/apps/graphics_pictures/gimp_portable)        | 2.8.22
 [paint.net](http://www.getpaint.net/download.html)                                  | 4.0.21
 
 ## Audio
