@@ -3,7 +3,7 @@
 Name                                                                                | Version
 ----                                                                                | -------
 [git](https://github.com/git-for-windows/git/releases)                              | 2.16.2
-[java](http://www.oracle.com/technetwork/java/javase/downloads/index.html)          | 9
+[java](http://www.oracle.com/technetwork/java/javase/downloads/index.html)          | 9.0.4
 [nodejs](https://nodejs.org/en/download/current/)                                   | 9.6.1
 [sqlite](http://www.sqlite.org/download.html)                                       | 3.22.0
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)           | 1.9.12
