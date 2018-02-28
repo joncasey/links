@@ -21,7 +21,7 @@ Name                                                                            
 [mkvtoolnix](http://www.bunkus.org/videotools/mkvtoolnix/downloads.html)            | 21.0.0
 [mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                            | 21.0.0
 [mp4box](http://gpac.wp.mines-telecom.fr/mp4box/)                                   | 0.6.2
-[subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)              | 3.5.5
+[subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)              | 3.5.6
 [webm](http://www.webmproject.org/tools/)                                           | 
 [x264](http://www.videolan.org/developers/x264.html)                                | 
 [x264-win32](http://download.videolan.org/pub/videolan/x264/binaries/win32/)        | 
@@ -30,7 +30,7 @@ Name                                                                            
 ### Image
 Name                                                                                | Version
 ----                                                                                | -------
-[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 10.80
+[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 10.81
 [paint.net](http://www.getpaint.net/download.html)                                  | 4.0.21
 
 ### Audio
