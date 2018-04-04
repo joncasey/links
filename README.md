@@ -2,7 +2,7 @@
 ### Developer
 Name                                                                                | Version
 ----                                                                                | -------
-[git](https://github.com/git-for-windows/git/releases)                              | 2.16.2
+[git](https://github.com/git-for-windows/git/releases)                              | 2.17.0
 [java](http://www.oracle.com/technetwork/java/javase/downloads/index.html)          | 9.0.4
 [nodejs](https://nodejs.org/en/download/current/)                                   | 9.10.1
 [sqlite](http://www.sqlite.org/download.html)                                       | 3.23.0
@@ -42,6 +42,6 @@ Name                                                                            
 Name                                                                                | Version
 ----                                                                                | -------
 [7zip](http://www.7-zip.org/download.html)                                          | 18.01
-[FileZilla](https://filezilla-project.org/download.php?show_all=1)                  | 3.31.0
+[FileZilla](https://filezilla-project.org/download.php?show_all=1)                  | 3.32.0
 [ImgBurn](http://www.imgburn.com/index.php?act=download)                            | 2.5.8.0
 [WinMerge](http://winmerge.org/downloads/)                                          | 2.14.0
