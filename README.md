@@ -3,7 +3,7 @@
 Name                                                                                | Version
 ----                                                                                | -------
 [git](https://github.com/git-for-windows/git/releases)                              | 2.17.0
-[java](http://www.oracle.com/technetwork/java/javase/downloads/index.html)          | 9.0.4
+[java](http://www.oracle.com/technetwork/java/javase/downloads/index.html)          | 10.0.1
 [nodejs](https://nodejs.org/en/download/current/)                                   | 9.11.1
 [sqlite](http://www.sqlite.org/download.html)                                       | 3.23.1
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)           | 1.9.12
@@ -14,7 +14,7 @@ Name                                                                            
 ----                                                                                | -------
 [atomicparsley](http://sourceforge.net/projects/atomicparsley/files/atomicparsley/) | 0.9.0
 [atomicparsley](https://bitbucket.org/jonhedgerows/atomicparsley/downloads)         | 0.9.6
-[ffmpeg](http://www.ffmpeg.org/download.html)                                       | 3.4.2
+[ffmpeg](http://www.ffmpeg.org/download.html)                                       | 4.0.0
 [ffmpeg-win](http://ffmpeg.zeranoe.com/builds/)                                     | 3.4.2
 [handbrake](http://handbrake.fr/downloads.php)                                      | 1.1.0
 [mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)                     | 18.03
@@ -30,13 +30,13 @@ Name                                                                            
 ### Image
 Name                                                                                | Version
 ----                                                                                | -------
-[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 10.92
+[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 10.94
 [paint.net](http://www.getpaint.net/download.html)                                  | 4.0.21
 
 ### Audio
 Name                                                                                | Version
 ----                                                                                | -------
-[mp3tag](http://www.mp3tag.de/en/download.html)                                     | 2.87
+[mp3tag](http://www.mp3tag.de/en/download.html)                                     | 2.87a
 
 ### Utility
 Name                                                                                | Version
