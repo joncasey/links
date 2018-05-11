@@ -4,10 +4,10 @@ Name                                                                            
 ----                                                                                | -------
 [git](https://github.com/git-for-windows/git/releases)                              | 2.17.0
 [java](http://www.oracle.com/technetwork/java/javase/downloads/index.html)          | 10.0.1
-[nodejs](https://nodejs.org/en/download/current/)                                   | 10.0.0
+[nodejs](https://nodejs.org/en/download/current/)                                   | 10.1.0
 [sqlite](http://www.sqlite.org/download.html)                                       | 3.23.1
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)           | 1.9.12
-[vscode](https://code.visualstudio.com/updates)                                     | 1.23.0
+[vscode](https://code.visualstudio.com/updates)                                     | 1.23.1
 
 ### Video
 Name                                                                                | Version
@@ -17,7 +17,7 @@ Name                                                                            
 [ffmpeg](http://www.ffmpeg.org/download.html)                                       | 4.0.0
 [ffmpeg-win](http://ffmpeg.zeranoe.com/builds/)                                     | 3.4.2
 [handbrake](http://handbrake.fr/downloads.php)                                      | 1.1.0
-[mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)                     | 18.03
+[mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)                     | 18.05
 [mkvtoolnix](http://www.bunkus.org/videotools/mkvtoolnix/downloads.html)            | 22.0.0
 [mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                            | 22.0.0
 [mp4box](http://gpac.wp.mines-telecom.fr/mp4box/)                                   | 0.6.2
@@ -30,7 +30,7 @@ Name                                                                            
 ### Image
 Name                                                                                | Version
 ----                                                                                | -------
-[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 10.95
+[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 10.96
 [paint.net](http://www.getpaint.net/download.html)                                  | 4.0.21
 
 ### Audio
