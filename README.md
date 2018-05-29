@@ -4,7 +4,7 @@ Name                                                                            
 ----                                                                                | -------
 [git](https://github.com/git-for-windows/git/releases)                              | 2.17.0
 [java](http://www.oracle.com/technetwork/java/javase/downloads/index.html)          | 10.0.1
-[nodejs](https://nodejs.org/en/download/current/)                                   | 10.2.1
+[nodejs](https://nodejs.org/en/download/current/)                                   | 10.3.0
 [sqlite](http://www.sqlite.org/download.html)                                       | 3.23.1
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)           | 1.9.12
 [vscode](https://code.visualstudio.com/updates)                                     | 1.23.1
@@ -15,11 +15,11 @@ Name                                                                            
 [atomicparsley](http://sourceforge.net/projects/atomicparsley/files/atomicparsley/) | 0.9.0
 [atomicparsley](https://bitbucket.org/jonhedgerows/atomicparsley/downloads)         | 0.9.6
 [ffmpeg](http://www.ffmpeg.org/download.html)                                       | 4.0.0
-[ffmpeg-win](http://ffmpeg.zeranoe.com/builds/)                                     | 3.4.2
+[ffmpeg-win](http://ffmpeg.zeranoe.com/builds/)                                     | 4.0.0
 [handbrake](http://handbrake.fr/downloads.php)                                      | 1.1.0
 [mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)                     | 18.05
-[mkvtoolnix](http://www.bunkus.org/videotools/mkvtoolnix/downloads.html)            | 22.0.0
-[mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                            | 22.0.0
+[mkvtoolnix](http://www.bunkus.org/videotools/mkvtoolnix/downloads.html)            | 23.0.0
+[mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                            | 23.0.0
 [mp4box](http://gpac.wp.mines-telecom.fr/mp4box/)                                   | 0.6.2
 [subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)              | 3.5.6
 [webm](http://www.webmproject.org/tools/)                                           | 
@@ -30,13 +30,13 @@ Name                                                                            
 ### Image
 Name                                                                                | Version
 ----                                                                                | -------
-[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 10.98
+[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 10.99
 [paint.net](http://www.getpaint.net/download.html)                                  | 4.0.21
 
 ### Audio
 Name                                                                                | Version
 ----                                                                                | -------
-[mp3tag](http://www.mp3tag.de/en/download.html)                                     | 2.87a
+[mp3tag](http://www.mp3tag.de/en/download.html)                                     | 2.88
 
 ### Utility
 Name                                                                                | Version
