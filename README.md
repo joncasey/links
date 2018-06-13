@@ -2,10 +2,10 @@
 ### Developer
 Name                                                                                | Version
 ----                                                                                | -------
-[git](https://github.com/git-for-windows/git/releases)                              | 2.17.0
+[git](https://github.com/git-for-windows/git/releases)                              | 2.17.1
 [java](http://www.oracle.com/technetwork/java/javase/downloads/index.html)          | 10.0.1
-[nodejs](https://nodejs.org/en/download/current/)                                   | 10.4.0
-[sqlite](http://www.sqlite.org/download.html)                                       | 3.23.1
+[nodejs](https://nodejs.org/en/download/current/)                                   | 10.4.1
+[sqlite](http://www.sqlite.org/download.html)                                       | 3.24.0
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)           | 1.9.12
 [vscode](https://code.visualstudio.com/updates)                                     | 1.24.0
 
@@ -18,8 +18,8 @@ Name                                                                            
 [ffmpeg-win](http://ffmpeg.zeranoe.com/builds/)                                     | 4.0.0
 [handbrake](http://handbrake.fr/downloads.php)                                      | 1.1.0
 [mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)                     | 18.05
-[mkvtoolnix](http://www.bunkus.org/videotools/mkvtoolnix/downloads.html)            | 23.0.0
-[mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                            | 23.0.0
+[mkvtoolnix](http://www.bunkus.org/videotools/mkvtoolnix/downloads.html)            | 24.0.0
+[mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                            | 24.0.0
 [mp4box](http://gpac.wp.mines-telecom.fr/mp4box/)                                   | 0.6.2
 [subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)              | 3.5.6
 [webm](http://www.webmproject.org/tools/)                                           | 
@@ -30,7 +30,7 @@ Name                                                                            
 ### Image
 Name                                                                                | Version
 ----                                                                                | -------
-[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 10.99
+[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 11.01
 [paint.net](http://www.getpaint.net/download.html)                                  | 4.0.21
 
 ### Audio
