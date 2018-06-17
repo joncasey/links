@@ -7,15 +7,15 @@ Name                                                                            
 [nodejs](https://nodejs.org/en/download/current/)                                   | 10.4.1
 [sqlite](http://www.sqlite.org/download.html)                                       | 3.24.0
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)           | 1.9.12
-[vscode](https://code.visualstudio.com/updates)                                     | 1.24.0
+[vscode](https://code.visualstudio.com/updates)                                     | 1.24.1
 
 ### Video
 Name                                                                                | Version
 ----                                                                                | -------
 [atomicparsley](http://sourceforge.net/projects/atomicparsley/files/atomicparsley/) | 0.9.0
 [atomicparsley](https://bitbucket.org/jonhedgerows/atomicparsley/downloads)         | 0.9.6
-[ffmpeg](http://www.ffmpeg.org/download.html)                                       | 4.0.0
-[ffmpeg-win](http://ffmpeg.zeranoe.com/builds/)                                     | 4.0.0
+[ffmpeg](http://www.ffmpeg.org/download.html)                                       | 4.0.1
+[ffmpeg-win](http://ffmpeg.zeranoe.com/builds/)                                     | 4.0.1
 [handbrake](http://handbrake.fr/downloads.php)                                      | 1.1.0
 [mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)                     | 18.05
 [mkvtoolnix](http://www.bunkus.org/videotools/mkvtoolnix/downloads.html)            | 24.0.0
@@ -30,7 +30,7 @@ Name                                                                            
 ### Image
 Name                                                                                | Version
 ----                                                                                | -------
-[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 11.01
+[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 11.02
 [paint.net](http://www.getpaint.net/download.html)                                  | 4.0.21
 
 ### Audio
@@ -42,6 +42,6 @@ Name                                                                            
 Name                                                                                | Version
 ----                                                                                | -------
 [7zip](http://www.7-zip.org/download.html)                                          | 18.05
-[FileZilla](https://filezilla-project.org/download.php?show_all=1)                  | 3.33.0
+[FileZilla](https://filezilla-project.org/download.php?show_all=1)                  | 3.34.0
 [ImgBurn](http://www.imgburn.com/index.php?act=download)                            | 2.5.8.0
 [WinMerge](http://winmerge.org/downloads/)                                          | 2.14.0
