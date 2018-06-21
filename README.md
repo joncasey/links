@@ -4,7 +4,7 @@ Name                                                                            
 ----                                                                                | -------
 [git](https://github.com/git-for-windows/git/releases)                              | 2.17.1
 [java](http://www.oracle.com/technetwork/java/javase/downloads/index.html)          | 10.0.1
-[nodejs](https://nodejs.org/en/download/current/)                                   | 10.4.1
+[nodejs](https://nodejs.org/en/download/current/)                                   | 10.5.0
 [sqlite](http://www.sqlite.org/download.html)                                       | 3.24.0
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)           | 1.9.12
 [vscode](https://code.visualstudio.com/updates)                                     | 1.24.1
@@ -16,7 +16,7 @@ Name                                                                            
 [atomicparsley](https://bitbucket.org/jonhedgerows/atomicparsley/downloads)         | 0.9.6
 [ffmpeg](http://www.ffmpeg.org/download.html)                                       | 4.0.1
 [ffmpeg-win](http://ffmpeg.zeranoe.com/builds/)                                     | 4.0.1
-[handbrake](http://handbrake.fr/downloads.php)                                      | 1.1.0
+[handbrake](http://handbrake.fr/downloads.php)                                      | 1.1.1
 [mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)                     | 18.05
 [mkvtoolnix](http://www.bunkus.org/videotools/mkvtoolnix/downloads.html)            | 24.0.0
 [mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                            | 24.0.0
@@ -30,7 +30,7 @@ Name                                                                            
 ### Image
 Name                                                                                | Version
 ----                                                                                | -------
-[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 11.02
+[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 11.03
 [paint.net](http://www.getpaint.net/download.html)                                  | 4.0.21
 
 ### Audio
