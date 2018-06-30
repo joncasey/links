@@ -2,7 +2,7 @@
 ### Developer
 Name                                                                                | Version
 ----                                                                                | -------
-[git](https://github.com/git-for-windows/git/releases)                              | 2.17.1
+[git](https://github.com/git-for-windows/git/releases)                              | 2.18.0
 [java](http://www.oracle.com/technetwork/java/javase/downloads/index.html)          | 10.0.1
 [nodejs](https://nodejs.org/en/download/current/)                                   | 10.5.0
 [sqlite](http://www.sqlite.org/download.html)                                       | 3.24.0
