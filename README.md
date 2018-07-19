@@ -3,8 +3,8 @@
 Name                                                                                | Version
 ----                                                                                | -------
 [git](https://github.com/git-for-windows/git/releases)                              | 2.18.0
-[java](http://www.oracle.com/technetwork/java/javase/downloads/index.html)          | 10.0.1
-[nodejs](https://nodejs.org/en/download/current/)                                   | 10.6.0
+[java](http://www.oracle.com/technetwork/java/javase/downloads/index.html)          | 10.0.2
+[nodejs](https://nodejs.org/en/download/current/)                                   | 10.7.0
 [sqlite](http://www.sqlite.org/download.html)                                       | 3.24.0
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)           | 1.9.12
 [vscode](https://code.visualstudio.com/updates)                                     | 1.25.1
@@ -14,7 +14,7 @@ Name                                                                            
 ----                                                                                | -------
 [atomicparsley](http://sourceforge.net/projects/atomicparsley/files/atomicparsley/) | 0.9.0
 [atomicparsley](https://bitbucket.org/jonhedgerows/atomicparsley/downloads)         | 0.9.6
-[ffmpeg](http://www.ffmpeg.org/download.html)                                       | 4.0.1
+[ffmpeg](http://www.ffmpeg.org/download.html)                                       | 4.0.2
 [ffmpeg-win](http://ffmpeg.zeranoe.com/builds/)                                     | 4.0.1
 [handbrake](http://handbrake.fr/downloads.php)                                      | 1.1.1
 [mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)                     | 18.05
