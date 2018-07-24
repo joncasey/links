@@ -42,6 +42,6 @@ Name                                                                            
 Name                                                                                | Version
 ----                                                                                | -------
 [7zip](http://www.7-zip.org/download.html)                                          | 18.05
-[FileZilla](https://filezilla-project.org/download.php?show_all=1)                  | 3.34.0
+[FileZilla](https://filezilla-project.org/download.php?show_all=1)                  | 3.35.1
 [ImgBurn](http://www.imgburn.com/index.php?act=download)                            | 2.5.8.0
 [WinMerge](http://winmerge.org/downloads/)                                          | 2.14.0
