@@ -7,7 +7,7 @@ Name                                                                            
 [nodejs](https://nodejs.org/en/download/current/)                                   | 10.9.0
 [sqlite](http://www.sqlite.org/download.html)                                       | 3.24.0
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)           | 1.9.12
-[vscode](https://code.visualstudio.com/updates)                                     | 1.26.1
+[vscode](https://code.visualstudio.com/updates)                                     | 1.27.0
 
 ### Video
 Name                                                                                | Version
@@ -17,7 +17,7 @@ Name                                                                            
 [ffmpeg](http://www.ffmpeg.org/download.html)                                       | 4.0.2
 [ffmpeg-win](http://ffmpeg.zeranoe.com/builds/)                                     | 4.0.1
 [handbrake](http://handbrake.fr/downloads.php)                                      | 1.1.1
-[mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)                     | 18.05
+[mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)                     | 18.08
 [mkvtoolnix](http://www.bunkus.org/videotools/mkvtoolnix/downloads.html)            | 26.0.0
 [mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                            | 26.0.0
 [mp4box](http://gpac.wp.mines-telecom.fr/mp4box/)                                   | 0.6.2
