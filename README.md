@@ -15,13 +15,13 @@ Name                                                                            
 [atomicparsley](http://sourceforge.net/projects/atomicparsley/files/atomicparsley/) | 0.9.0
 [atomicparsley](https://bitbucket.org/jonhedgerows/atomicparsley/downloads)         | 0.9.6
 [ffmpeg](http://www.ffmpeg.org/download.html)                                       | 4.0.2
-[ffmpeg-win](http://ffmpeg.zeranoe.com/builds/)                                     | 4.0.1
-[handbrake](http://handbrake.fr/downloads.php)                                      | 1.1.1
-[mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)                     | 18.08
+[ffmpeg-win](http://ffmpeg.zeranoe.com/builds/)                                     | 4.0.2
+[handbrake](http://handbrake.fr/downloads.php)                                      | 1.1.2
+[mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)                     | 18.08.1
 [mkvtoolnix](http://www.bunkus.org/videotools/mkvtoolnix/downloads.html)            | 26.0.0
 [mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                            | 26.0.0
 [mp4box](http://gpac.wp.mines-telecom.fr/mp4box/)                                   | 0.6.2
-[subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)              | 3.5.6
+[subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)              | 3.5.7
 [webm](http://www.webmproject.org/tools/)                                           | 
 [x264](http://www.videolan.org/developers/x264.html)                                | 
 [x264-win32](http://download.videolan.org/pub/videolan/x264/binaries/win32/)        | 
