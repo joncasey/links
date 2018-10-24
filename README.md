@@ -4,7 +4,7 @@ Name                                                                            
 ----                                                                                | -------
 [git](https://github.com/git-for-windows/git/releases)                              | 2.19.1
 [java](http://www.oracle.com/technetwork/java/javase/downloads/index.html)          | 11.0.1
-[nodejs](https://nodejs.org/en/download/current/)                                   | 10.12.0
+[nodejs](https://nodejs.org/en/download/current/)                                   | 11.0.0
 [sqlite](http://www.sqlite.org/download.html)                                       | 3.25.2
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)           | 1.9.12
 [vscode](https://code.visualstudio.com/updates)                                     | 1.28.1
@@ -18,8 +18,8 @@ Name                                                                            
 [ffmpeg-win](http://ffmpeg.zeranoe.com/builds/)                                     | 4.0.2
 [handbrake](http://handbrake.fr/downloads.php)                                      | 1.1.2
 [mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)                     | 18.08.1
-[mkvtoolnix](http://www.bunkus.org/videotools/mkvtoolnix/downloads.html)            | 27.0.0
-[mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                            | 27.0.0
+[mkvtoolnix](http://www.bunkus.org/videotools/mkvtoolnix/downloads.html)            | 28.1.0
+[mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                            | 28.1.0
 [mp4box](http://gpac.wp.mines-telecom.fr/mp4box/)                                   | 0.6.2
 [subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)              | 3.5.7
 [webm](http://www.webmproject.org/tools/)                                           | 
