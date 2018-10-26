@@ -18,8 +18,8 @@ Name                                                                            
 [ffmpeg-win](http://ffmpeg.zeranoe.com/builds/)                                     | 4.0.2
 [handbrake](http://handbrake.fr/downloads.php)                                      | 1.1.2
 [mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)                     | 18.08.1
-[mkvtoolnix](http://www.bunkus.org/videotools/mkvtoolnix/downloads.html)            | 28.1.0
-[mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                            | 28.1.0
+[mkvtoolnix](http://www.bunkus.org/videotools/mkvtoolnix/downloads.html)            | 28.2.0
+[mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                            | 28.2.0
 [mp4box](http://gpac.wp.mines-telecom.fr/mp4box/)                                   | 0.6.2
 [subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)              | 3.5.7
 [webm](http://www.webmproject.org/tools/)                                           | 
@@ -30,8 +30,8 @@ Name                                                                            
 ### Image
 Name                                                                                | Version
 ----                                                                                | -------
-[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 11.14
-[paint.net](http://www.getpaint.net/download.html)                                  | 4.1.1
+[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 11.15
+[paint.net](http://www.getpaint.net/download.html)                                  | 4.1.3
 
 ### Audio
 Name                                                                                | Version
