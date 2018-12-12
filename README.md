@@ -2,7 +2,7 @@
 ### Developer
 Name                                                                                | Version
 ----                                                                                | -------
-[git](https://github.com/git-for-windows/git/releases)                              | 2.19.2
+[git](https://github.com/git-for-windows/git/releases)                              | 2.20.0
 [java](http://www.oracle.com/technetwork/java/javase/downloads/index.html)          | 11.0.1
 [nodejs](https://nodejs.org/en/download/current/)                                   | 11.4.0
 [sqlite](http://www.sqlite.org/download.html)                                       | 3.26.0
@@ -17,7 +17,7 @@ Name                                                                            
 [ffmpeg](http://www.ffmpeg.org/download.html)                                       | 4.1
 [ffmpeg-win](http://ffmpeg.zeranoe.com/builds/)                                     | 4.1
 [handbrake](http://handbrake.fr/downloads.php)                                      | 1.1.2
-[mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)                     | 18.08.1
+[mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)                     | 18.12
 [mkvtoolnix](http://www.bunkus.org/videotools/mkvtoolnix/downloads.html)            | 29.0.0
 [mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                            | 29.0.0
 [mp4box](http://gpac.wp.mines-telecom.fr/mp4box/)                                   | 0.6.2
