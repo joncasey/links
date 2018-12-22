@@ -16,12 +16,12 @@ Name                                                                            
 [atomicparsley](https://bitbucket.org/jonhedgerows/atomicparsley/downloads)         | 0.9.6
 [ffmpeg](http://www.ffmpeg.org/download.html)                                       | 4.1
 [ffmpeg-win](http://ffmpeg.zeranoe.com/builds/)                                     | 4.1
-[handbrake](http://handbrake.fr/downloads.php)                                      | 1.1.2
+[handbrake](http://handbrake.fr/downloads.php)                                      | 1.2.0
 [mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)                     | 18.12
 [mkvtoolnix](http://www.bunkus.org/videotools/mkvtoolnix/downloads.html)            | 29.0.0
 [mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                            | 29.0.0
 [mp4box](http://gpac.wp.mines-telecom.fr/mp4box/)                                   | 0.6.2
-[subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)              | 3.5.7
+[subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)              | 3.5.8
 [webm](http://www.webmproject.org/tools/)                                           | 
 [x264](http://www.videolan.org/developers/x264.html)                                | 
 [x264-win32](http://download.videolan.org/pub/videolan/x264/binaries/win32/)        | 
@@ -30,7 +30,7 @@ Name                                                                            
 ### Image
 Name                                                                                | Version
 ----                                                                                | -------
-[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 11.22
+[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 11.23
 [paint.net](http://www.getpaint.net/download.html)                                  | 4.1.5
 
 ### Audio
