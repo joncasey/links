@@ -18,8 +18,8 @@ Name                                                                            
 [ffmpeg-win](http://ffmpeg.zeranoe.com/builds/)                                     | 4.1
 [handbrake](http://handbrake.fr/downloads.php)                                      | 1.2.0
 [mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)                     | 18.12
-[mkvtoolnix](http://www.bunkus.org/videotools/mkvtoolnix/downloads.html)            | 29.0.0
-[mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                            | 29.0.0
+[mkvtoolnix](http://www.bunkus.org/videotools/mkvtoolnix/downloads.html)            | 30.0.0
+[mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                            | 30.0.0
 [mp4box](http://gpac.wp.mines-telecom.fr/mp4box/)                                   | 0.6.2
 [subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)              | 3.5.8
 [vlc](https://www.videolan.org/vlc/download-windows.html)                           | 3.0.5
@@ -38,7 +38,7 @@ Name                                                                            
 ### Utility
 Name                                                                                | Version
 ----                                                                                | -------
-[7zip](http://www.7-zip.org/download.html)                                          | 18.05
+[7zip](http://www.7-zip.org/download.html)                                          | 18.06
 [FileZilla](https://filezilla-project.org/download.php?show_all=1)                  | 3.39.0
 [ImgBurn](http://www.imgburn.com/index.php?act=download)                            | 2.5.8.0
 [WinMerge](http://winmerge.org/downloads/)                                          | 2.14.0
