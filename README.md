@@ -22,7 +22,7 @@ Name                                                                            
 [mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                            | 30.1.0
 [mp4box](http://gpac.wp.mines-telecom.fr/mp4box/)                                   | 0.6.2
 [subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)              | 3.5.8
-[vlc](https://www.videolan.org/vlc/download-windows.html)                           | 3.0.5
+[vlc](https://www.videolan.org/vlc/download-windows.html)                           | 3.0.6
 
 ### Image
 Name                                                                                | Version
