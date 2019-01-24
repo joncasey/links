@@ -27,13 +27,13 @@ Name                                                                            
 ### Image
 Name                                                                                | Version
 ----                                                                                | -------
-[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 11.25
+[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 11.26
 [paint.net](http://www.getpaint.net/download.html)                                  | 4.1.5
 
 ### Audio
 Name                                                                                | Version
 ----                                                                                | -------
-[mp3tag](http://www.mp3tag.de/en/download.html)                                     | 2.91
+[mp3tag](http://www.mp3tag.de/en/download.html)                                     | 2.92
 
 ### Utility
 Name                                                                                | Version
