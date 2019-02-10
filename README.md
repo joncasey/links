@@ -5,7 +5,7 @@ Name                                                                            
 [git](https://github.com/git-for-windows/git/releases)                              | 2.20.1
 [java](http://www.oracle.com/technetwork/java/javase/downloads/index.html)          | 11.0.2
 [nodejs](https://nodejs.org/en/download/current/)                                   | 11.9.0
-[sqlite](http://www.sqlite.org/download.html)                                       | 3.27.0
+[sqlite](http://www.sqlite.org/download.html)                                       | 3.27.1
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)           | 1.9.12
 [vscode](https://code.visualstudio.com/updates)                                     | 1.31.0
 
@@ -14,11 +14,11 @@ Name                                                                            
 ----                                                                                | -------
 [atomicparsley](http://sourceforge.net/projects/atomicparsley/files/atomicparsley/) | 0.9.0
 [atomicparsley](https://bitbucket.org/jonhedgerows/atomicparsley/downloads)         | 0.9.6
-[ffmpeg](http://www.ffmpeg.org/download.html)                                       | 4.1
+[ffmpeg](http://www.ffmpeg.org/download.html)                                       | 4.1.1
 [ffmpeg-win](http://ffmpeg.zeranoe.com/builds/)                                     | 4.1
 [handbrake](http://handbrake.fr/downloads.php)                                      | 1.2.0
 [mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)                     | 18.12
-[mkvtoolnix](http://www.bunkus.org/videotools/mkvtoolnix/downloads.html)            | 30.1.0
+[mkvtoolnix](http://www.bunkus.org/videotools/mkvtoolnix/downloads.html)            | 31.0.0
 [mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                            | 30.1.0
 [mp4box](http://gpac.wp.mines-telecom.fr/mp4box/)                                   | 0.6.2
 [subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)              | 3.5.8
