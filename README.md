@@ -27,7 +27,7 @@ Name                                                                            
 ### Image
 Name                                                                                | Version
 ----                                                                                | -------
-[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 11.27
+[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 11.28
 [paint.net](http://www.getpaint.net/download.html)                                  | 4.1.5
 
 ### Audio
@@ -38,7 +38,7 @@ Name                                                                            
 ### Utility
 Name                                                                                | Version
 ----                                                                                | -------
-[7zip](http://www.7-zip.org/download.html)                                          | 18.06
+[7zip](http://www.7-zip.org/download.html)                                          | 19.00
 [FileZilla](https://filezilla-project.org/download.php?show_all=1)                  | 3.40.0
 [ImgBurn](http://www.imgburn.com/index.php?act=download)                            | 2.5.8.0
 [WinMerge](http://winmerge.org/downloads/)                                          | 2.14.0
