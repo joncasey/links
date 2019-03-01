@@ -6,7 +6,7 @@ Name                                                                            
 [java](http://www.oracle.com/technetwork/java/javase/downloads/index.html)          | 11.0.2
 [nodejs](https://nodejs.org/en/download/current/)                                   | 11.10.1
 [sqlite](http://www.sqlite.org/download.html)                                       | 3.27.2
-[sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)           | 1.9.12
+[sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)           | 1.9.13
 [vscode](https://code.visualstudio.com/updates)                                     | 1.31.1
 
 ### Video
