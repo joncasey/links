@@ -7,7 +7,7 @@ Name                                                                            
 [nodejs](https://nodejs.org/en/download/current/)                                   | 11.11.0
 [sqlite](http://www.sqlite.org/download.html)                                       | 3.27.2
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)           | 1.9.13
-[vscode](https://code.visualstudio.com/updates)                                     | 1.31.1
+[vscode](https://code.visualstudio.com/updates)                                     | 1.32.0
 
 ### Video
 Name                                                                                | Version
@@ -27,7 +27,7 @@ Name                                                                            
 ### Image
 Name                                                                                | Version
 ----                                                                                | -------
-[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 11.30
+[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 11.31
 [paint.net](http://www.getpaint.net/download.html)                                  | 4.1.5
 
 ### Audio
