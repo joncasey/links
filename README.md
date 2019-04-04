@@ -7,15 +7,15 @@ Name                                                                            
 [nodejs](https://nodejs.org/en/download/current/)                                   | 11.13.0
 [sqlite](http://www.sqlite.org/download.html)                                       | 3.27.2
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)           | 1.9.13
-[vscode](https://code.visualstudio.com/updates)                                     | 1.32.3
+[vscode](https://code.visualstudio.com/updates)                                     | 1.33.0
 
 ### Video
 Name                                                                                | Version
 ----                                                                                | -------
 [atomicparsley](http://sourceforge.net/projects/atomicparsley/files/atomicparsley/) | 0.9.0
 [atomicparsley](https://bitbucket.org/jonhedgerows/atomicparsley/downloads)         | 0.9.6
-[ffmpeg](http://www.ffmpeg.org/download.html)                                       | 4.1.2
-[ffmpeg-win](http://ffmpeg.zeranoe.com/builds/)                                     | 4.1.2
+[ffmpeg](http://www.ffmpeg.org/download.html)                                       | 4.1.3
+[ffmpeg-win](http://ffmpeg.zeranoe.com/builds/)                                     | 4.1.1
 [handbrake](http://handbrake.fr/downloads.php)                                      | 1.2.2
 [mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)                     | 18.12
 [mkvtoolnix](http://www.bunkus.org/videotools/mkvtoolnix/downloads.html)            | 32.0.0
@@ -27,7 +27,7 @@ Name                                                                            
 ### Image
 Name                                                                                | Version
 ----                                                                                | -------
-[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 11.33
+[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 11.34
 [paint.net](http://www.getpaint.net/download.html)                                  | 4.1.6
 
 ### Audio
