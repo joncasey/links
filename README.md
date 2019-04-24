@@ -3,7 +3,7 @@
 Name                                                                                | Version
 ----                                                                                | -------
 [git](https://github.com/git-for-windows/git/releases)                              | 2.21.0
-[java](http://www.oracle.com/technetwork/java/javase/downloads/index.html)          | 11.0.3
+[java](http://www.oracle.com/technetwork/java/javase/downloads/index.html)          | 12.0.1
 [nodejs](https://nodejs.org/en/download/current/)                                   | 12.0.0
 [sqlite](http://www.sqlite.org/download.html)                                       | 3.28.0
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)           | 1.9.13
@@ -17,7 +17,7 @@ Name                                                                            
 [ffmpeg](http://www.ffmpeg.org/download.html)                                       | 4.1.3
 [ffmpeg-win](http://ffmpeg.zeranoe.com/builds/)                                     | 4.1.1
 [handbrake](http://handbrake.fr/downloads.php)                                      | 1.2.2
-[mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)                     | 18.12
+[mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)                     | 19.04
 [mkvtoolnix](http://www.bunkus.org/videotools/mkvtoolnix/downloads.html)            | 33.1.0
 [mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                            | 33.1.0
 [mp4box](http://gpac.wp.mines-telecom.fr/mp4box/)                                   | 0.6.2
