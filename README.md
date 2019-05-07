@@ -4,7 +4,7 @@ Name                                                                            
 ----                                                                                | -------
 [git](https://github.com/git-for-windows/git/releases)                              | 2.21.0
 [java](http://www.oracle.com/technetwork/java/javase/downloads/index.html)          | 12.0.1
-[nodejs](https://nodejs.org/en/download/current/)                                   | 12.1.0
+[nodejs](https://nodejs.org/en/download/current/)                                   | 12.2.0
 [sqlite](http://www.sqlite.org/download.html)                                       | 3.28.0
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)           | 1.9.13
 [vscode](https://code.visualstudio.com/updates)                                     | 1.33.1
@@ -27,7 +27,7 @@ Name                                                                            
 ### Image
 Name                                                                                | Version
 ----                                                                                | -------
-[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 11.38
+[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 11.40
 [paint.net](http://www.getpaint.net/download.html)                                  | 4.1.6
 
 ### Audio
@@ -39,6 +39,6 @@ Name                                                                            
 Name                                                                                | Version
 ----                                                                                | -------
 [7zip](http://www.7-zip.org/download.html)                                          | 19.00
-[FileZilla](https://filezilla-project.org/download.php?show_all=1)                  | 3.41.2
+[FileZilla](https://filezilla-project.org/download.php?show_all=1)                  | 3.42.0
 [ImgBurn](http://www.imgburn.com/index.php?act=download)                            | 2.5.8.0
 [WinMerge](http://winmerge.org/downloads/)                                          | 2.14.0
