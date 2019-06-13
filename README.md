@@ -7,7 +7,7 @@ Name                                                                            
 [nodejs](https://nodejs.org/en/download/current/)                                   | 12.4.0
 [sqlite](http://www.sqlite.org/download.html)                                       | 3.28.0
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)           | 1.9.13
-[vscode](https://code.visualstudio.com/updates)                                     | 1.35.0
+[vscode](https://code.visualstudio.com/updates)                                     | 1.35.1
 
 ### Video
 Name                                                                                | Version
@@ -22,12 +22,12 @@ Name                                                                            
 [mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                            | 34.0.0
 [mp4box](http://gpac.wp.mines-telecom.fr/mp4box/)                                   | 0.6.2
 [subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)              | 3.5.9
-[vlc](https://www.videolan.org/vlc/download-windows.html)                           | 3.0.7
+[vlc](https://www.videolan.org/vlc/download-windows.html)                           | 3.0.7.1
 
 ### Image
 Name                                                                                | Version
 ----                                                                                | -------
-[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 11.49
+[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 11.50
 [paint.net](http://www.getpaint.net/download.html)                                  | 4.1.6
 
 ### Audio
