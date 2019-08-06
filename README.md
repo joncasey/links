@@ -14,7 +14,7 @@ Name                                                                            
 ----                                                                                | -------
 [atomicparsley](http://sourceforge.net/projects/atomicparsley/files/atomicparsley/) | 0.9.0
 [atomicparsley](https://bitbucket.org/jonhedgerows/atomicparsley/downloads)         | 0.9.6
-[ffmpeg](http://www.ffmpeg.org/download.html)                                       | 4.1.4
+[ffmpeg](http://www.ffmpeg.org/download.html)                                       | 4.2
 [ffmpeg-win](http://ffmpeg.zeranoe.com/builds/)                                     | 4.1.3
 [handbrake](http://handbrake.fr/downloads.php)                                      | 1.2.2
 [mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)                     | 19.07
@@ -27,7 +27,7 @@ Name                                                                            
 ### Image
 Name                                                                                | Version
 ----                                                                                | -------
-[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 11.57
+[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 11.60
 [paint.net](http://www.getpaint.net/download.html)                                  | 4.2
 
 ### Audio
