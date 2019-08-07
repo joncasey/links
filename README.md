@@ -4,7 +4,7 @@ Name                                                                            
 ----                                                                                | -------
 [git](https://github.com/git-for-windows/git/releases)                              | 2.22.0
 [java](http://www.oracle.com/technetwork/java/javase/downloads/index.html)          | 12.0.2
-[nodejs](https://nodejs.org/en/download/current/)                                   | 12.7.0
+[nodejs](https://nodejs.org/en/download/current/)                                   | 12.8.0
 [sqlite](http://www.sqlite.org/download.html)                                       | 3.29.0
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)           | 1.9.13
 [vscode](https://code.visualstudio.com/updates)                                     | 1.36.1
@@ -27,8 +27,8 @@ Name                                                                            
 ### Image
 Name                                                                                | Version
 ----                                                                                | -------
-[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 11.60
-[paint.net](http://www.getpaint.net/download.html)                                  | 4.2
+[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 11.61
+[paint.net](http://www.getpaint.net/download.html)                                  | 4.2.1
 
 ### Audio
 Name                                                                                | Version
