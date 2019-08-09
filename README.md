@@ -7,7 +7,7 @@ Name                                                                            
 [nodejs](https://nodejs.org/en/download/current/)                                   | 12.8.0
 [sqlite](http://www.sqlite.org/download.html)                                       | 3.29.0
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)           | 1.9.13
-[vscode](https://code.visualstudio.com/updates)                                     | 1.36.1
+[vscode](https://code.visualstudio.com/updates)                                     | 1.37.0
 
 ### Video
 Name                                                                                | Version
