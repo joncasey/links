@@ -2,7 +2,7 @@
 ### Developer
 Name                                                                                | Version
 ----                                                                                | -------
-[git](https://github.com/git-for-windows/git/releases)                              | 2.22.0
+[git](https://github.com/git-for-windows/git/releases)                              | 2.23.0
 [java](http://www.oracle.com/technetwork/java/javase/downloads/index.html)          | 12.0.2
 [nodejs](https://nodejs.org/en/download/current/)                                   | 12.8.1
 [sqlite](http://www.sqlite.org/download.html)                                       | 3.29.0
@@ -21,8 +21,8 @@ Name                                                                            
 [mkvtoolnix](http://www.bunkus.org/videotools/mkvtoolnix/downloads.html)            | 36.0.0
 [mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                            | 36.0.0
 [mp4box](http://gpac.wp.mines-telecom.fr/mp4box/)                                   | 0.6.2
-[subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)              | 3.5.9
-[vlc](https://www.videolan.org/vlc/download-windows.html)                           | 3.0.7.1
+[subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)              | 3.5.10
+[vlc](https://www.videolan.org/vlc/download-windows.html)                           | 3.0.8
 
 ### Image
 Name                                                                                | Version
