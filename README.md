@@ -33,7 +33,7 @@ Name                                                                            
 ### Audio
 Name                                                                                | Version
 ----                                                                                | -------
-[mp3tag](http://www.mp3tag.de/en/download.html)                                     | 2.98
+[mp3tag](http://www.mp3tag.de/en/download.html)                                     | 2.99
 
 ### Utility
 Name                                                                                | Version
