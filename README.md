@@ -14,12 +14,12 @@ Name                                                                            
 ----                                                                                | -------
 [atomicparsley](http://sourceforge.net/projects/atomicparsley/files/atomicparsley/) | 0.9.0
 [atomicparsley](https://bitbucket.org/jonhedgerows/atomicparsley/downloads)         | 0.9.6
-[ffmpeg](http://www.ffmpeg.org/download.html)                                       | 4.2.1
-[ffmpeg-win](http://ffmpeg.zeranoe.com/builds/)                                     | 4.2.1
+[ffmpeg](http://www.ffmpeg.org/download.html)                                       | 4.2.2
+[ffmpeg-win](http://ffmpeg.zeranoe.com/builds/)                                     | 4.2.2
 [handbrake](http://handbrake.fr/downloads.php)                                      | 1.3.0
 [mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)                     | 19.09
-[mkvtoolnix](http://www.bunkus.org/videotools/mkvtoolnix/downloads.html)            | 41.0.0
-[mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                            | 41.0.0
+[mkvtoolnix](http://www.bunkus.org/videotools/mkvtoolnix/downloads.html)            | 42.0.0
+[mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                            | 42.0.0
 [mp4box](http://gpac.wp.mines-telecom.fr/mp4box/)                                   | 0.6.2
 [subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)              | 3.5.11
 [vlc](https://www.videolan.org/vlc/download-windows.html)                           | 3.0.8
@@ -27,7 +27,7 @@ Name                                                                            
 ### Image
 Name                                                                                | Version
 ----                                                                                | -------
-[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 11.80
+[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 11.81
 [paint.net](http://www.getpaint.net/download.html)                                  | 4.2.8
 
 ### Audio
@@ -39,6 +39,6 @@ Name                                                                            
 Name                                                                                | Version
 ----                                                                                | -------
 [7zip](http://www.7-zip.org/download.html)                                          | 19.00
-[FileZilla](https://filezilla-project.org/download.php?show_all=1)                  | 3.46.2
+[FileZilla](https://filezilla-project.org/download.php?show_all=1)                  | 3.46.3
 [ImgBurn](http://www.imgburn.com/index.php?act=download)                            | 2.5.8.0
 [WinMerge](http://winmerge.org/downloads/)                                          | 2.14.0
