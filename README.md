@@ -2,7 +2,7 @@
 ### Developer
 Name                                                                                | Version
 ----                                                                                | -------
-[git](https://github.com/git-for-windows/git/releases)                              | 2.24.0
+[git](https://github.com/git-for-windows/git/releases)                              | 2.25.0
 [java](http://www.oracle.com/technetwork/java/javase/downloads/index.html)          | 13.0.1
 [nodejs](https://nodejs.org/en/download/current/)                                   | 13.6.0
 [sqlite](http://www.sqlite.org/download.html)                                       | 3.30.1
@@ -27,7 +27,7 @@ Name                                                                            
 ### Image
 Name                                                                                | Version
 ----                                                                                | -------
-[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 11.81
+[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 11.84
 [paint.net](http://www.getpaint.net/download.html)                                  | 4.2.8
 
 ### Audio
