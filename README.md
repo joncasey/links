@@ -6,7 +6,7 @@ Name                                                                            
 [java](http://www.oracle.com/technetwork/java/javase/downloads/index.html)          | 13.0.2
 [nodejs](https://nodejs.org/en/download/current/)                                   | 13.7.0
 [sqlite](http://www.sqlite.org/download.html)                                       | 3.31.1
-[sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)           | 1.9.13
+[sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)           | 1.9.14
 [vscode](https://code.visualstudio.com/updates)                                     | 1.41.1
 
 ### Video
@@ -27,8 +27,8 @@ Name                                                                            
 ### Image
 Name                                                                                | Version
 ----                                                                                | -------
-[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 11.84
-[paint.net](http://www.getpaint.net/download.html)                                  | 4.2.8
+[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 11.86
+[paint.net](http://www.getpaint.net/download.html)                                  | 4.2.9
 
 ### Audio
 Name                                                                                | Version
