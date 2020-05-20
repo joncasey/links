@@ -4,7 +4,7 @@ Name                                                                            
 ----                                                                                | -------
 [git](https://github.com/git-for-windows/git/releases)                              | 2.26.2
 [java](http://www.oracle.com/technetwork/java/javase/downloads/index.html)          | 14.0.1
-[nodejs](https://nodejs.org/en/download/current/)                                   | 14.2.0
+[nodejs](https://nodejs.org/en/download/current/)                                   | 14.3.0
 [sqlite](http://www.sqlite.org/download.html)                                       | 3.31.1
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)           | 1.9.14
 [vscode](https://code.visualstudio.com/updates)                                     | 1.45.1
@@ -39,6 +39,6 @@ Name                                                                            
 Name                                                                                | Version
 ----                                                                                | -------
 [7zip](http://www.7-zip.org/download.html)                                          | 19.00
-[FileZilla](https://filezilla-project.org/download.php?show_all=1)                  | 3.48.0
+[FileZilla](https://filezilla-project.org/download.php?show_all=1)                  | 3.48.1
 [ImgBurn](http://www.imgburn.com/index.php?act=download)                            | 2.5.8.0
 [WinMerge](http://winmerge.org/downloads/)                                          | 2.16.6
