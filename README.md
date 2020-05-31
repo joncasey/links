@@ -5,7 +5,7 @@ Name                                                                            
 [git](https://github.com/git-for-windows/git/releases)                              | 2.26.2
 [java](http://www.oracle.com/technetwork/java/javase/downloads/index.html)          | 14.0.1
 [nodejs](https://nodejs.org/en/download/current/)                                   | 14.3.0
-[sqlite](http://www.sqlite.org/download.html)                                       | 3.32.0
+[sqlite](http://www.sqlite.org/download.html)                                       | 3.32.1
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)           | 1.9.14
 [vscode](https://code.visualstudio.com/updates)                                     | 1.45.1
 
@@ -18,8 +18,8 @@ Name                                                                            
 [ffmpeg-win](http://ffmpeg.zeranoe.com/builds/)                                     | 4.2.3
 [handbrake](http://handbrake.fr/downloads.php)                                      | 1.3.2
 [mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)                     | 20.03
-[mkvtoolnix](http://www.bunkus.org/videotools/mkvtoolnix/downloads.html)            | 46.0.0
-[mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                            | 46.0.0
+[mkvtoolnix](http://www.bunkus.org/videotools/mkvtoolnix/downloads.html)            | 47.0.0
+[mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                            | 47.0.0
 [mp4box](http://gpac.wp.mines-telecom.fr/mp4box/)                                   | 0.6.2
 [subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)              | 3.5.15
 [vlc](https://www.videolan.org/vlc/download-windows.html)                           | 3.0.10
@@ -28,7 +28,7 @@ Name                                                                            
 Name                                                                                | Version
 ----                                                                                | -------
 [exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 11.99
-[paint.net](http://www.getpaint.net/download.html)                                  | 4.2.11
+[paint.net](http://www.getpaint.net/download.html)                                  | 4.2.12
 
 ### Audio
 Name                                                                                | Version
