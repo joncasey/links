@@ -5,9 +5,9 @@ Name                                                                            
 [git](https://github.com/git-for-windows/git/releases)                              | 2.27.0
 [java](http://www.oracle.com/technetwork/java/javase/downloads/index.html)          | 14.0.1
 [nodejs](https://nodejs.org/en/download/current/)                                   | 14.4.0
-[sqlite](http://www.sqlite.org/download.html)                                       | 3.32.1
+[sqlite](http://www.sqlite.org/download.html)                                       | 3.32.2
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)           | 1.9.14
-[vscode](https://code.visualstudio.com/updates)                                     | 1.45.1
+[vscode](https://code.visualstudio.com/updates)                                     | 1.46.0
 
 ### Video
 Name                                                                                | Version
