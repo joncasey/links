@@ -5,9 +5,9 @@ Name                                                                            
 [git](https://github.com/git-for-windows/git/releases)                              | 2.27.0
 [java](http://www.oracle.com/technetwork/java/javase/downloads/index.html)          | 14.0.1
 [nodejs](https://nodejs.org/en/download/current/)                                   | 14.4.0
-[sqlite](http://www.sqlite.org/download.html)                                       | 3.32.2
+[sqlite](http://www.sqlite.org/download.html)                                       | 3.32.3
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)           | 1.9.14
-[vscode](https://code.visualstudio.com/updates)                                     | 1.46.0
+[vscode](https://code.visualstudio.com/updates)                                     | 1.46.1
 
 ### Video
 Name                                                                                | Version
@@ -22,7 +22,7 @@ Name                                                                            
 [mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                            | 47.0.0
 [mp4box](http://gpac.wp.mines-telecom.fr/mp4box/)                                   | 0.6.2
 [subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)              | 3.5.16
-[vlc](https://www.videolan.org/vlc/download-windows.html)                           | 3.0.10
+[vlc](https://www.videolan.org/vlc/download-windows.html)                           | 3.0.11
 
 ### Image
 Name                                                                                | Version
