@@ -14,7 +14,7 @@ Name                                                                            
 ----                                                                                | -------
 [atomicparsley](http://sourceforge.net/projects/atomicparsley/files/atomicparsley/) | 0.9.0
 [atomicparsley](https://bitbucket.org/jonhedgerows/atomicparsley/downloads)         | 0.9.6
-[ffmpeg](http://www.ffmpeg.org/download.html)                                       | 4.3
+[ffmpeg](http://www.ffmpeg.org/download.html)                                       | 4.3.1
 [ffmpeg-win](http://ffmpeg.zeranoe.com/builds/)                                     | 4.3
 [handbrake](http://handbrake.fr/downloads.php)                                      | 1.3.3
 [mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)                     | 20.03
@@ -33,7 +33,7 @@ Name                                                                            
 ### Audio
 Name                                                                                | Version
 ----                                                                                | -------
-[mp3tag](http://www.mp3tag.de/en/download.html)                                     | 3.01
+[mp3tag](http://www.mp3tag.de/en/download.html)                                     | 3.02
 
 ### Utility
 Name                                                                                | Version
