@@ -7,7 +7,7 @@ Name                                                                            
 [nodejs](https://nodejs.org/en/download/current/)                                   | 14.5.0
 [sqlite](http://www.sqlite.org/download.html)                                       | 3.32.3
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)           | 1.9.14
-[vscode](https://code.visualstudio.com/updates)                                     | 1.47.1
+[vscode](https://code.visualstudio.com/updates)                                     | 1.47.2
 
 ### Video
 Name                                                                                | Version
@@ -39,7 +39,7 @@ Name                                                                            
 Name                                                                                | Version
 ----                                                                                | -------
 [7zip](http://www.7-zip.org/download.html)                                          | 19.00
-[FileZilla](https://filezilla-project.org/download.php?show_all=1)                  | 3.49.0
+[FileZilla](https://filezilla-project.org/download.php?show_all=1)                  | 3.49.1
 [ImgBurn](http://www.imgburn.com/index.php?act=download)                            | 2.5.8.0
 [Rufus](https://github.com/pbatard/rufus/releases)                                  | 3.11
 [WinMerge](http://winmerge.org/downloads/)                                          | 2.16.6
