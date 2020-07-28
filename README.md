@@ -2,12 +2,12 @@
 ### Developer
 Name                                                                                | Version
 ----                                                                                | -------
-[git](https://github.com/git-for-windows/git/releases)                              | 2.27.0
+[git](https://github.com/git-for-windows/git/releases)                              | 2.28.0
 [java](http://www.oracle.com/technetwork/java/javase/downloads/index.html)          | 14.0.2
 [nodejs](https://nodejs.org/en/download/current/)                                   | 14.6.0
 [sqlite](http://www.sqlite.org/download.html)                                       | 3.32.3
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)           | 1.9.14
-[vscode](https://code.visualstudio.com/updates)                                     | 1.47.2
+[vscode](https://code.visualstudio.com/updates)                                     | 1.47.3
 
 ### Video
 Name                                                                                | Version
@@ -27,7 +27,7 @@ Name                                                                            
 ### Image
 Name                                                                                | Version
 ----                                                                                | -------
-[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 12.01
+[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 12.02
 [paint.net](http://www.getpaint.net/download.html)                                  | 4.2.12
 
 ### Audio
