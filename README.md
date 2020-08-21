@@ -13,7 +13,7 @@ Name                                                                            
 Name                                                                                | Version
 ----                                                                                | -------
 [atomicparsley](http://sourceforge.net/projects/atomicparsley/files/atomicparsley/) | 0.9.0
-[atomicparsley](https://bitbucket.org/jonhedgerows/atomicparsley/downloads)         | 0.9.6
+[atomicparsley](https://github.com/wez/atomicparsley)                               | 20200701
 [ffmpeg](http://www.ffmpeg.org/download.html)                                       | 4.3.1
 [ffmpeg-win](http://ffmpeg.zeranoe.com/builds/)                                     | 4.3
 [handbrake](http://handbrake.fr/downloads.php)                                      | 1.3.3
