@@ -7,7 +7,7 @@ Name                                                                            
 [nodejs](https://nodejs.org/en/download/current/)                                   | 14.13.0
 [sqlite](http://www.sqlite.org/download.html)                                       | 3.33.0
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)           | 1.9.14
-[vscode](https://code.visualstudio.com/updates)                                     | 1.49.2
+[vscode](https://code.visualstudio.com/updates)                                     | 1.49.3
 
 ### Video
 Name                                                                                | Version
@@ -27,13 +27,13 @@ Name                                                                            
 ### Image
 Name                                                                                | Version
 ----                                                                                | -------
-[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 12.06
+[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 12.07
 [paint.net](http://www.getpaint.net/download.html)                                  | 4.2.13
 
 ### Audio
 Name                                                                                | Version
 ----                                                                                | -------
-[mp3tag](http://www.mp3tag.de/en/download.html)                                     | 3.02
+[mp3tag](http://www.mp3tag.de/en/download.html)                                     | 3.03
 
 ### Utility
 Name                                                                                | Version
@@ -41,5 +41,5 @@ Name                                                                            
 [7zip](http://www.7-zip.org/download.html)                                          | 19.00
 [FileZilla](https://filezilla-project.org/download.php?show_all=1)                  | 3.50.0
 [ImgBurn](http://www.imgburn.com/index.php?act=download)                            | 2.5.8.0
-[Rufus](https://github.com/pbatard/rufus/releases)                                  | 3.11
+[Rufus](https://github.com/pbatard/rufus/releases)                                  | 3.12
 [WinMerge](http://winmerge.org/downloads/)                                          | 2.16.8
