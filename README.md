@@ -4,7 +4,7 @@ Name                                                                            
 ----                                                                                | -------
 [git](https://github.com/git-for-windows/git/releases)                              | 2.30.0
 [java](http://www.oracle.com/technetwork/java/javase/downloads/index.html)          | 15.0.1
-[nodejs](https://nodejs.org/en/download/current/)                                   | 15.5.0
+[nodejs](https://nodejs.org/en/download/current/)                                   | 15.5.1
 [npm](https://github.com/npm/cli)                                                   | 7.3.0
 [sqlite](http://www.sqlite.org/download.html)                                       | 3.34.0
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)           | 1.9.14
@@ -19,8 +19,8 @@ Name                                                                            
 [ffmpeg-win](http://ffmpeg.zeranoe.com/builds/)                                     | 4.3
 [handbrake](http://handbrake.fr/downloads.php)                                      | 1.3.3
 [mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)                     | 20.09
-[mkvtoolnix](http://www.bunkus.org/videotools/mkvtoolnix/downloads.html)            | 50.0.0
-[mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                            | 51.0.0
+[mkvtoolnix](http://www.bunkus.org/videotools/mkvtoolnix/downloads.html)            | 52.0.0
+[mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                            | 52.0.0
 [mp4box](http://gpac.wp.mines-telecom.fr/mp4box/)                                   | 0.6.2
 [subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)              | 3.5.18
 [vlc](https://www.videolan.org/vlc/download-windows.html)                           | 3.0.11
