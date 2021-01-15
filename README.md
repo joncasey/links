@@ -4,7 +4,7 @@ Name                                                                            
 ----                                                                                | -------
 [git](https://github.com/git-for-windows/git/releases)                              | 2.30.0.2
 [java](http://www.oracle.com/technetwork/java/javase/downloads/index.html)          | 15.0.1
-[nodejs](https://nodejs.org/en/download/current/)                                   | 15.5.1
+[nodejs](https://nodejs.org/en/download/current/)                                   | 15.6.0
 [npm](https://github.com/npm/cli)                                                   | 7.4.1
 [sqlite](http://www.sqlite.org/download.html)                                       | 3.34.0
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)           | 1.9.14
