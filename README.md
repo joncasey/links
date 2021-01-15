@@ -5,7 +5,7 @@ Name                                                                            
 [git](https://github.com/git-for-windows/git/releases)                              | 2.30.0.2
 [java](http://www.oracle.com/technetwork/java/javase/downloads/index.html)          | 15.0.1
 [nodejs](https://nodejs.org/en/download/current/)                                   | 15.6.0
-[npm](https://github.com/npm/cli)                                                   | 7.4.1
+[npm](https://github.com/npm/cli)                                                   | 7.4.2
 [sqlite](http://www.sqlite.org/download.html)                                       | 3.34.0
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)           | 1.9.14
 [vscode](https://code.visualstudio.com/updates)                                     | 1.52.1
@@ -14,7 +14,7 @@ Name                                                                            
 Name                                                                                | Version
 ----                                                                                | -------
 [atomicparsley](http://sourceforge.net/projects/atomicparsley/files/atomicparsley/) | 0.9.0
-[atomicparsley](https://github.com/wez/atomicparsley)                               | 20201231
+[atomicparsley](https://github.com/wez/atomicparsley)                               | 20210114
 [ffmpeg](http://www.ffmpeg.org/download.html)                                       | 4.3.1
 [ffmpeg-win](http://ffmpeg.zeranoe.com/builds/)                                     | 4.3
 [handbrake](http://handbrake.fr/downloads.php)                                      | 1.3.3
