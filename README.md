@@ -23,12 +23,12 @@ Name                                                                            
 [mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                            | 52.0.0
 [mp4box](http://gpac.wp.mines-telecom.fr/mp4box/)                                   | 0.6.2
 [subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)              | 3.5.18
-[vlc](https://www.videolan.org/vlc/download-windows.html)                           | 3.0.11
+[vlc](https://www.videolan.org/vlc/download-windows.html)                           | 3.0.12
 
 ### Image
 Name                                                                                | Version
 ----                                                                                | -------
-[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 12.14
+[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 12.15
 [paint.net](http://www.getpaint.net/download.html)                                  | 4.2.14
 
 ### Audio
@@ -40,7 +40,7 @@ Name                                                                            
 Name                                                                                | Version
 ----                                                                                | -------
 [7zip](http://www.7-zip.org/download.html)                                          | 19.00
-[FileZilla](https://filezilla-project.org/download.php?show_all=1)                  | 3.52.0.5
+[FileZilla](https://filezilla-project.org/download.php?show_all=1)                  | 3.52.2
 [ImgBurn](http://www.imgburn.com/index.php?act=download)                            | 2.5.8.0
 [Rufus](https://github.com/pbatard/rufus/releases)                                  | 3.13
 [WinMerge](http://winmerge.org/downloads/)                                          | 2.16.8
