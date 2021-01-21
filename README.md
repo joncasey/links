@@ -6,7 +6,7 @@ Name                                                                            
 [java](http://www.oracle.com/technetwork/java/javase/downloads/index.html)          | 15.0.2
 [nodejs](https://nodejs.org/en/download/current/)                                   | 15.6.0
 [npm](https://github.com/npm/cli)                                                   | 7.4.2
-[sqlite](http://www.sqlite.org/download.html)                                       | 3.34.0
+[sqlite](http://www.sqlite.org/download.html)                                       | 3.34.1
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)           | 1.9.14
 [vscode](https://code.visualstudio.com/updates)                                     | 1.52.1
 
