@@ -22,13 +22,13 @@ Name                                                                            
 [mkvtoolnix](http://www.bunkus.org/videotools/mkvtoolnix/downloads.html)            | 53.0.0
 [mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                            | 53.0.0
 [mp4box](http://gpac.wp.mines-telecom.fr/mp4box/)                                   | 0.6.2
-[subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)              | 3.5.18
+[subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)              | 3.6.0
 [vlc](https://www.videolan.org/vlc/download-windows.html)                           | 3.0.12
 
 ### Image
 Name                                                                                | Version
 ----                                                                                | -------
-[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 12.18
+[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 12.19
 [paint.net](http://www.getpaint.net/download.html)                                  | 4.2.15
 
 ### Audio
