@@ -19,8 +19,8 @@ Name                                                                            
 [ffmpeg-win](http://ffmpeg.zeranoe.com/builds/)                                     | 4.3
 [handbrake](http://handbrake.fr/downloads.php)                                      | 1.3.3
 [mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)                     | 20.09
-[mkvtoolnix](http://www.bunkus.org/videotools/mkvtoolnix/downloads.html)            | 53.0.0
-[mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                            | 53.0.0
+[mkvtoolnix](http://www.bunkus.org/videotools/mkvtoolnix/downloads.html)            | 54.0.0
+[mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                            | 54.0.0
 [mp4box](http://gpac.wp.mines-telecom.fr/mp4box/)                                   | 0.6.2
 [subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)              | 3.6.0
 [vlc](https://www.videolan.org/vlc/download-windows.html)                           | 3.0.12
