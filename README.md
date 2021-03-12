@@ -5,10 +5,10 @@ Name                                                                            
 [git](https://github.com/git-for-windows/git/releases)                              | 2.30.2
 [java](http://www.oracle.com/technetwork/java/javase/downloads/index.html)          | 16
 [nodejs](https://nodejs.org/en/download/current/)                                   | 15.11.0
-[npm](https://github.com/npm/cli)                                                   | 7.6.2
-[sqlite](http://www.sqlite.org/download.html)                                       | 3.34.1
+[npm](https://github.com/npm/cli)                                                   | 7.6.3
+[sqlite](http://www.sqlite.org/download.html)                                       | 3.35.0
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)           | 1.9.15
-[vscode](https://code.visualstudio.com/updates)                                     | 1.54.1
+[vscode](https://code.visualstudio.com/updates)                                     | 1.54.2
 
 ### Video
 Name                                                                                | Version
