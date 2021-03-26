@@ -6,7 +6,7 @@ Name                                                                            
 [java](http://www.oracle.com/technetwork/java/javase/downloads/index.html)          | 16
 [nodejs](https://nodejs.org/en/download/current/)                                   | 15.12.0
 [npm](https://github.com/npm/cli)                                                   | 7.7.5
-[sqlite](http://www.sqlite.org/download.html)                                       | 3.35.2
+[sqlite](http://www.sqlite.org/download.html)                                       | 3.35.3
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)           | 1.9.15
 [vscode](https://code.visualstudio.com/updates)                                     | 1.54.3
 
@@ -18,7 +18,7 @@ Name                                                                            
 [ffmpeg](http://www.ffmpeg.org/download.html)                                       | 4.3.2
 [ffmpeg-win](http://ffmpeg.zeranoe.com/builds/)                                     | 4.3
 [handbrake](http://handbrake.fr/downloads.php)                                      | 1.3.3
-[mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)                     | 20.09
+[mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)                     | 21.03
 [mkvtoolnix](http://www.bunkus.org/videotools/mkvtoolnix/downloads.html)            | 55.0.0
 [mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                            | 55.0.0
 [mp4box](http://gpac.wp.mines-telecom.fr/mp4box/)                                   | 0.6.2
