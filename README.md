@@ -5,10 +5,10 @@ Name                                                                            
 [git](https://github.com/git-for-windows/git/releases)                              | 2.31.1
 [java](http://www.oracle.com/technetwork/java/javase/downloads/index.html)          | 16.0.1
 [nodejs](https://nodejs.org/en/download/current/)                                   | 16.1.0
-[npm](https://github.com/npm/cli)                                                   | 7.12.1
+[npm](https://github.com/npm/cli)                                                   | 7.13.0
 [sqlite](http://www.sqlite.org/download.html)                                       | 3.35.5
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)           | 1.9.15
-[vscode](https://code.visualstudio.com/updates)                                     | 1.56.1
+[vscode](https://code.visualstudio.com/updates)                                     | 1.56.2
 
 ### Video
 Name                                                                                | Version
@@ -40,7 +40,7 @@ Name                                                                            
 Name                                                                                | Version
 ----                                                                                | -------
 [7zip](http://www.7-zip.org/download.html)                                          | 19.00
-[FileZilla](https://filezilla-project.org/download.php?show_all=1)                  | 3.53.1
+[FileZilla](https://filezilla-project.org/download.php?show_all=1)                  | 3.54.1
 [ImgBurn](http://www.imgburn.com/index.php?act=download)                            | 2.5.8.0
 [Rufus](https://github.com/pbatard/rufus/releases)                                  | 3.14
 [WinMerge](http://winmerge.org/downloads/)                                          | 2.16.12
