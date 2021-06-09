@@ -2,7 +2,7 @@
 ### Developer
 Name                                                                                | Version
 ----                                                                                | -------
-[git](https://github.com/git-for-windows/git/releases)                              | 2.31.1
+[git](https://github.com/git-for-windows/git/releases)                              | 2.32.0
 [java](http://www.oracle.com/technetwork/java/javase/downloads/index.html)          | 16.0.1
 [nodejs](https://nodejs.org/en/download/current/)                                   | 16.3.0
 [npm](https://github.com/npm/cli)                                                   | 7.16.0
@@ -28,7 +28,7 @@ Name                                                                            
 ### Image
 Name                                                                                | Version
 ----                                                                                | -------
-[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 12.26
+[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 12.27
 [paint.net](http://www.getpaint.net/download.html)                                  | 4.2.16
 
 ### Audio
