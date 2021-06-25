@@ -4,8 +4,8 @@ Name                                                                            
 ----                                                                                | -------
 [git](https://github.com/git-for-windows/git/releases)                              | 2.32.0
 [java](http://www.oracle.com/technetwork/java/javase/downloads/index.html)          | 16.0.1
-[nodejs](https://nodejs.org/en/download/current/)                                   | 16.3.0
-[npm](https://github.com/npm/cli)                                                   | 7.18.1
+[nodejs](https://nodejs.org/en/download/current/)                                   | 16.4.0
+[npm](https://github.com/npm/cli)                                                   | 7.19.0
 [sqlite](http://www.sqlite.org/download.html)                                       | 3.36.0
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)           | 1.9.15
 [vscode](https://code.visualstudio.com/updates)                                     | 1.57.1
@@ -23,12 +23,12 @@ Name                                                                            
 [mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                            | 58.0.0
 [mp4box](http://gpac.wp.mines-telecom.fr/mp4box/)                                   | 0.6.2
 [subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)              | 3.6.1
-[vlc](https://www.videolan.org/vlc/download-windows.html)                           | 3.0.15
+[vlc](https://www.videolan.org/vlc/download-windows.html)                           | 3.0.16
 
 ### Image
 Name                                                                                | Version
 ----                                                                                | -------
-[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 12.27
+[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                           | 12.28
 [paint.net](http://www.getpaint.net/download.html)                                  | 4.2.16
 
 ### Audio
