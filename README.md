@@ -5,7 +5,7 @@ Name                                                                            
 [git](https://github.com/git-for-windows/git/releases)                              | 2.32.0.2
 [java](http://www.oracle.com/technetwork/java/javase/downloads/index.html)          | 16.0.2
 [nodejs](https://nodejs.org/en/download/current/)                                   | 16.5.0
-[npm](https://github.com/npm/cli)                                                   | 7.20.1
+[npm](https://github.com/npm/cli)                                                   | 7.20.3
 [sqlite](http://www.sqlite.org/download.html)                                       | 3.36.0
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)           | 1.9.15
 [vscode](https://code.visualstudio.com/updates)                                     | 1.58.2
@@ -42,5 +42,5 @@ Name                                                                            
 [7zip](http://www.7-zip.org/download.html)                                          | 19.00
 [FileZilla](https://filezilla-project.org/download.php?show_all=1)                  | 3.55.0
 [ImgBurn](http://www.imgburn.com/index.php?act=download)                            | 2.5.8.0
-[Rufus](https://github.com/pbatard/rufus/releases)                                  | 3.14
+[Rufus](https://github.com/pbatard/rufus/releases)                                  | 3.15
 [WinMerge](http://winmerge.org/downloads/)                                          | 2.16.14
