@@ -18,7 +18,7 @@ Name                                                                            
 [ffmpeg](http://www.ffmpeg.org/download.html)                                       | 4.4
 [ffmpeg-win](http://ffmpeg.zeranoe.com/builds/)                                     | 4.4
 [handbrake](http://handbrake.fr/downloads.php)                                      | 1.4.1
-[mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)                     | 21.03
+[mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)                     | 21.09
 [mkvtoolnix](http://www.bunkus.org/videotools/mkvtoolnix/downloads.html)            | 61.0.0
 [mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                            | 61.0.0
 [mp4box](http://gpac.wp.mines-telecom.fr/mp4box/)                                   | 0.6.2
