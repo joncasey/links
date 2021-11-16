@@ -2,7 +2,7 @@
 ### Developer
 Name                                                                       | Version
 ----                                                                       | -------
-[git](https://github.com/git-for-windows/git/releases)                     | 2.33.1
+[git](https://github.com/git-for-windows/git/releases)                     | 2.34.0
 [java](https://www.oracle.com/java/technologies/downloads/)                | 17.0.1
 [nodejs](https://nodejs.org/en/download/current/)                          | 17.1.0
 [npm](https://github.com/npm/cli)                                          | 8.1.3
@@ -18,8 +18,8 @@ Name                                                                       | Ver
 [ffmpeg-win](http://ffmpeg.zeranoe.com/builds/)                            | 4.4.1
 [handbrake](http://handbrake.fr/downloads.php)                             | 1.4.2
 [mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)            | 21.09
-[mkvtoolnix](http://www.bunkus.org/videotools/mkvtoolnix/downloads.html)   | 62.0.0
-[mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                   | 62.0.0
+[mkvtoolnix](http://www.bunkus.org/videotools/mkvtoolnix/downloads.html)   | 63.0.0
+[mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                   | 63.0.0
 [mp4box](http://gpac.wp.mines-telecom.fr/mp4box/)                          | 0.6.2
 [subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)     | 3.6.3
 [vlc](https://www.videolan.org/vlc/download-windows.html)                  | 3.0.16
@@ -28,7 +28,7 @@ Name                                                                       | Ver
 Name                                                                       | Version
 ----                                                                       | -------
 [exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                  | 12.35
-[paint.net](http://www.getpaint.net/download.html)                         | 4.3.2
+[paint.net](http://www.getpaint.net/download.html)                         | 4.3.3
 
 ### Audio
 Name                                                                       | Version
