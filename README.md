@@ -28,7 +28,7 @@ Name                                                                       | Ver
 Name                                                                       | Version
 ----                                                                       | -------
 [exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                  | 12.38
-[paint.net](http://www.getpaint.net/download.html)                         | 4.3.6
+[paint.net](http://www.getpaint.net/download.html)                         | 4.3.7
 
 ### Audio
 Name                                                                       | Version
