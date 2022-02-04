@@ -2,13 +2,13 @@
 ### Developer
 Name                                                                       | Version
 ----                                                                       | -------
-[git](https://github.com/git-for-windows/git/releases)                     | 2.35.1
+[git](https://github.com/git-for-windows/git/releases)                     | 2.35.1.2
 [java](https://www.oracle.com/java/technologies/downloads/)                | 17.0.2
 [nodejs](https://nodejs.org/en/download/current/)                          | 17.4.0
-[npm](https://github.com/npm/cli)                                          | 8.4.0
+[npm](https://github.com/npm/cli)                                          | 8.4.1
 [sqlite](http://www.sqlite.org/download.html)                              | 3.37.2
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)  | 1.9.15
-[vscode](https://code.visualstudio.com/updates)                            | 1.63.2
+[vscode](https://code.visualstudio.com/updates)                            | 1.64.0
 
 ### Video
 Name                                                                       | Version
