@@ -8,7 +8,7 @@ Name                                                                       | Ver
 [npm](https://github.com/npm/cli)                                          | 8.4.1
 [sqlite](http://www.sqlite.org/download.html)                              | 3.37.2
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)  | 1.9.15
-[vscode](https://code.visualstudio.com/updates)                            | 1.64.0
+[vscode](https://code.visualstudio.com/updates)                            | 1.64.1
 
 ### Video
 Name                                                                       | Version
@@ -25,7 +25,7 @@ Name                                                                       | Ver
 ### Image
 Name                                                                       | Version
 ----                                                                       | -------
-[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                  | 12.39
+[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                  | 12.40
 [paint.net](http://www.getpaint.net/download.html)                         | 4.3.7
 
 ### Audio
