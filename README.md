@@ -6,7 +6,7 @@ Name                                                                       | Ver
 [java](https://www.oracle.com/java/technologies/downloads/)                | 17.0.2
 [nodejs](https://nodejs.org/en/download/current/)                          | 17.7.1
 [npm](https://github.com/npm/cli)                                          | 8.5.4
-[sqlite](http://www.sqlite.org/download.html)                              | 3.38.0
+[sqlite](http://www.sqlite.org/download.html)                              | 3.38.1
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)  | 1.9.15
 [vscode](https://code.visualstudio.com/updates)                            | 1.65.2
 
@@ -17,8 +17,8 @@ Name                                                                       | Ver
 [ffmpeg](http://www.ffmpeg.org/download.html)                              | 5.0
 [handbrake](http://handbrake.fr/downloads.php)                             | 1.5.1
 [mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)            | 21.09
-[mkvtoolnix](http://www.bunkus.org/videotools/mkvtoolnix/downloads.html)   | 65.0.0
-[mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                   | 65.0.0
+[mkvtoolnix](http://www.bunkus.org/videotools/mkvtoolnix/downloads.html)   | 66.0.0
+[mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                   | 66.0.0
 [subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)     | 3.6.4
 [vlc](https://www.videolan.org/vlc/download-windows.html)                  | 3.0.16
 
