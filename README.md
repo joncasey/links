@@ -3,8 +3,8 @@
 Name                                                                       | Version
 ----                                                                       | -------
 [git](https://github.com/git-for-windows/git/releases)                     | 2.35.3
-[java](https://www.oracle.com/java/technologies/downloads/)                | 18.0.0
-[nodejs](https://nodejs.org/en/download/current/)                          | 17.9.0
+[java](https://www.oracle.com/java/technologies/downloads/)                | 18.0.1
+[nodejs](https://nodejs.org/en/download/current/)                          | 18.0.0
 [npm](https://github.com/npm/cli)                                          | 8.7.0
 [sqlite](http://www.sqlite.org/download.html)                              | 3.38.2
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)  | 1.9.15
