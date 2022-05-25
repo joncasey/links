@@ -26,12 +26,12 @@ Name                                                                       | Ver
 Name                                                                       | Version
 ----                                                                       | -------
 [exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                  | 12.41
-[paint.net](http://www.getpaint.net/download.html)                         | 4.3.10
+[paint.net](http://www.getpaint.net/download.html)                         | 4.3.11
 
 ### Audio
 Name                                                                       | Version
 ----                                                                       | -------
-[mp3tag](http://www.mp3tag.de/en/download.html)                            | 3.14
+[mp3tag](http://www.mp3tag.de/en/download.html)                            | 3.15
 
 ### Utility
 Name                                                                       | Version
