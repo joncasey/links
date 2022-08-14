@@ -2,7 +2,7 @@
 ### Developer
 Name                                                                       | Version
 ----                                                                       | -------
-[git](https://github.com/git-for-windows/git/releases)                     | 2.37.1
+[git](https://github.com/git-for-windows/git/releases)                     | 2.37.2.2
 [java](https://www.oracle.com/java/technologies/downloads/)                | 18.0.2
 [nodejs](https://nodejs.org/en/download/current/)                          | 18.7.0
 [npm](https://github.com/npm/cli)                                          | 8.17.0
@@ -17,9 +17,9 @@ Name                                                                       | Ver
 [ffmpeg](http://www.ffmpeg.org/download.html)                              | 5.1
 [handbrake](http://handbrake.fr/downloads.php)                             | 1.5.1
 [mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)            | 22.06
-[mkvtoolnix](https://mkvtoolnix.download/downloads.html)                   | 69.0.0
-[mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                   | 69.0.0
-[subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)     | 3.6.6
+[mkvtoolnix](https://mkvtoolnix.download/downloads.html)                   | 70.0.0
+[mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                   | 70.0.0
+[subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)     | 3.6.7
 [vlc](https://www.videolan.org/vlc/download-windows.html)                  | 3.0.17.4
 
 ### Image
