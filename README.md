@@ -2,10 +2,10 @@
 ### Developer
 Name                                                                       | Version
 ----                                                                       | -------
-[git](https://github.com/git-for-windows/git/releases)                     | 2.37.2.2
+[git](https://github.com/git-for-windows/git/releases)                     | 2.37.3
 [java](https://www.oracle.com/java/technologies/downloads/)                | 18.0.2.1
 [nodejs](https://nodejs.org/en/download/current/)                          | 18.8.0
-[npm](https://github.com/npm/cli)                                          | 8.18.0
+[npm](https://github.com/npm/cli)                                          | 8.19.0
 [sqlite](http://www.sqlite.org/download.html)                              | 3.39.2
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)  | 1.9.16
 [vscode](https://code.visualstudio.com/updates)                            | 1.70.2
@@ -14,7 +14,7 @@ Name                                                                       | Ver
 Name                                                                       | Version
 ----                                                                       | -------
 [atomicparsley](https://github.com/wez/atomicparsley)                      | 20210715
-[ffmpeg](http://www.ffmpeg.org/download.html)                              | 5.1
+[ffmpeg](http://www.ffmpeg.org/download.html)                              | 5.1.1
 [handbrake](http://handbrake.fr/downloads.php)                             | 1.5.1
 [mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)            | 22.06
 [mkvtoolnix](https://mkvtoolnix.download/downloads.html)                   | 70.0.0
