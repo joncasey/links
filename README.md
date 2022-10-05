@@ -16,7 +16,7 @@ Name                                                                       | Ver
 [atomicparsley](https://github.com/wez/atomicparsley)                      | 20210715
 [ffmpeg](http://www.ffmpeg.org/download.html)                              | 5.1.2
 [handbrake](http://handbrake.fr/downloads.php)                             | 1.5.1
-[mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)            | 22.06
+[mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)            | 22.09
 [mkvtoolnix](https://mkvtoolnix.download/downloads.html)                   | 70.0.0
 [mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                   | 70.0.0
 [subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)     | 3.6.7
@@ -25,7 +25,7 @@ Name                                                                       | Ver
 ### Image
 Name                                                                       | Version
 ----                                                                       | -------
-[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                  | 12.46
+[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                  | 12.47
 [paint.net](http://www.getpaint.net/download.html)                         | 4.3.12
 
 ### Audio
