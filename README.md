@@ -19,7 +19,7 @@ Name                                                                       | Ver
 [mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)            | 22.09
 [mkvtoolnix](https://mkvtoolnix.download/downloads.html)                   | 71.1.0
 [mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                   | 71.1.0
-[subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)     | 3.6.7
+[subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)     | 3.6.8
 [vlc](https://www.videolan.org/vlc/download-windows.html)                  | 3.0.17.4
 
 ### Image
