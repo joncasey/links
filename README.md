@@ -5,10 +5,10 @@ Name                                                                       | Ver
 [git](https://github.com/git-for-windows/git/releases)                     | 2.38.1
 [java](https://www.oracle.com/java/technologies/downloads/)                | 19.0.1
 [nodejs](https://nodejs.org/en/download/current/)                          | 19.0.1
-[npm](https://github.com/npm/cli)                                          | 8.19.2
+[npm](https://github.com/npm/cli)                                          | 9.1.1
 [sqlite](http://www.sqlite.org/download.html)                              | 3.39.4
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)  | 1.9.16
-[vscode](https://code.visualstudio.com/updates)                            | 1.73.0
+[vscode](https://code.visualstudio.com/updates)                            | 1.73.1
 
 ### Video
 Name                                                                       | Version
@@ -17,15 +17,15 @@ Name                                                                       | Ver
 [ffmpeg](http://www.ffmpeg.org/download.html)                              | 5.1.2
 [handbrake](http://handbrake.fr/downloads.php)                             | 1.5.1
 [mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)            | 22.09
-[mkvtoolnix](https://mkvtoolnix.download/downloads.html)                   | 71.1.0
-[mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                   | 71.1.0
+[mkvtoolnix](https://mkvtoolnix.download/downloads.html)                   | 72.0.0
+[mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                   | 72.0.0
 [subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)     | 3.6.8
 [vlc](https://www.videolan.org/vlc/download-windows.html)                  | 3.0.17.4
 
 ### Image
 Name                                                                       | Version
 ----                                                                       | -------
-[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                  | 12.49
+[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                  | 12.50
 [paint.net](http://www.getpaint.net/download.html)                         | 4.3.12
 
 ### Audio
