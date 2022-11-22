@@ -19,13 +19,13 @@ Name                                                                       | Ver
 [mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)            | 22.09
 [mkvtoolnix](https://mkvtoolnix.download/downloads.html)                   | 72.0.0
 [mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                   | 72.0.0
-[subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)     | 3.6.8
+[subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)     | 3.6.10
 [vlc](https://www.videolan.org/vlc/download-windows.html)                  | 3.0.17.4
 
 ### Image
 Name                                                                       | Version
 ----                                                                       | -------
-[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                  | 12.50
+[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                  | 12.51
 [paint.net](http://www.getpaint.net/download.html)                         | 4.3.12
 
 ### Audio
@@ -37,7 +37,7 @@ Name                                                                       | Ver
 Name                                                                       | Version
 ----                                                                       | -------
 [7zip](http://www.7-zip.org/download.html)                                 | 22.01
-[FileZilla](https://filezilla-project.org/download.php?show_all=1)         | 3.62.1
+[FileZilla](https://filezilla-project.org/download.php?show_all=1)         | 3.62.2
 [ImgBurn](http://www.imgburn.com/index.php?act=download)                   | 2.5.8.0
 [Rufus](https://github.com/pbatard/rufus/releases)                         | 3.21
 [WinMerge](http://winmerge.org/downloads/)                                 | 2.16.24
