@@ -4,7 +4,7 @@ Name                                                                       | Ver
 ----                                                                       | -------
 [git](https://github.com/git-for-windows/git/releases)                     | 2.38.1
 [java](https://www.oracle.com/java/technologies/downloads/)                | 19.0.1
-[nodejs](https://nodejs.org/en/download/current/)                          | 19.1.0
+[nodejs](https://nodejs.org/en/download/current/)                          | 19.2.0
 [npm](https://github.com/npm/cli)                                          | 9.1.2
 [sqlite](http://www.sqlite.org/download.html)                              | 3.40.0
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)  | 1.9.16
@@ -20,13 +20,13 @@ Name                                                                       | Ver
 [mkvtoolnix](https://mkvtoolnix.download/downloads.html)                   | 72.0.0
 [mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                   | 72.0.0
 [subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)     | 3.6.10
-[vlc](https://www.videolan.org/vlc/download-windows.html)                  | 3.0.17.4
+[vlc](https://www.videolan.org/vlc/download-windows.html)                  | 3.0.18
 
 ### Image
 Name                                                                       | Version
 ----                                                                       | -------
 [exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                  | 12.51
-[paint.net](http://www.getpaint.net/download.html)                         | 4.3.12
+[paint.net](http://www.getpaint.net/download.html)                         | 5.0
 
 ### Audio
 Name                                                                       | Version
