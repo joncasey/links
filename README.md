@@ -17,8 +17,8 @@ Name                                                                       | Ver
 [ffmpeg](http://www.ffmpeg.org/download.html)                              | 5.1.2
 [handbrake](http://handbrake.fr/downloads.php)                             | 1.6.0
 [mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)            | 22.12
-[mkvtoolnix](https://mkvtoolnix.download/downloads.html)                   | 72.0.0
-[mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                   | 72.0.0
+[mkvtoolnix](https://mkvtoolnix.download/downloads.html)                   | 73.0.0
+[mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                   | 73.0.0
 [subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)     | 3.6.10
 [vlc](https://www.videolan.org/vlc/download-windows.html)                  | 3.0.18
 
