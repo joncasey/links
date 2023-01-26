@@ -5,7 +5,7 @@ Name                                                                       | Ver
 [git](https://github.com/git-for-windows/git/releases)                     | 2.39.1
 [java](https://www.oracle.com/java/technologies/downloads/)                | 19.0.2
 [nodejs](https://nodejs.org/en/download/current/)                          | 19.5.0
-[npm](https://github.com/npm/cli)                                          | 9.3.1
+[npm](https://github.com/npm/cli)                                          | 9.4.0
 [sqlite](http://www.sqlite.org/download.html)                              | 3.40.1
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)  | 1.9.16
 [vscode](https://code.visualstudio.com/updates)                            | 1.74.3
