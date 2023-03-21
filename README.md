@@ -3,7 +3,7 @@
 Name                                                                       | Version
 ----                                                                       | -------
 [git](https://github.com/git-for-windows/git/releases)                     | 2.40.0
-[java](https://www.oracle.com/java/technologies/downloads/)                | 19.0.2
+[java](https://www.oracle.com/java/technologies/downloads/)                | 20
 [nodejs](https://nodejs.org/en/download/current/)                          | 19.8.1
 [npm](https://github.com/npm/cli)                                          | 9.6.2
 [sqlite](http://www.sqlite.org/download.html)                              | 3.41.1
@@ -39,5 +39,5 @@ Name                                                                       | Ver
 [7zip](http://www.7-zip.org/download.html)                                 | 22.01
 [FileZilla](https://filezilla-project.org/download.php?show_all=1)         | 3.63.2.1
 [ImgBurn](http://www.imgburn.com/index.php?act=download)                   | 2.5.8.0
-[Rufus](https://github.com/pbatard/rufus/releases)                         | 3.21
+[Rufus](https://github.com/pbatard/rufus/releases)                         | 3.22
 [WinMerge](http://winmerge.org/downloads/)                                 | 2.16.28
