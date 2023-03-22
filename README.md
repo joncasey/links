@@ -6,7 +6,7 @@ Name                                                                       | Ver
 [java](https://www.oracle.com/java/technologies/downloads/)                | 20
 [nodejs](https://nodejs.org/en/download/current/)                          | 19.8.1
 [npm](https://github.com/npm/cli)                                          | 9.6.2
-[sqlite](http://www.sqlite.org/download.html)                              | 3.41.1
+[sqlite](http://www.sqlite.org/download.html)                              | 3.41.2
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)  | 1.9.16
 [vscode](https://code.visualstudio.com/updates)                            | 1.76.2
 
