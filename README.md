@@ -19,14 +19,14 @@ Name                                                                       | Ver
 [mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)            | 22.12
 [mkvtoolnix](https://mkvtoolnix.download/downloads.html)                   | 73.0.0
 [mkvtoolnix-win](http://www.fosshub.com/MKVToolNix.html)                   | 73.0.0
-[subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)     | 3.6.11
+[subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)     | 3.6.12
 [vlc](https://www.videolan.org/vlc/download-windows.html)                  | 3.0.18
 
 ### Image
 Name                                                                       | Version
 ----                                                                       | -------
 [exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                  | 12.58
-[paint.net](http://www.getpaint.net/download.html)                         | 5.0.2
+[paint.net](http://www.getpaint.net/download.html)                         | 5.0.3
 
 ### Audio
 Name                                                                       | Version
