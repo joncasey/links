@@ -3,7 +3,7 @@
 Name                                                                       | Version
 ----                                                                       | -------
 [git](https://github.com/git-for-windows/git/releases)                     | 2.40.0
-[java](https://www.oracle.com/java/technologies/downloads/)                | 20
+[java](https://www.oracle.com/java/technologies/downloads/)                | 20.0.1
 [nodejs](https://nodejs.org/en/download/current/)                          | 20.0.0
 [npm](https://github.com/npm/cli)                                          | 9.6.5
 [sqlite](http://www.sqlite.org/download.html)                              | 3.41.2
