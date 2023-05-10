@@ -8,7 +8,7 @@ Name                                                                       | Ver
 [npm](https://github.com/npm/cli)                                          | 9.6.6
 [sqlite](http://www.sqlite.org/download.html)                              | 3.41.2
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)  | 1.9.16
-[vscode](https://code.visualstudio.com/updates)                            | 1.78.0
+[vscode](https://code.visualstudio.com/updates)                            | 1.78.1
 
 ### Video
 Name                                                                       | Version
@@ -18,14 +18,14 @@ Name                                                                       | Ver
 [handbrake](http://handbrake.fr/downloads.php)                             | 1.6.1
 [mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)            | 23.04
 [mkvtoolnix](https://mkvtoolnix.download/downloads.html)                   | 76.0.0
-[subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)     | 3.6.12
+[subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)     | 3.6.13
 [vlc](https://www.videolan.org/vlc/download-windows.html)                  | 3.0.18
 
 ### Image
 Name                                                                       | Version
 ----                                                                       | -------
 [exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                  | 12.62
-[paint.net](http://www.getpaint.net/download.html)                         | 5.0.3
+[paint.net](http://www.getpaint.net/download.html)                         | 5.0.4
 
 ### Audio
 Name                                                                       | Version
