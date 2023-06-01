@@ -38,5 +38,5 @@ Name                                                                       | Ver
 [7zip](http://www.7-zip.org/download.html)                                 | 23.00
 [FileZilla](https://filezilla-project.org/download.php?show_all=1)         | 3.64.0
 [ImgBurn](http://www.imgburn.com/index.php?act=download)                   | 2.5.8.0
-[Rufus](https://github.com/pbatard/rufus/releases)                         | 4.0
+[Rufus](https://github.com/pbatard/rufus/releases)                         | 4.1
 [WinMerge](http://winmerge.org/downloads/)                                 | 2.16.30
