@@ -4,11 +4,11 @@ Name                                                                       | Ver
 ----                                                                       | -------
 [git](https://github.com/git-for-windows/git/releases)                     | 2.41.0
 [java](https://www.oracle.com/java/technologies/downloads/)                | 20.0.1
-[nodejs](https://nodejs.org/en/download/current/)                          | 20.3.1
-[npm](https://github.com/npm/cli)                                          | 9.7.2
+[nodejs](https://nodejs.org/en/download/current/)                          | 20.4.0
+[npm](https://github.com/npm/cli)                                          | 9.8.0
 [sqlite](http://www.sqlite.org/download.html)                              | 3.42.0
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)  | 1.9.16
-[vscode](https://code.visualstudio.com/updates)                            | 1.79.2
+[vscode](https://code.visualstudio.com/updates)                            | 1.80.0
 
 ### Video
 Name                                                                       | Version
@@ -17,7 +17,7 @@ Name                                                                       | Ver
 [ffmpeg](http://www.ffmpeg.org/download.html)                              | 6.0
 [handbrake](http://handbrake.fr/downloads.php)                             | 1.6.1
 [mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)            | 23.06
-[mkvtoolnix](https://mkvtoolnix.download/downloads.html)                   | 77.0.0
+[mkvtoolnix](https://mkvtoolnix.download/downloads.html)                   | 78.0
 [subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)     | 3.6.13
 [vlc](https://www.videolan.org/vlc/download-windows.html)                  | 3.0.18
 
