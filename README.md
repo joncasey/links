@@ -2,9 +2,9 @@
 ### Developer
 Name                                                                       | Version
 ----                                                                       | -------
-[git](https://github.com/git-for-windows/git/releases)                     | 2.41.0.2
-[java](https://www.oracle.com/java/technologies/downloads/)                | 20.0.1
-[nodejs](https://nodejs.org/en/download/current/)                          | 20.4.0
+[git](https://github.com/git-for-windows/git/releases)                     | 2.41.0.3
+[java](https://www.oracle.com/java/technologies/downloads/)                | 20.0.2
+[nodejs](https://nodejs.org/en/download/current/)                          | 20.5.0
 [npm](https://github.com/npm/cli)                                          | 9.8.0
 [sqlite](http://www.sqlite.org/download.html)                              | 3.42.0
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)  | 1.9.16
