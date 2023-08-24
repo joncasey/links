@@ -6,7 +6,7 @@ Name                                                                       | Ver
 [java](https://www.oracle.com/java/technologies/downloads/)                | 20.0.2
 [nodejs](https://nodejs.org/en/download/current/)                          | 20.5.1
 [npm](https://github.com/npm/cli)                                          | 9.8.0
-[sqlite](http://www.sqlite.org/download.html)                              | 3.42.0
+[sqlite](http://www.sqlite.org/download.html)                              | 3.43.0
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)  | 1.9.16
 [vscode](https://code.visualstudio.com/updates)                            | 1.81.1
 
@@ -30,7 +30,7 @@ Name                                                                       | Ver
 ### Audio
 Name                                                                       | Version
 ----                                                                       | -------
-[mp3tag](http://www.mp3tag.de/en/download.html)                            | 3.21
+[mp3tag](http://www.mp3tag.de/en/download.html)                            | 3.22
 
 ### Utility
 Name                                                                       | Version
