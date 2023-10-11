@@ -6,8 +6,8 @@ Name                                                                       | Ver
 [java](https://www.oracle.com/java/technologies/downloads/)                | 21.0.0
 [nodejs](https://nodejs.org/en/download/current/)                          | 20.8.0
 [npm](https://github.com/npm/cli)                                          | 10.2.0
-[sqlite](http://www.sqlite.org/download.html)                              | 3.43.1
-[sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)  | 1.9.17
+[sqlite](http://www.sqlite.org/download.html)                              | 3.43.2
+[sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)  | 1.9.19
 [vscode](https://code.visualstudio.com/updates)                            | 1.83.0
 
 ### Video
