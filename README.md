@@ -8,7 +8,7 @@ Name                                                                       | Ver
 [npm](https://github.com/npm/cli)                                          | 10.2.3
 [sqlite](http://www.sqlite.org/download.html)                              | 3.44.0
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)  | 1.9.19
-[vscode](https://code.visualstudio.com/updates)                            | 1.84.1
+[vscode](https://code.visualstudio.com/updates)                            | 1.84.2
 
 ### Video
 Name                                                                       | Version
