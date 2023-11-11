@@ -14,7 +14,7 @@ Name                                                                       | Ver
 Name                                                                       | Version
 ----                                                                       | -------
 [atomicparsley](https://github.com/wez/atomicparsley)                      | 20221229
-[ffmpeg](http://www.ffmpeg.org/download.html)                              | 6.0
+[ffmpeg](http://www.ffmpeg.org/download.html)                              | 6.1
 [handbrake](http://handbrake.fr/downloads.php)                             | 1.6.1
 [mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)            | 23.10
 [mkvtoolnix](https://mkvtoolnix.download/downloads.html)                   | 80.0
