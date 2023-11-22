@@ -6,7 +6,7 @@ Name                                                                       | Ver
 [java](https://www.oracle.com/java/technologies/downloads/)                | 21.0.1
 [nodejs](https://nodejs.org/en/download/current/)                          | 21.2.0
 [npm](https://github.com/npm/cli)                                          | 10.2.4
-[sqlite](http://www.sqlite.org/download.html)                              | 3.44.0
+[sqlite](http://www.sqlite.org/download.html)                              | 3.44.1
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)  | 1.9.19
 [vscode](https://code.visualstudio.com/updates)                            | 1.84.2
 
@@ -15,7 +15,7 @@ Name                                                                       | Ver
 ----                                                                       | -------
 [atomicparsley](https://github.com/wez/atomicparsley)                      | 20221229
 [ffmpeg](http://www.ffmpeg.org/download.html)                              | 6.1
-[handbrake](http://handbrake.fr/downloads.php)                             | 1.7.0
+[handbrake](http://handbrake.fr/downloads.php)                             | 1.7.1
 [mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)            | 23.10
 [mkvtoolnix](https://mkvtoolnix.download/downloads.html)                   | 80.0
 [subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)     | 4.0.2
