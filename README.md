@@ -4,7 +4,7 @@ Name                                                                       | Ver
 ----                                                                       | -------
 [git](https://github.com/git-for-windows/git/releases)                     | 2.43.0
 [java](https://www.oracle.com/java/technologies/downloads/)                | 21.0.1
-[nodejs](https://nodejs.org/en/download/current/)                          | 21.2.0
+[nodejs](https://nodejs.org/en/download/current/)                          | 21.3.0
 [npm](https://github.com/npm/cli)                                          | 10.2.4
 [sqlite](http://www.sqlite.org/download.html)                              | 3.44.2
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)  | 1.9.20
@@ -16,8 +16,8 @@ Name                                                                       | Ver
 [atomicparsley](https://github.com/wez/atomicparsley)                      | 20221229
 [ffmpeg](http://www.ffmpeg.org/download.html)                              | 6.1
 [handbrake](http://handbrake.fr/downloads.php)                             | 1.7.1
-[mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)            | 23.10
-[mkvtoolnix](https://mkvtoolnix.download/downloads.html)                   | 80.0
+[mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)            | 23.11.1
+[mkvtoolnix](https://mkvtoolnix.download/downloads.html)                   | 81.0
 [subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)     | 4.0.2
 [vlc](https://www.videolan.org/vlc/download-windows.html)                  | 3.0.20
 
@@ -25,7 +25,7 @@ Name                                                                       | Ver
 Name                                                                       | Version
 ----                                                                       | -------
 [exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                  | 12.70
-[paint.net](http://www.getpaint.net/download.html)                         | 5.0.11
+[paint.net](http://www.getpaint.net/download.html)                         | 5.0.12
 
 ### Audio
 Name                                                                       | Version
