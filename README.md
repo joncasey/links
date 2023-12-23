@@ -18,13 +18,13 @@ Name                                                                       | Ver
 [handbrake](http://handbrake.fr/downloads.php)                             | 1.7.1
 [mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)            | 23.11.1
 [mkvtoolnix](https://mkvtoolnix.download/downloads.html)                   | 81.0
-[subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)     | 4.0.2
+[subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)     | 4.0.3
 [vlc](https://www.videolan.org/vlc/download-windows.html)                  | 3.0.20
 
 ### Image
 Name                                                                       | Version
 ----                                                                       | -------
-[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                  | 12.70
+[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                  | 12.71
 [paint.net](http://www.getpaint.net/download.html)                         | 5.0.12
 
 ### Audio
