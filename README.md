@@ -30,7 +30,7 @@ Name                                                                       | Ver
 ### Audio
 Name                                                                       | Version
 ----                                                                       | -------
-[mp3tag](http://www.mp3tag.de/en/download.html)                            | 3.23
+[mp3tag](http://www.mp3tag.de/en/download.html)                            | 3.24
 
 ### Utility
 Name                                                                       | Version
@@ -39,4 +39,4 @@ Name                                                                       | Ver
 [FileZilla](https://filezilla-project.org/download.php?show_all=1)         | 3.66.4
 [ImgBurn](http://www.imgburn.com/index.php?act=download)                   | 2.5.8.0
 [Rufus](https://github.com/pbatard/rufus/releases)                         | 4.4
-[WinMerge](http://winmerge.org/downloads/)                                 | 2.16.36
+[WinMerge](http://winmerge.org/downloads/)                                 | 2.16.38
