@@ -2,7 +2,7 @@
 ### Developer
 Name                                                                       | Version
 ----                                                                       | -------
-[git](https://github.com/git-for-windows/git/releases)                     | 2.43.0
+[git](https://github.com/git-for-windows/git/releases)                     | 2.44.0
 [java](https://www.oracle.com/java/technologies/downloads/)                | 21.0.2
 [nodejs](https://nodejs.org/en/download/current/)                          | 21.6.2
 [npm](https://github.com/npm/cli)                                          | 10.4.0
