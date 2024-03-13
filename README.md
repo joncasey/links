@@ -6,9 +6,9 @@ Name                                                                       | Ver
 [java](https://www.oracle.com/java/technologies/downloads/)                | 21.0.2
 [nodejs](https://nodejs.org/en/download/current/)                          | 21.7.1
 [npm](https://github.com/npm/cli)                                          | 10.5.0
-[sqlite](http://www.sqlite.org/download.html)                              | 3.45.1
+[sqlite](http://www.sqlite.org/download.html)                              | 3.45.2
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)  | 1.9.22
-[vscode](https://code.visualstudio.com/updates)                            | 1.87.1
+[vscode](https://code.visualstudio.com/updates)                            | 1.87.2
 
 ### Video
 Name                                                                       | Version
@@ -17,7 +17,7 @@ Name                                                                       | Ver
 [ffmpeg](http://www.ffmpeg.org/download.html)                              | 6.1.1
 [handbrake](http://handbrake.fr/downloads.php)                             | 1.7.3
 [mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)            | 24.01.1
-[mkvtoolnix](https://mkvtoolnix.download/downloads.html)                   | 82.0
+[mkvtoolnix](https://mkvtoolnix.download/downloads.html)                   | 83.0
 [subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)     | 4.0.3
 [vlc](https://www.videolan.org/vlc/download-windows.html)                  | 3.0.20
 
