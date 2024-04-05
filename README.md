@@ -14,7 +14,7 @@ Name                                                                       | Ver
 Name                                                                       | Version
 ----                                                                       | -------
 [atomicparsley](https://github.com/wez/atomicparsley)                      | 20221229
-[ffmpeg](http://www.ffmpeg.org/download.html)                              | 6.1.1
+[ffmpeg](http://www.ffmpeg.org/download.html)                              | 7.0
 [handbrake](http://handbrake.fr/downloads.php)                             | 1.7.3
 [mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)            | 24.03
 [mkvtoolnix](https://mkvtoolnix.download/downloads.html)                   | 83.0
@@ -24,7 +24,7 @@ Name                                                                       | Ver
 ### Image
 Name                                                                       | Version
 ----                                                                       | -------
-[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                  | 12.81
+[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                  | 12.82
 [paint.net](http://www.getpaint.net/download.html)                         | 5.0.13
 
 ### Audio
@@ -35,7 +35,7 @@ Name                                                                       | Ver
 ### Utility
 Name                                                                       | Version
 ----                                                                       | -------
-[7zip](http://www.7-zip.org/download.html)                                 | 24.03
+[7zip](http://www.7-zip.org/download.html)                                 | 24.04
 [FileZilla](https://filezilla-project.org/download.php?show_all=1)         | 3.66.5
 [ImgBurn](http://www.imgburn.com/index.php?act=download)                   | 2.5.8.0
 [Rufus](https://github.com/pbatard/rufus/releases)                         | 4.4
