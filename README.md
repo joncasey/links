@@ -4,8 +4,8 @@ Name                                                                       | Ver
 ----                                                                       | -------
 [git](https://github.com/git-for-windows/git/releases)                     | 2.44.0
 [java](https://www.oracle.com/java/technologies/downloads/)                | 22.0.0
-[nodejs](https://nodejs.org/en/download/current/)                          | 21.7.2
-[npm](https://github.com/npm/cli)                                          | 10.5.1
+[nodejs](https://nodejs.org/en/download/current/)                          | 21.7.3
+[npm](https://github.com/npm/cli)                                          | 10.5.2
 [sqlite](http://www.sqlite.org/download.html)                              | 3.45.2
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)  | 1.9.23
 [vscode](https://code.visualstudio.com/updates)                            | 1.88.0
