@@ -18,7 +18,7 @@ Name                                                                       | Ver
 [handbrake](http://handbrake.fr/downloads.php)                             | 1.7.3
 [mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)            | 24.03
 [mkvtoolnix](https://mkvtoolnix.download/downloads.html)                   | 83.0
-[subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)     | 4.0.4
+[subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)     | 4.0.5
 [vlc](https://www.videolan.org/vlc/download-windows.html)                  | 3.0.20
 
 ### Image
