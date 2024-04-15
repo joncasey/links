@@ -6,7 +6,7 @@ Name                                                                       | Ver
 [java](https://www.oracle.com/java/technologies/downloads/)                | 22.0.0
 [nodejs](https://nodejs.org/en/download/current/)                          | 21.7.3
 [npm](https://github.com/npm/cli)                                          | 10.5.2
-[sqlite](http://www.sqlite.org/download.html)                              | 3.45.2
+[sqlite](http://www.sqlite.org/download.html)                              | 3.45.3
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)  | 1.9.23
 [vscode](https://code.visualstudio.com/updates)                            | 1.88.1
 
@@ -36,7 +36,7 @@ Name                                                                       | Ver
 Name                                                                       | Version
 ----                                                                       | -------
 [7zip](http://www.7-zip.org/download.html)                                 | 24.04
-[FileZilla](https://filezilla-project.org/download.php?show_all=1)         | 3.66.5
+[FileZilla](https://filezilla-project.org/download.php?show_all=1)         | 3.67.0
 [ImgBurn](http://www.imgburn.com/index.php?act=download)                   | 2.5.8.0
 [Rufus](https://github.com/pbatard/rufus/releases)                         | 4.4
 [WinMerge](http://winmerge.org/downloads/)                                 | 2.16.38
