@@ -5,7 +5,7 @@ Name                                                                       | Ver
 [git](https://github.com/git-for-windows/git/releases)                     | 2.46.0
 [java](https://www.oracle.com/java/technologies/downloads/)                | 22.0.2
 [nodejs](https://nodejs.org/en/download/current/)                          | 22.7.0
-[npm](https://github.com/npm/cli)                                          | 10.8.2
+[npm](https://github.com/npm/cli)                                          | 10.8.3
 [sqlite](http://www.sqlite.org/download.html)                              | 3.46.1
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)  | 1.9.25
 [vscode](https://code.visualstudio.com/updates)                            | 1.92.2
@@ -24,7 +24,7 @@ Name                                                                       | Ver
 ### Image
 Name                                                                       | Version
 ----                                                                       | -------
-[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                  | 12.93
+[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                  | 12.94
 [paint.net](http://www.getpaint.net/download.html)                         | 5.1
 
 ### Audio
