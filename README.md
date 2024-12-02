@@ -15,7 +15,7 @@ Name                                                                       | Ver
 ----                                                                       | -------
 [atomicparsley](https://github.com/wez/atomicparsley)                      | 20240608
 [ffmpeg](http://www.ffmpeg.org/download.html)                              | 7.1
-[handbrake](http://handbrake.fr/downloads.php)                             | 1.8.2
+[handbrake](http://handbrake.fr/downloads.php)                             | 1.9.0
 [mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)            | 24.11
 [mkvtoolnix](https://mkvtoolnix.download/downloads.html)                   | 88.0
 [subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)     | 4.0.8
@@ -35,7 +35,7 @@ Name                                                                       | Ver
 ### Utility
 Name                                                                       | Version
 ----                                                                       | -------
-[7zip](http://www.7-zip.org/download.html)                                 | 24.08
+[7zip](http://www.7-zip.org/download.html)                                 | 24.09
 [FileZilla](https://filezilla-project.org/download.php?show_all=1)         | 3.68.1
 [ImgBurn](http://www.imgburn.com/index.php?act=download)                   | 2.5.8.0
 [Rufus](https://github.com/pbatard/rufus/releases)                         | 4.6
