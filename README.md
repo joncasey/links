@@ -3,12 +3,12 @@
 Name                                                                       | Version
 ----                                                                       | -------
 [git](https://github.com/git-for-windows/git/releases)                     | 2.47.1
-[java](https://www.oracle.com/java/technologies/downloads/)                | 23.0.1
-[nodejs](https://nodejs.org/en/download/current/)                          | 23.6.0
+[java](https://www.oracle.com/java/technologies/downloads/)                | 23.0.2
+[nodejs](https://nodejs.org/en/download/current/)                          | 23.6.1
 [npm](https://github.com/npm/cli)                                          | 11.0.0
 [sqlite](http://www.sqlite.org/download.html)                              | 3.48.0
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)  | 1.9.28
-[vscode](https://code.visualstudio.com/updates)                            | 1.96.3
+[vscode](https://code.visualstudio.com/updates)                            | 1.96.4
 
 ### Video
 Name                                                                       | Version
@@ -24,7 +24,7 @@ Name                                                                       | Ver
 ### Image
 Name                                                                       | Version
 ----                                                                       | -------
-[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                  | 13.12
+[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                  | 13.14
 [paint.net](http://www.getpaint.net/download.html)                         | 5.1.2
 
 ### Audio
