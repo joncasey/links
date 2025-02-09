@@ -17,7 +17,7 @@ Name                                                                       | Ver
 [ffmpeg](http://www.ffmpeg.org/download.html)                              | 7.1
 [handbrake](http://handbrake.fr/downloads.php)                             | 1.9.0
 [mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)            | 24.12
-[mkvtoolnix](https://mkvtoolnix.download/downloads.html)                   | 89.0
+[mkvtoolnix](https://mkvtoolnix.download/downloads.html)                   | 90.0
 [subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)     | 4.0.11
 [vlc](https://www.videolan.org/vlc/download-windows.html)                  | 3.0.21
 
@@ -25,7 +25,7 @@ Name                                                                       | Ver
 Name                                                                       | Version
 ----                                                                       | -------
 [exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                  | 13.18
-[paint.net](http://www.getpaint.net/download.html)                         | 5.1.2
+[paint.net](http://www.getpaint.net/download.html)                         | 5.1.3
 
 ### Audio
 Name                                                                       | Version
