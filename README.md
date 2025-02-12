@@ -8,14 +8,14 @@ Name                                                                       | Ver
 [npm](https://github.com/npm/cli)                                          | 11.1.0
 [sqlite](http://www.sqlite.org/download.html)                              | 3.49.0
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)  | 1.9.28
-[vscode](https://code.visualstudio.com/updates)                            | 1.97.0
+[vscode](https://code.visualstudio.com/updates)                            | 1.97.01
 
 ### Video
 Name                                                                       | Version
 ----                                                                       | -------
 [atomicparsley](https://github.com/wez/atomicparsley)                      | 20240608
 [ffmpeg](http://www.ffmpeg.org/download.html)                              | 7.1
-[handbrake](http://handbrake.fr/downloads.php)                             | 1.9.0
+[handbrake](http://handbrake.fr/downloads.php)                             | 1.9.1
 [mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)            | 24.12
 [mkvtoolnix](https://mkvtoolnix.download/downloads.html)                   | 90.0
 [subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)     | 4.0.11
@@ -24,7 +24,7 @@ Name                                                                       | Ver
 ### Image
 Name                                                                       | Version
 ----                                                                       | -------
-[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                  | 13.18
+[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                  | 13.19
 [paint.net](http://www.getpaint.net/download.html)                         | 5.1.3
 
 ### Audio
