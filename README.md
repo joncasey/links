@@ -16,7 +16,7 @@ Name                                                                       | Ver
 [atomicparsley](https://github.com/wez/atomicparsley)                      | 20240608
 [ffmpeg](http://www.ffmpeg.org/download.html)                              | 7.1.1
 [handbrake](http://handbrake.fr/downloads.php)                             | 1.9.2
-[mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)            | 25.03
+[mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)            | 25.04
 [mkvtoolnix](https://mkvtoolnix.download/downloads.html)                   | 92.0
 [subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)     | 4.0.12
 [vlc](https://www.videolan.org/vlc/download-windows.html)                  | 3.0.21
