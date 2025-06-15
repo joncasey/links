@@ -7,7 +7,7 @@ Name                                                                       | Ver
 [nodejs](https://nodejs.org/en/download/current/)                          | 24.2.0
 [npm](https://github.com/npm/cli)                                          | 11.4.2
 [sqlite](http://www.sqlite.org/download.html)                              | 3.50.1
-[sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)  | 1.9.28
+[sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)  | 1.9.29
 [vscode](https://code.visualstudio.com/updates)                            | 1.101.0
 
 ### Video
@@ -17,7 +17,7 @@ Name                                                                       | Ver
 [ffmpeg](http://www.ffmpeg.org/download.html)                              | 7.1.1
 [handbrake](http://handbrake.fr/downloads.php)                             | 1.9.2
 [mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)            | 25.04
-[mkvtoolnix](https://mkvtoolnix.download/downloads.html)                   | 92.0
+[mkvtoolnix](https://mkvtoolnix.download/downloads.html)                   | 93.0
 [subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)     | 4.0.12
 [vlc](https://www.videolan.org/vlc/download-windows.html)                  | 3.0.21
 
