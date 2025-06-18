@@ -2,7 +2,7 @@
 ### Developer
 Name                                                                       | Version
 ----                                                                       | -------
-[git](https://github.com/git-for-windows/git/releases)                     | 2.49.0
+[git](https://github.com/git-for-windows/git/releases)                     | 2.50.0
 [java](https://www.oracle.com/java/technologies/downloads/)                | 24.0.1
 [nodejs](https://nodejs.org/en/download/current/)                          | 24.2.0
 [npm](https://github.com/npm/cli)                                          | 11.4.2
@@ -38,5 +38,5 @@ Name                                                                       | Ver
 [7zip](http://www.7-zip.org/download.html)                                 | 24.09
 [FileZilla](https://filezilla-project.org/download.php?show_all=1)         | 3.69.1
 [ImgBurn](http://www.imgburn.com/index.php?act=download)                   | 2.5.8.0
-[Rufus](https://github.com/pbatard/rufus/releases)                         | 4.8
+[Rufus](https://github.com/pbatard/rufus/releases)                         | 4.9
 [WinMerge](http://winmerge.org/downloads/)                                 | 2.16.48
