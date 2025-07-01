@@ -7,7 +7,7 @@ Name                                                                       | Ver
 [nodejs](https://nodejs.org/en/download/current/)                          | 24.3.0
 [npm](https://github.com/npm/cli)                                          | 11.4.2
 [sqlite](http://www.sqlite.org/download.html)                              | 3.50.2
-[sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)  | 1.9.29
+[sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)  | 1.9.30
 [vscode](https://code.visualstudio.com/updates)                            | 1.101.2
 
 ### Video
