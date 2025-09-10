@@ -24,7 +24,7 @@ Name                                                                       | Ver
 ### Image
 Name                                                                       | Version
 ----                                                                       | -------
-[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                  | 13.35
+[exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/)                  | 13.36
 [paint.net](http://www.getpaint.net/download.html)                         | 5.1.8
 
 ### Audio
