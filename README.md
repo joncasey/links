@@ -4,7 +4,7 @@ Name                                                                       | Ver
 ----                                                                       | -------
 [git](https://github.com/git-for-windows/git/releases)                     | 2.51.2
 [java](https://www.oracle.com/java/technologies/downloads/)                | 25.0.0
-[nodejs](https://nodejs.org/en/download/current/)                          | 25.2.0
+[nodejs](https://nodejs.org/en/download/current/)                          | 25.2.1
 [npm](https://github.com/npm/cli)                                          | 11.6.2
 [sqlite](http://www.sqlite.org/download.html)                              | 3.51.0
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)  | 1.9.31
@@ -30,7 +30,7 @@ Name                                                                       | Ver
 ### Audio
 Name                                                                       | Version
 ----                                                                       | -------
-[mp3tag](http://www.mp3tag.de/en/download.html)                            | 3.31
+[mp3tag](http://www.mp3tag.de/en/download.html)                            | 3.32
 
 ### Utility
 Name                                                                       | Version
