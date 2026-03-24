@@ -4,7 +4,7 @@ Name                                                                       | Ver
 ----                                                                       | -------
 [git](https://github.com/git-for-windows/git/releases)                     | 2.53.0.2
 [java](https://www.oracle.com/java/technologies/downloads/)                | 25.0.0
-[nodejs](https://nodejs.org/en/download/current/)                          | 25.8.1
+[nodejs](https://nodejs.org/en/download/current/)                          | 25.8.2
 [npm](https://github.com/npm/cli)                                          | 11.12.0
 [sqlite](http://www.sqlite.org/download.html)                              | 3.51.0
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)  | 1.9.31
@@ -15,7 +15,7 @@ Name                                                                       | Ver
 ----                                                                       | -------
 [atomicparsley](https://github.com/wez/atomicparsley)                      | 20240608
 [ffmpeg](http://www.ffmpeg.org/download.html)                              | 8.1.0
-[handbrake](http://handbrake.fr/downloads.php)                             | 1.10.2
+[handbrake](http://handbrake.fr/downloads.php)                             | 1.11.1
 [mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)            | 26.01
 [mkvtoolnix](https://mkvtoolnix.download/downloads.html)                   | 97.0
 [subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)     | 4.0.12
