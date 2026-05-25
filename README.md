@@ -17,7 +17,7 @@ Name                                                                       | Ver
 [ffmpeg](http://www.ffmpeg.org/download.html)                              | 8.1.1
 [handbrake](http://handbrake.fr/downloads.php)                             | 1.11.1
 [mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)            | 26.05
-[mkvtoolnix](https://mkvtoolnix.download/downloads.html)                   | 98.0
+[mkvtoolnix](https://mkvtoolnix.download/downloads.html)                   | 99.0
 [subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)     | 4.0.12
 [vlc](https://www.videolan.org/vlc/download-windows.html)                  | 3.0.21
 
