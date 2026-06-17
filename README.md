@@ -5,16 +5,16 @@ Name                                                                       | Ver
 [git](https://github.com/git-for-windows/git/releases)                     | 2.54.0
 [java](https://www.oracle.com/java/technologies/downloads/)                | 25.0.0
 [nodejs](https://nodejs.org/en/download/current/)                          | 26.3.0
-[npm](https://github.com/npm/cli)                                          | 11.16.0
+[npm](https://github.com/npm/cli)                                          | 11.17.0
 [sqlite](http://www.sqlite.org/download.html)                              | 3.51.0
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)  | 1.9.31
-[vscode](https://code.visualstudio.com/updates)                            | 1.124.0
+[vscode](https://code.visualstudio.com/updates)                            | 1.124.2
 
 ### Video
 Name                                                                       | Version
 ----                                                                       | -------
 [atomicparsley](https://github.com/wez/atomicparsley)                      | 20240608
-[ffmpeg](http://www.ffmpeg.org/download.html)                              | 8.1.1
+[ffmpeg](http://www.ffmpeg.org/download.html)                              | 8.1.2
 [handbrake](http://handbrake.fr/downloads.php)                             | 1.11.2
 [mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)            | 26.05
 [mkvtoolnix](https://mkvtoolnix.download/downloads.html)                   | 99.0
