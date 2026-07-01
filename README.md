@@ -8,7 +8,7 @@ Name                                                                       | Ver
 [npm](https://github.com/npm/cli)                                          | 11.18.0
 [sqlite](http://www.sqlite.org/download.html)                              | 3.51.0
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)  | 1.9.31
-[vscode](https://code.visualstudio.com/updates)                            | 1.126.0
+[vscode](https://code.visualstudio.com/updates)                            | 1.127.0
 
 ### Video
 Name                                                                       | Version
@@ -30,7 +30,7 @@ Name                                                                       | Ver
 ### Audio
 Name                                                                       | Version
 ----                                                                       | -------
-[mp3tag](http://www.mp3tag.de/en/download.html)                            | 3.35.0
+[mp3tag](http://www.mp3tag.de/en/download.html)                            | 3.35.1
 
 ### Utility
 Name                                                                       | Version
