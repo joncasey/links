@@ -8,13 +8,13 @@ Name                                                                       | Ver
 [npm](https://github.com/npm/cli)                                          | 12.0.1
 [sqlite](http://www.sqlite.org/download.html)                              | 3.53.3
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)  | 1.9.37
-[vscode](https://code.visualstudio.com/updates)                            | 1.132.0
+[vscode](https://code.visualstudio.com/updates)                            | 1.133.0
 
 ### Video
 Name                                                                       | Version
 ----                                                                       | -------
 [atomicparsley](https://github.com/wez/atomicparsley)                      | 20240608
-[ffmpeg](http://www.ffmpeg.org/download.html)                              | 9.0.0
+[ffmpeg](http://www.ffmpeg.org/download.html)                              | 9.0.1
 [handbrake](http://handbrake.fr/downloads.php)                             | 1.11.2
 [mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)            | 26.05
 [mkvtoolnix](https://mkvtoolnix.download/downloads.html)                   | 100.0
