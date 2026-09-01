@@ -30,7 +30,7 @@ Name                                                                       | Ver
 ### Audio
 Name                                                                       | Version
 ----                                                                       | -------
-[mp3tag](http://www.mp3tag.de/en/download.html)                            | 3.35.1
+[mp3tag](http://www.mp3tag.de/en/download.html)                            | 3.36.1
 
 ### Utility
 Name                                                                       | Version
