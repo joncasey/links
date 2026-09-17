@@ -3,12 +3,12 @@
 Name                                                                       | Version
 ----                                                                       | -------
 [git](https://github.com/git-for-windows/git/releases)                     | 2.55.0.5
-[java](https://www.oracle.com/java/technologies/downloads/)                | 26.0.2
-[nodejs](https://nodejs.org/en/download/current/)                          | 26.8.2
+[java](https://www.oracle.com/java/technologies/downloads/)                | 27.0.0
+[nodejs](https://nodejs.org/en/download/current/)                          | 26.9.0
 [npm](https://github.com/npm/cli)                                          | 12.0.1
 [sqlite](http://www.sqlite.org/download.html)                              | 3.53.4
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)  | 1.9.38
-[vscode](https://code.visualstudio.com/updates)                            | 1.137.0
+[vscode](https://code.visualstudio.com/updates)                            | 1.138.0
 
 ### Video
 Name                                                                       | Version
