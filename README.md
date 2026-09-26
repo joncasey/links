@@ -4,17 +4,17 @@ Name                                                                       | Ver
 ----                                                                       | -------
 [git](https://github.com/git-for-windows/git/releases)                     | 2.55.0.5
 [java](https://www.oracle.com/java/technologies/downloads/)                | 27.0.0
-[nodejs](https://nodejs.org/en/download/current/)                          | 26.9.0
+[nodejs](https://nodejs.org/en/download/current/)                          | 26.10.0
 [npm](https://github.com/npm/cli)                                          | 12.0.1
 [sqlite](http://www.sqlite.org/download.html)                              | 3.53.4
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)  | 1.9.38
-[vscode](https://code.visualstudio.com/updates)                            | 1.138.0
+[vscode](https://code.visualstudio.com/updates)                            | 1.139.1
 
 ### Video
 Name                                                                       | Version
 ----                                                                       | -------
 [atomicparsley](https://github.com/wez/atomicparsley)                      | 20240608
-[ffmpeg](http://www.ffmpeg.org/download.html)                              | 9.0.1
+[ffmpeg](http://www.ffmpeg.org/download.html)                              | 9.0.2
 [handbrake](http://handbrake.fr/downloads.php)                             | 1.11.2
 [mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)            | 26.05
 [mkvtoolnix](https://mkvtoolnix.download/downloads.html)                   | 102.0
