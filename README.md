@@ -4,11 +4,11 @@ Name                                                                       | Ver
 ----                                                                       | -------
 [git](https://github.com/git-for-windows/git/releases)                     | 2.56.0.2
 [java](https://www.oracle.com/java/technologies/downloads/)                | 27.0.0
-[nodejs](https://nodejs.org/en/download/current/)                          | 26.11.1
+[nodejs](https://nodejs.org/en/download/current/)                          | 26.12.0
 [npm](https://github.com/npm/cli)                                          | 12.0.1
 [sqlite](http://www.sqlite.org/download.html)                              | 3.54.0
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)  | 1.9.38
-[vscode](https://code.visualstudio.com/updates)                            | 1.141.0
+[vscode](https://code.visualstudio.com/updates)                            | 1.141.2
 
 ### Video
 Name                                                                       | Version
