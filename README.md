@@ -3,10 +3,10 @@
 Name                                                                       | Version
 ----                                                                       | -------
 [git](https://github.com/git-for-windows/git/releases)                     | 2.56.0.2
-[java](https://www.oracle.com/java/technologies/downloads/)                | 27.0.0
-[nodejs](https://nodejs.org/en/download/current/)                          | 26.12.0
+[java](https://www.oracle.com/java/technologies/downloads/)                | 27.0.1
+[nodejs](https://nodejs.org/en/download/current/)                          | 26.12.1
 [npm](https://github.com/npm/cli)                                          | 12.0.1
-[sqlite](http://www.sqlite.org/download.html)                              | 3.54.0
+[sqlite](http://www.sqlite.org/download.html)                              | 3.54.1
 [sqlitespy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)  | 1.9.38
 [vscode](https://code.visualstudio.com/updates)                            | 1.142.0
 
@@ -17,8 +17,8 @@ Name                                                                       | Ver
 [ffmpeg](http://www.ffmpeg.org/download.html)                              | 9.0.2
 [handbrake](http://handbrake.fr/downloads.php)                             | 1.11.2
 [mediainfo](http://mediaarea.net/us/MediaInfo/Download/Windows)            | 26.10
-[mkvtoolnix](https://mkvtoolnix.download/downloads.html)                   | 102.0
-[subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)     | 4.0.12
+[mkvtoolnix](https://mkvtoolnix.download/downloads.html)                   | 103.0
+[subtitle-edit](https://github.com/SubtitleEdit/subtitleedit/releases)     | 5.3.0
 [vlc](https://www.videolan.org/vlc/download-windows.html)                  | 3.0.21
 
 ### Image
@@ -35,7 +35,7 @@ Name                                                                       | Ver
 ### Utility
 Name                                                                       | Version
 ----                                                                       | -------
-[7zip](http://www.7-zip.org/download.html)                                 | 26.04
+[7zip](http://www.7-zip.org/download.html)                                 | 26.05
 [FileZilla](https://filezilla-project.org/download.php?show_all=1)         | 3.69.1
 [ImgBurn](http://www.imgburn.com/index.php?act=download)                   | 2.5.8.0
 [Rufus](https://github.com/pbatard/rufus/releases)                         | 4.15
